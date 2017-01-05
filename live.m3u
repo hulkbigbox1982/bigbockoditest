@@ -1,2786 +1,2786 @@
 #EXTM3U
 #EXTINF:-1,*-*-*-*-*CSAT_TNTSAT*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/4022.ts
+http://62.4.21.70:8000/live/akdim/akdim/4022.m3u8
 #EXTINF:-1,TF1_HD
-http://62.4.21.70:8000/live/akdim/akdim/58.ts
+http://62.4.21.70:8000/live/akdim/akdim/58.m3u8
 #EXTINF:-1,FRANCE_2_HD
-http://62.4.21.70:8000/live/akdim/akdim/137.ts
+http://62.4.21.70:8000/live/akdim/akdim/137.m3u8
 #EXTINF:-1,FRANCE_3_HD
-http://62.4.21.70:8000/live/akdim/akdim/61.ts
+http://62.4.21.70:8000/live/akdim/akdim/61.m3u8
 #EXTINF:-1,FRANCE 4
-http://62.4.21.70:8000/live/akdim/akdim/60.ts
+http://62.4.21.70:8000/live/akdim/akdim/60.m3u8
 #EXTINF:-1,FRANCE 5
-http://62.4.21.70:8000/live/akdim/akdim/59.ts
+http://62.4.21.70:8000/live/akdim/akdim/59.m3u8
 #EXTINF:-1,France O
-http://62.4.21.70:8000/live/akdim/akdim/345.ts
+http://62.4.21.70:8000/live/akdim/akdim/345.m3u8
 #EXTINF:-1,M6_HD
-http://62.4.21.70:8000/live/akdim/akdim/138.ts
+http://62.4.21.70:8000/live/akdim/akdim/138.m3u8
 #EXTINF:-1,W9HD
-http://62.4.21.70:8000/live/akdim/akdim/337.ts
+http://62.4.21.70:8000/live/akdim/akdim/337.m3u8
 #EXTINF:-1,Cherie_25
-http://62.4.21.70:8000/live/akdim/akdim/133.ts
+http://62.4.21.70:8000/live/akdim/akdim/133.m3u8
 #EXTINF:-1,FR_C8
-http://62.4.21.70:8000/live/akdim/akdim/3474.ts
+http://62.4.21.70:8000/live/akdim/akdim/3474.m3u8
 #EXTINF:-1,RTL_9HD
-http://62.4.21.70:8000/live/akdim/akdim/2566.ts
+http://62.4.21.70:8000/live/akdim/akdim/2566.m3u8
 #EXTINF:-1,6TER_HD
-http://62.4.21.70:8000/live/akdim/akdim/673.ts
+http://62.4.21.70:8000/live/akdim/akdim/673.m3u8
 #EXTINF:-1,NT1
-http://62.4.21.70:8000/live/akdim/akdim/2698.ts
+http://62.4.21.70:8000/live/akdim/akdim/2698.m3u8
 #EXTINF:-1,Numero_23
-http://62.4.21.70:8000/live/akdim/akdim/2683.ts
+http://62.4.21.70:8000/live/akdim/akdim/2683.m3u8
 #EXTINF:-1,D17
-http://62.4.21.70:8000/live/akdim/akdim/2550.ts
+http://62.4.21.70:8000/live/akdim/akdim/2550.m3u8
 #EXTINF:-1,*-*-*-*-*CSAT_INFO*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/4026.ts
+http://62.4.21.70:8000/live/akdim/akdim/4026.m3u8
 #EXTINF:-1,TV5
-http://62.4.21.70:8000/live/akdim/akdim/2611.ts
+http://62.4.21.70:8000/live/akdim/akdim/2611.m3u8
 #EXTINF:-1,I_Tele
-http://62.4.21.70:8000/live/akdim/akdim/336.ts
+http://62.4.21.70:8000/live/akdim/akdim/336.m3u8
 #EXTINF:-1,LCI
-http://62.4.21.70:8000/live/akdim/akdim/334.ts
+http://62.4.21.70:8000/live/akdim/akdim/334.m3u8
 #EXTINF:-1,EURONEWS FR
-http://62.4.21.70:8000/live/akdim/akdim/674.ts
+http://62.4.21.70:8000/live/akdim/akdim/674.m3u8
 #EXTINF:-1,France24 FR
-http://62.4.21.70:8000/live/akdim/akdim/403.ts
+http://62.4.21.70:8000/live/akdim/akdim/403.m3u8
 #EXTINF:-1,BFM_TV
-http://62.4.21.70:8000/live/akdim/akdim/2541.ts
+http://62.4.21.70:8000/live/akdim/akdim/2541.m3u8
 #EXTINF:-1,Arte
-http://62.4.21.70:8000/live/akdim/akdim/338.ts
+http://62.4.21.70:8000/live/akdim/akdim/338.m3u8
 #EXTINF:-1,*-*-*-*-*CSAT_CINEMA*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/4023.ts
+http://62.4.21.70:8000/live/akdim/akdim/4023.m3u8
 #EXTINF:-1,CANAL+_HD
-http://62.4.21.70:8000/live/akdim/akdim/52.ts
+http://62.4.21.70:8000/live/akdim/akdim/52.m3u8
 #EXTINF:-1,CANAL+ DECALE
-http://62.4.21.70:8000/live/akdim/akdim/54.ts
+http://62.4.21.70:8000/live/akdim/akdim/54.m3u8
 #EXTINF:-1,CANAL+_FAMILY_HD
-http://62.4.21.70:8000/live/akdim/akdim/53.ts
+http://62.4.21.70:8000/live/akdim/akdim/53.m3u8
 #EXTINF:-1,CANAL+ CINEMA
-http://62.4.21.70:8000/live/akdim/akdim/56.ts
+http://62.4.21.70:8000/live/akdim/akdim/56.m3u8
 #EXTINF:-1,CANAL+SERIE
-http://62.4.21.70:8000/live/akdim/akdim/55.ts
+http://62.4.21.70:8000/live/akdim/akdim/55.m3u8
 #EXTINF:-1,CANAL+ SPORT
-http://62.4.21.70:8000/live/akdim/akdim/57.ts
+http://62.4.21.70:8000/live/akdim/akdim/57.m3u8
 #EXTINF:-1,CINE PREMIER
-http://62.4.21.70:8000/live/akdim/akdim/135.ts
+http://62.4.21.70:8000/live/akdim/akdim/135.m3u8
 #EXTINF:-1,CINE EMOTION
-http://62.4.21.70:8000/live/akdim/akdim/136.ts
+http://62.4.21.70:8000/live/akdim/akdim/136.m3u8
 #EXTINF:-1,CINE+ FRISSON FR
-http://62.4.21.70:8000/live/akdim/akdim/64.ts
+http://62.4.21.70:8000/live/akdim/akdim/64.m3u8
 #EXTINF:-1,CINE+ FAMIZ
-http://62.4.21.70:8000/live/akdim/akdim/65.ts
+http://62.4.21.70:8000/live/akdim/akdim/65.m3u8
 #EXTINF:-1,CINE+ CLASSIC FR
-http://62.4.21.70:8000/live/akdim/akdim/67.ts
+http://62.4.21.70:8000/live/akdim/akdim/67.m3u8
 #EXTINF:-1,Ocs_Geants
-http://62.4.21.70:8000/live/akdim/akdim/2682.ts
+http://62.4.21.70:8000/live/akdim/akdim/2682.m3u8
 #EXTINF:-1,OCS_MAX
-http://62.4.21.70:8000/live/akdim/akdim/2693.ts
+http://62.4.21.70:8000/live/akdim/akdim/2693.m3u8
 #EXTINF:-1,OCS_CITY
-http://62.4.21.70:8000/live/akdim/akdim/134.ts
+http://62.4.21.70:8000/live/akdim/akdim/134.m3u8
 #EXTINF:-1,OCS_Choc
-http://62.4.21.70:8000/live/akdim/akdim/2561.ts
+http://62.4.21.70:8000/live/akdim/akdim/2561.m3u8
 #EXTINF:-1,TEVA
-http://62.4.21.70:8000/live/akdim/akdim/2637.ts
+http://62.4.21.70:8000/live/akdim/akdim/2637.m3u8
 #EXTINF:-1,Comedie
-http://62.4.21.70:8000/live/akdim/akdim/2549.ts
+http://62.4.21.70:8000/live/akdim/akdim/2549.m3u8
 #EXTINF:-1,*-*-*-*-*CSAT_ENTERTAINMENT*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/4025.ts
+http://62.4.21.70:8000/live/akdim/akdim/4025.m3u8
 #EXTINF:-1,FR: Action
-http://62.4.21.70:8000/live/akdim/akdim/611.ts
+http://62.4.21.70:8000/live/akdim/akdim/611.m3u8
 #EXTINF:-1,FR_AB1
-http://62.4.21.70:8000/live/akdim/akdim/2537.ts
+http://62.4.21.70:8000/live/akdim/akdim/2537.m3u8
 #EXTINF:-1,13_Eme_Rue
-http://62.4.21.70:8000/live/akdim/akdim/2548.ts
+http://62.4.21.70:8000/live/akdim/akdim/2548.m3u8
 #EXTINF:-1,FR.Cine_Polar_HD
-http://62.4.21.70:8000/live/akdim/akdim/2685.ts
+http://62.4.21.70:8000/live/akdim/akdim/2685.m3u8
 #EXTINF:-1,Paris_Premiere
-http://62.4.21.70:8000/live/akdim/akdim/2562.ts
+http://62.4.21.70:8000/live/akdim/akdim/2562.m3u8
 #EXTINF:-1,Serie_Club
-http://62.4.21.70:8000/live/akdim/akdim/2568.ts
+http://62.4.21.70:8000/live/akdim/akdim/2568.m3u8
 #EXTINF:-1,FR_TV_BREIZH
-http://62.4.21.70:8000/live/akdim/akdim/3475.ts
+http://62.4.21.70:8000/live/akdim/akdim/3475.m3u8
 #EXTINF:-1,SyFy
-http://62.4.21.70:8000/live/akdim/akdim/2569.ts
+http://62.4.21.70:8000/live/akdim/akdim/2569.m3u8
 #EXTINF:-1,HD1
-http://62.4.21.70:8000/live/akdim/akdim/2538.ts
+http://62.4.21.70:8000/live/akdim/akdim/2538.m3u8
 #EXTINF:-1,NRJ_12
-http://62.4.21.70:8000/live/akdim/akdim/2560.ts
+http://62.4.21.70:8000/live/akdim/akdim/2560.m3u8
 #EXTINF:-1,TMC
-http://62.4.21.70:8000/live/akdim/akdim/2570.ts
+http://62.4.21.70:8000/live/akdim/akdim/2570.m3u8
 #EXTINF:-1,FR:_TVA_Montreal
-http://62.4.21.70:8000/live/akdim/akdim/3351.ts
+http://62.4.21.70:8000/live/akdim/akdim/3351.m3u8
 #EXTINF:-1,FR.Paramount_Channel_HD
-http://62.4.21.70:8000/live/akdim/akdim/2690.ts
+http://62.4.21.70:8000/live/akdim/akdim/2690.m3u8
 #EXTINF:-1,FR.OL_TV
-http://62.4.21.70:8000/live/akdim/akdim/2691.ts
+http://62.4.21.70:8000/live/akdim/akdim/2691.m3u8
 #EXTINF:-1,FR:_IL_TV
-http://62.4.21.70:8000/live/akdim/akdim/3360.ts
+http://62.4.21.70:8000/live/akdim/akdim/3360.m3u8
 #EXTINF:-1,FR:_Leman_Bleu
-http://62.4.21.70:8000/live/akdim/akdim/3359.ts
+http://62.4.21.70:8000/live/akdim/akdim/3359.m3u8
 #EXTINF:-1,FR:_Mirabelle_TV
-http://62.4.21.70:8000/live/akdim/akdim/3358.ts
+http://62.4.21.70:8000/live/akdim/akdim/3358.m3u8
 #EXTINF:-1,FR:_Monaco_Info
-http://62.4.21.70:8000/live/akdim/akdim/3357.ts
+http://62.4.21.70:8000/live/akdim/akdim/3357.m3u8
 #EXTINF:-1,FR:_Oui_FM_TV
-http://62.4.21.70:8000/live/akdim/akdim/3353.ts
+http://62.4.21.70:8000/live/akdim/akdim/3353.m3u8
 #EXTINF:-1,FR:_Trek_HD
-http://62.4.21.70:8000/live/akdim/akdim/3352.ts
+http://62.4.21.70:8000/live/akdim/akdim/3352.m3u8
 #EXTINF:-1,FR:_Weo
-http://62.4.21.70:8000/live/akdim/akdim/3350.ts
+http://62.4.21.70:8000/live/akdim/akdim/3350.m3u8
 #EXTINF:-1,RMC_Decouverte
-http://62.4.21.70:8000/live/akdim/akdim/2565.ts
+http://62.4.21.70:8000/live/akdim/akdim/2565.m3u8
 #EXTINF:-1,*-*-*-*-*CSAT_DECOUVERTES*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/4027.ts
+http://62.4.21.70:8000/live/akdim/akdim/4027.m3u8
 #EXTINF:-1,Planete+
-http://62.4.21.70:8000/live/akdim/akdim/2563.ts
+http://62.4.21.70:8000/live/akdim/akdim/2563.m3u8
 #EXTINF:-1,Planet+ci
-http://62.4.21.70:8000/live/akdim/akdim/2564.ts
+http://62.4.21.70:8000/live/akdim/akdim/2564.m3u8
 #EXTINF:-1,FR.Planet_A&E_HD
-http://62.4.21.70:8000/live/akdim/akdim/2689.ts
+http://62.4.21.70:8000/live/akdim/akdim/2689.m3u8
 #EXTINF:-1,NATIONAL GEO
-http://62.4.21.70:8000/live/akdim/akdim/139.ts
+http://62.4.21.70:8000/live/akdim/akdim/139.m3u8
 #EXTINF:-1,National_Geo_Wild_FR
-http://62.4.21.70:8000/live/akdim/akdim/2559.ts
+http://62.4.21.70:8000/live/akdim/akdim/2559.m3u8
 #EXTINF:-1,Science_et_Vie
-http://62.4.21.70:8000/live/akdim/akdim/2567.ts
+http://62.4.21.70:8000/live/akdim/akdim/2567.m3u8
 #EXTINF:-1,DISCOVERY_HD
-http://62.4.21.70:8000/live/akdim/akdim/63.ts
+http://62.4.21.70:8000/live/akdim/akdim/63.m3u8
 #EXTINF:-1,DISCOVERY_SCIENCE_FR
-http://62.4.21.70:8000/live/akdim/akdim/62.ts
+http://62.4.21.70:8000/live/akdim/akdim/62.m3u8
 #EXTINF:-1,Chasse et peche
-http://62.4.21.70:8000/live/akdim/akdim/471.ts
+http://62.4.21.70:8000/live/akdim/akdim/471.m3u8
 #EXTINF:-1,USHUAIA_HD
-http://62.4.21.70:8000/live/akdim/akdim/372.ts
+http://62.4.21.70:8000/live/akdim/akdim/372.m3u8
 #EXTINF:-1,Voyage_HD
-http://62.4.21.70:8000/live/akdim/akdim/2571.ts
+http://62.4.21.70:8000/live/akdim/akdim/2571.m3u8
 #EXTINF:-1,FR ANIMAUX
-http://62.4.21.70:8000/live/akdim/akdim/478.ts
+http://62.4.21.70:8000/live/akdim/akdim/478.m3u8
 #EXTINF:-1,FR.Histoire_HD
-http://62.4.21.70:8000/live/akdim/akdim/2686.ts
+http://62.4.21.70:8000/live/akdim/akdim/2686.m3u8
 #EXTINF:-1,Equidia_Live
-http://62.4.21.70:8000/live/akdim/akdim/2553.ts
+http://62.4.21.70:8000/live/akdim/akdim/2553.m3u8
 #EXTINF:-1,Equidia
-http://62.4.21.70:8000/live/akdim/akdim/2552.ts
+http://62.4.21.70:8000/live/akdim/akdim/2552.m3u8
 #EXTINF:-1,*-*-*-*-*CSAT_SPORT*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/4028.ts
+http://62.4.21.70:8000/live/akdim/akdim/4028.m3u8
 #EXTINF:-1,BEINSPORT_1_HD
-http://62.4.21.70:8000/live/akdim/akdim/49.ts
+http://62.4.21.70:8000/live/akdim/akdim/49.m3u8
 #EXTINF:-1,BEINSPORT_2_HD
-http://62.4.21.70:8000/live/akdim/akdim/50.ts
+http://62.4.21.70:8000/live/akdim/akdim/50.m3u8
 #EXTINF:-1,BEINSPORT_3 _HD
-http://62.4.21.70:8000/live/akdim/akdim/51.ts
+http://62.4.21.70:8000/live/akdim/akdim/51.m3u8
 #EXTINF:-1,FR:_Bein_Sports_1_HD
-http://62.4.21.70:8000/live/akdim/akdim/3370.ts
+http://62.4.21.70:8000/live/akdim/akdim/3370.m3u8
 #EXTINF:-1,FR:_Bein_Sports_2_HD
-http://62.4.21.70:8000/live/akdim/akdim/3369.ts
+http://62.4.21.70:8000/live/akdim/akdim/3369.m3u8
 #EXTINF:-1,FR:_Bein_Sports_3_HD
-http://62.4.21.70:8000/live/akdim/akdim/3368.ts
+http://62.4.21.70:8000/live/akdim/akdim/3368.m3u8
 #EXTINF:-1,BEIN_SPORT_MAX_4
-http://62.4.21.70:8000/live/akdim/akdim/3900.ts
+http://62.4.21.70:8000/live/akdim/akdim/3900.m3u8
 #EXTINF:-1,BEIN_SPORT_MAX_5
-http://62.4.21.70:8000/live/akdim/akdim/3901.ts
+http://62.4.21.70:8000/live/akdim/akdim/3901.m3u8
 #EXTINF:-1,BEIN_SPORT_MAX_6
-http://62.4.21.70:8000/live/akdim/akdim/3902.ts
+http://62.4.21.70:8000/live/akdim/akdim/3902.m3u8
 #EXTINF:-1,BEIN_SPORT_MAX_7
-http://62.4.21.70:8000/live/akdim/akdim/3903.ts
+http://62.4.21.70:8000/live/akdim/akdim/3903.m3u8
 #EXTINF:-1,BEIN_SPORT_MAX_8
-http://62.4.21.70:8000/live/akdim/akdim/3904.ts
+http://62.4.21.70:8000/live/akdim/akdim/3904.m3u8
 #EXTINF:-1,BEIN_SPORT_MAX_9
-http://62.4.21.70:8000/live/akdim/akdim/4040.ts
+http://62.4.21.70:8000/live/akdim/akdim/4040.m3u8
 #EXTINF:-1,BEIN_SPORT_MAX_10
-http://62.4.21.70:8000/live/akdim/akdim/4041.ts
+http://62.4.21.70:8000/live/akdim/akdim/4041.m3u8
 #EXTINF:-1,SFR_SPORT_1_HD
-http://62.4.21.70:8000/live/akdim/akdim/2803.ts
+http://62.4.21.70:8000/live/akdim/akdim/2803.m3u8
 #EXTINF:-1,SFR_SPORT_2_HD
-http://62.4.21.70:8000/live/akdim/akdim/2804.ts
+http://62.4.21.70:8000/live/akdim/akdim/2804.m3u8
 #EXTINF:-1,SFR_SPORT_3_HD
-http://62.4.21.70:8000/live/akdim/akdim/2880.ts
+http://62.4.21.70:8000/live/akdim/akdim/2880.m3u8
 #EXTINF:-1,INFOSPORT+
-http://62.4.21.70:8000/live/akdim/akdim/1809.ts
+http://62.4.21.70:8000/live/akdim/akdim/1809.m3u8
 #EXTINF:-1,Foot+
-http://62.4.21.70:8000/live/akdim/akdim/2556.ts
+http://62.4.21.70:8000/live/akdim/akdim/2556.m3u8
 #EXTINF:-1,FR.Foot_24
-http://62.4.21.70:8000/live/akdim/akdim/2684.ts
+http://62.4.21.70:8000/live/akdim/akdim/2684.m3u8
 #EXTINF:-1,EUROSPORT_1
-http://62.4.21.70:8000/live/akdim/akdim/377.ts
+http://62.4.21.70:8000/live/akdim/akdim/377.m3u8
 #EXTINF:-1,EUROSPORT_2
-http://62.4.21.70:8000/live/akdim/akdim/2555.ts
+http://62.4.21.70:8000/live/akdim/akdim/2555.m3u8
 #EXTINF:-1,Equipe21
-http://62.4.21.70:8000/live/akdim/akdim/2554.ts
+http://62.4.21.70:8000/live/akdim/akdim/2554.m3u8
 #EXTINF:-1,*-*-*-*-*CSAT_JEUNESSE*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/4029.ts
+http://62.4.21.70:8000/live/akdim/akdim/4029.m3u8
 #EXTINF:-1,PIWI
-http://62.4.21.70:8000/live/akdim/akdim/374.ts
+http://62.4.21.70:8000/live/akdim/akdim/374.m3u8
 #EXTINF:-1,Tiji
-http://62.4.21.70:8000/live/akdim/akdim/2680.ts
+http://62.4.21.70:8000/live/akdim/akdim/2680.m3u8
 #EXTINF:-1,teletoon
-http://62.4.21.70:8000/live/akdim/akdim/2681.ts
+http://62.4.21.70:8000/live/akdim/akdim/2681.m3u8
 #EXTINF:-1,Gulli
-http://62.4.21.70:8000/live/akdim/akdim/335.ts
+http://62.4.21.70:8000/live/akdim/akdim/335.m3u8
 #EXTINF:-1,Cartoon Network
-http://62.4.21.70:8000/live/akdim/akdim/373.ts
+http://62.4.21.70:8000/live/akdim/akdim/373.m3u8
 #EXTINF:-1,FR:_Canal_J
-http://62.4.21.70:8000/live/akdim/akdim/2636.ts
+http://62.4.21.70:8000/live/akdim/akdim/2636.m3u8
 #EXTINF:-1,DISNEY CHANNEL
-http://62.4.21.70:8000/live/akdim/akdim/376.ts
+http://62.4.21.70:8000/live/akdim/akdim/376.m3u8
 #EXTINF:-1,FR:_Disney_XD
-http://62.4.21.70:8000/live/akdim/akdim/2635.ts
+http://62.4.21.70:8000/live/akdim/akdim/2635.m3u8
 #EXTINF:-1,FR:_Disney_Cinemagic
-http://62.4.21.70:8000/live/akdim/akdim/2634.ts
+http://62.4.21.70:8000/live/akdim/akdim/2634.m3u8
 #EXTINF:-1,FR: Disney Junior
-http://62.4.21.70:8000/live/akdim/akdim/472.ts
+http://62.4.21.70:8000/live/akdim/akdim/472.m3u8
 #EXTINF:-1,FR:_Nickelodeon_Junior
-http://62.4.21.70:8000/live/akdim/akdim/3354.ts
+http://62.4.21.70:8000/live/akdim/akdim/3354.m3u8
 #EXTINF:-1,FR:_Nickelodeon
-http://62.4.21.70:8000/live/akdim/akdim/3356.ts
+http://62.4.21.70:8000/live/akdim/akdim/3356.m3u8
 #EXTINF:-1,FR:_Zouzou
-http://62.4.21.70:8000/live/akdim/akdim/3349.ts
+http://62.4.21.70:8000/live/akdim/akdim/3349.m3u8
 #EXTINF:-1,MANGAS
-http://62.4.21.70:8000/live/akdim/akdim/375.ts
+http://62.4.21.70:8000/live/akdim/akdim/375.m3u8
 #EXTINF:-1,BOOMERANG
-http://62.4.21.70:8000/live/akdim/akdim/378.ts
+http://62.4.21.70:8000/live/akdim/akdim/378.m3u8
 #EXTINF:-1,Game_One
-http://62.4.21.70:8000/live/akdim/akdim/2557.ts
+http://62.4.21.70:8000/live/akdim/akdim/2557.m3u8
 #EXTINF:-1,*-*-*-*-*CSAT_MUSIQUE*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/4030.ts
+http://62.4.21.70:8000/live/akdim/akdim/4030.m3u8
 #EXTINF:-1,FR_M6_Music
-http://62.4.21.70:8000/live/akdim/akdim/4032.ts
+http://62.4.21.70:8000/live/akdim/akdim/4032.m3u8
 #EXTINF:-1,FR_MTV_HITS
-http://62.4.21.70:8000/live/akdim/akdim/4031.ts
+http://62.4.21.70:8000/live/akdim/akdim/4031.m3u8
 #EXTINF:-1,*-*-*-*-*CSAT_PPV_VOD*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/4033.ts
+http://62.4.21.70:8000/live/akdim/akdim/4033.m3u8
 #EXTINF:-1,A.LA.CARTE.1
-http://62.4.21.70:8000/live/akdim/akdim/544.ts
+http://62.4.21.70:8000/live/akdim/akdim/544.m3u8
 #EXTINF:-1,A.LA.CARTE.2
-http://62.4.21.70:8000/live/akdim/akdim/545.ts
+http://62.4.21.70:8000/live/akdim/akdim/545.m3u8
 #EXTINF:-1,A.LA.CARTE.3
-http://62.4.21.70:8000/live/akdim/akdim/546.ts
+http://62.4.21.70:8000/live/akdim/akdim/546.m3u8
 #EXTINF:-1,A.LA.CARTE.4
-http://62.4.21.70:8000/live/akdim/akdim/539.ts
+http://62.4.21.70:8000/live/akdim/akdim/539.m3u8
 #EXTINF:-1,A_LA_CARTE_5
-http://62.4.21.70:8000/live/akdim/akdim/2612.ts
+http://62.4.21.70:8000/live/akdim/akdim/2612.m3u8
 #EXTINF:-1,A_LA_CARTE_6
-http://62.4.21.70:8000/live/akdim/akdim/2613.ts
+http://62.4.21.70:8000/live/akdim/akdim/2613.m3u8
 #EXTINF:-1,A_LA_CARTE_7
-http://62.4.21.70:8000/live/akdim/akdim/2653.ts
+http://62.4.21.70:8000/live/akdim/akdim/2653.m3u8
 #EXTINF:-1,A_LA_CARTE_8
-http://62.4.21.70:8000/live/akdim/akdim/2654.ts
+http://62.4.21.70:8000/live/akdim/akdim/2654.m3u8
 #EXTINF:-1,A_LA_CARTE_9
-http://62.4.21.70:8000/live/akdim/akdim/2655.ts
+http://62.4.21.70:8000/live/akdim/akdim/2655.m3u8
 #EXTINF:-1,A_LA_CARTE_10
-http://62.4.21.70:8000/live/akdim/akdim/2644.ts
+http://62.4.21.70:8000/live/akdim/akdim/2644.m3u8
 #EXTINF:-1,A_LA_CARTE_11
-http://62.4.21.70:8000/live/akdim/akdim/2645.ts
+http://62.4.21.70:8000/live/akdim/akdim/2645.m3u8
 #EXTINF:-1,A_LA_CARTE_12
-http://62.4.21.70:8000/live/akdim/akdim/2646.ts
+http://62.4.21.70:8000/live/akdim/akdim/2646.m3u8
 #EXTINF:-1,A_LA_CARTE_13
-http://62.4.21.70:8000/live/akdim/akdim/2647.ts
+http://62.4.21.70:8000/live/akdim/akdim/2647.m3u8
 #EXTINF:-1,A_LA_CARTE_14
-http://62.4.21.70:8000/live/akdim/akdim/2657.ts
+http://62.4.21.70:8000/live/akdim/akdim/2657.m3u8
 #EXTINF:-1,A_LA_CARTE_15
-http://62.4.21.70:8000/live/akdim/akdim/2656.ts
+http://62.4.21.70:8000/live/akdim/akdim/2656.m3u8
 #EXTINF:-1,A_LA_CARTE_16
-http://62.4.21.70:8000/live/akdim/akdim/2648.ts
+http://62.4.21.70:8000/live/akdim/akdim/2648.m3u8
 #EXTINF:-1,A_LA_CARTE_17
-http://62.4.21.70:8000/live/akdim/akdim/2649.ts
+http://62.4.21.70:8000/live/akdim/akdim/2649.m3u8
 #EXTINF:-1,A_LA_CARTE_18
-http://62.4.21.70:8000/live/akdim/akdim/2650.ts
+http://62.4.21.70:8000/live/akdim/akdim/2650.m3u8
 #EXTINF:-1,A_LA_CARTE_19
-http://62.4.21.70:8000/live/akdim/akdim/2651.ts
+http://62.4.21.70:8000/live/akdim/akdim/2651.m3u8
 #EXTINF:-1,A_LA_CARTE_20
-http://62.4.21.70:8000/live/akdim/akdim/2652.ts
+http://62.4.21.70:8000/live/akdim/akdim/2652.m3u8
 #EXTINF:-1,_FR:_CANALPLAY_1
-http://62.4.21.70:8000/live/akdim/akdim/4042.ts
+http://62.4.21.70:8000/live/akdim/akdim/4042.m3u8
 #EXTINF:-1,_FR:_CANALPLAY_2
-http://62.4.21.70:8000/live/akdim/akdim/4043.ts
+http://62.4.21.70:8000/live/akdim/akdim/4043.m3u8
 #EXTINF:-1,_FR:_CANALPLAY_3
-http://62.4.21.70:8000/live/akdim/akdim/4044.ts
+http://62.4.21.70:8000/live/akdim/akdim/4044.m3u8
 #EXTINF:-1,_FR:_CANALPLAY_4
-http://62.4.21.70:8000/live/akdim/akdim/4045.ts
+http://62.4.21.70:8000/live/akdim/akdim/4045.m3u8
 #EXTINF:-1,_FR:_CANALPLAY_5
-http://62.4.21.70:8000/live/akdim/akdim/4046.ts
+http://62.4.21.70:8000/live/akdim/akdim/4046.m3u8
 #EXTINF:-1,_FR:_CANALPLAY_6
-http://62.4.21.70:8000/live/akdim/akdim/4047.ts
+http://62.4.21.70:8000/live/akdim/akdim/4047.m3u8
 #EXTINF:-1,_FR:_CANALPLAY_7
-http://62.4.21.70:8000/live/akdim/akdim/4048.ts
+http://62.4.21.70:8000/live/akdim/akdim/4048.m3u8
 #EXTINF:-1,_FR:_CANALPLAY_8
-http://62.4.21.70:8000/live/akdim/akdim/4049.ts
+http://62.4.21.70:8000/live/akdim/akdim/4049.m3u8
 #EXTINF:-1,_FR:_CANALPLAY_9
-http://62.4.21.70:8000/live/akdim/akdim/4050.ts
+http://62.4.21.70:8000/live/akdim/akdim/4050.m3u8
 #EXTINF:-1,_FR:_CANALPLAY_10
-http://62.4.21.70:8000/live/akdim/akdim/4051.ts
+http://62.4.21.70:8000/live/akdim/akdim/4051.m3u8
 #EXTINF:-1,_FR:_CANALPLAY_11
-http://62.4.21.70:8000/live/akdim/akdim/4052.ts
+http://62.4.21.70:8000/live/akdim/akdim/4052.m3u8
 #EXTINF:-1,_FR:_CANAL_PLAY_12
-http://62.4.21.70:8000/live/akdim/akdim/4053.ts
+http://62.4.21.70:8000/live/akdim/akdim/4053.m3u8
 #EXTINF:-1,_FR:_CANAL_PLAY_13
-http://62.4.21.70:8000/live/akdim/akdim/4054.ts
+http://62.4.21.70:8000/live/akdim/akdim/4054.m3u8
 #EXTINF:-1,_FR:_CANAL_PLAY_14
-http://62.4.21.70:8000/live/akdim/akdim/4055.ts
+http://62.4.21.70:8000/live/akdim/akdim/4055.m3u8
 #EXTINF:-1,_FR:_CANAL_PLAY_15
-http://62.4.21.70:8000/live/akdim/akdim/4056.ts
+http://62.4.21.70:8000/live/akdim/akdim/4056.m3u8
 #EXTINF:-1,_FR:_CANAL_PLAY_16
-http://62.4.21.70:8000/live/akdim/akdim/4057.ts
+http://62.4.21.70:8000/live/akdim/akdim/4057.m3u8
 #EXTINF:-1,=====_Swiss_======
-http://62.4.21.70:8000/live/akdim/akdim/3380.ts
+http://62.4.21.70:8000/live/akdim/akdim/3380.m3u8
 #EXTINF:-1,RTS_UN
-http://62.4.21.70:8000/live/akdim/akdim/2864.ts
+http://62.4.21.70:8000/live/akdim/akdim/2864.m3u8
 #EXTINF:-1,RTS_DEUX
-http://62.4.21.70:8000/live/akdim/akdim/2865.ts
+http://62.4.21.70:8000/live/akdim/akdim/2865.m3u8
 #EXTINF:-1,CH:_SRF_1_HD
-http://62.4.21.70:8000/live/akdim/akdim/3381.ts
+http://62.4.21.70:8000/live/akdim/akdim/3381.m3u8
 #EXTINF:-1,CH:_SRF_2_HD
-http://62.4.21.70:8000/live/akdim/akdim/3382.ts
+http://62.4.21.70:8000/live/akdim/akdim/3382.m3u8
 #EXTINF:-1,====BELGIQUE_TELESAT====
-http://62.4.21.70:8000/live/akdim/akdim/1741.ts
+http://62.4.21.70:8000/live/akdim/akdim/1741.m3u8
 #EXTINF:-1,LA UNE HD
-http://62.4.21.70:8000/live/akdim/akdim/541.ts
+http://62.4.21.70:8000/live/akdim/akdim/541.m3u8
 #EXTINF:-1,LA.DEUX
-http://62.4.21.70:8000/live/akdim/akdim/542.ts
+http://62.4.21.70:8000/live/akdim/akdim/542.m3u8
 #EXTINF:-1,LA.TROIS
-http://62.4.21.70:8000/live/akdim/akdim/543.ts
+http://62.4.21.70:8000/live/akdim/akdim/543.m3u8
 #EXTINF:-1,RTL_TVI
-http://62.4.21.70:8000/live/akdim/akdim/2639.ts
+http://62.4.21.70:8000/live/akdim/akdim/2639.m3u8
 #EXTINF:-1,BE_Vtm_Kazoom_-_Belgium
-http://62.4.21.70:8000/live/akdim/akdim/3461.ts
+http://62.4.21.70:8000/live/akdim/akdim/3461.m3u8
 #EXTINF:-1,BE_Vtm_-_Belgium
-http://62.4.21.70:8000/live/akdim/akdim/3462.ts
+http://62.4.21.70:8000/live/akdim/akdim/3462.m3u8
 #EXTINF:-1,BE_Vitaya_-_Belgium
-http://62.4.21.70:8000/live/akdim/akdim/3463.ts
+http://62.4.21.70:8000/live/akdim/akdim/3463.m3u8
 #EXTINF:-1,BE_Vijf_TV_-_Belgium
-http://62.4.21.70:8000/live/akdim/akdim/3464.ts
+http://62.4.21.70:8000/live/akdim/akdim/3464.m3u8
 #EXTINF:-1,BE_Vier_-_Belgium
-http://62.4.21.70:8000/live/akdim/akdim/3465.ts
+http://62.4.21.70:8000/live/akdim/akdim/3465.m3u8
 #EXTINF:-1,BE_Rtl_Tvi_HD_-_Belgium
-http://62.4.21.70:8000/live/akdim/akdim/3466.ts
+http://62.4.21.70:8000/live/akdim/akdim/3466.m3u8
 #EXTINF:-1,BE_Plug_Rtl_-_Belgium
-http://62.4.21.70:8000/live/akdim/akdim/3467.ts
+http://62.4.21.70:8000/live/akdim/akdim/3467.m3u8
 #EXTINF:-1,BE_Ket_op_2_-_Belgium
-http://62.4.21.70:8000/live/akdim/akdim/3468.ts
+http://62.4.21.70:8000/live/akdim/akdim/3468.m3u8
 #EXTINF:-1,BE_Een_-_Belgium
-http://62.4.21.70:8000/live/akdim/akdim/3469.ts
+http://62.4.21.70:8000/live/akdim/akdim/3469.m3u8
 #EXTINF:-1,BE_Club_Rtl_-_Belgium
-http://62.4.21.70:8000/live/akdim/akdim/3470.ts
+http://62.4.21.70:8000/live/akdim/akdim/3470.m3u8
 #EXTINF:-1,BE_Canvas_-_Belgium
-http://62.4.21.70:8000/live/akdim/akdim/3471.ts
+http://62.4.21.70:8000/live/akdim/akdim/3471.m3u8
 #EXTINF:-1,BE_2Be_-_Belgium
-http://62.4.21.70:8000/live/akdim/akdim/3472.ts
+http://62.4.21.70:8000/live/akdim/akdim/3472.m3u8
 #EXTINF:-1,BE:Club_RTL
-http://62.4.21.70:8000/live/akdim/akdim/2642.ts
+http://62.4.21.70:8000/live/akdim/akdim/2642.m3u8
 #EXTINF:-1,BE:Plug_RTL
-http://62.4.21.70:8000/live/akdim/akdim/2643.ts
+http://62.4.21.70:8000/live/akdim/akdim/2643.m3u8
 #EXTINF:-1,BE:RTL_TVI
-http://62.4.21.70:8000/live/akdim/akdim/2641.ts
+http://62.4.21.70:8000/live/akdim/akdim/2641.m3u8
 #EXTINF:-1,=====_Austira_======
-http://62.4.21.70:8000/live/akdim/akdim/3376.ts
+http://62.4.21.70:8000/live/akdim/akdim/3376.m3u8
 #EXTINF:-1,AU:_ORF_1_HD
-http://62.4.21.70:8000/live/akdim/akdim/3377.ts
+http://62.4.21.70:8000/live/akdim/akdim/3377.m3u8
 #EXTINF:-1,AU:_ORF_2_HD
-http://62.4.21.70:8000/live/akdim/akdim/3378.ts
+http://62.4.21.70:8000/live/akdim/akdim/3378.m3u8
 #EXTINF:-1,AU:_ORF_Sport _HD
-http://62.4.21.70:8000/live/akdim/akdim/3379.ts
+http://62.4.21.70:8000/live/akdim/akdim/3379.m3u8
 #EXTINF:-1,====BEINSPORT====
-http://62.4.21.70:8000/live/akdim/akdim/1739.ts
+http://62.4.21.70:8000/live/akdim/akdim/1739.m3u8
 #EXTINF:-1,*-*-*-*-*BEIN_MOVIES*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/4036.ts
+http://62.4.21.70:8000/live/akdim/akdim/4036.m3u8
 #EXTINF:-1,BEIN_MOVIES_1_HD
-http://62.4.21.70:8000/live/akdim/akdim/2773.ts
+http://62.4.21.70:8000/live/akdim/akdim/2773.m3u8
 #EXTINF:-1,BEIN_MOVIES_2_HD
-http://62.4.21.70:8000/live/akdim/akdim/2776.ts
+http://62.4.21.70:8000/live/akdim/akdim/2776.m3u8
 #EXTINF:-1,BEIN_MOVIES_3_HD
-http://62.4.21.70:8000/live/akdim/akdim/2777.ts
+http://62.4.21.70:8000/live/akdim/akdim/2777.m3u8
 #EXTINF:-1,BEIN_MOVIES_4_HD
-http://62.4.21.70:8000/live/akdim/akdim/3385.ts
+http://62.4.21.70:8000/live/akdim/akdim/3385.m3u8
 #EXTINF:-1,BEIN FOX FAMILY MOVIES
-http://62.4.21.70:8000/live/akdim/akdim/2543.ts
+http://62.4.21.70:8000/live/akdim/akdim/2543.m3u8
 #EXTINF:-1,BEIN AMC MOVIES
-http://62.4.21.70:8000/live/akdim/akdim/2893.ts
+http://62.4.21.70:8000/live/akdim/akdim/2893.m3u8
 #EXTINF:-1,BEIN_SERIE_ONE_HD
-http://62.4.21.70:8000/live/akdim/akdim/2778.ts
+http://62.4.21.70:8000/live/akdim/akdim/2778.m3u8
 #EXTINF:-1,BEIN DISCOVERY LIFE
-http://62.4.21.70:8000/live/akdim/akdim/2892.ts
+http://62.4.21.70:8000/live/akdim/akdim/2892.m3u8
 #EXTINF:-1,BEIN_FATAFEAT_HD
-http://62.4.21.70:8000/live/akdim/akdim/2780.ts
+http://62.4.21.70:8000/live/akdim/akdim/2780.m3u8
 #EXTINF:-1,BEIN STAR WORLD
-http://62.4.21.70:8000/live/akdim/akdim/2866.ts
+http://62.4.21.70:8000/live/akdim/akdim/2866.m3u8
 #EXTINF:-1,BEIN_DREAMWORKS_HD
-http://62.4.21.70:8000/live/akdim/akdim/2779.ts
+http://62.4.21.70:8000/live/akdim/akdim/2779.m3u8
 #EXTINF:-1,*-*-*-*-*BEIN_KIDS*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/4035.ts
+http://62.4.21.70:8000/live/akdim/akdim/4035.m3u8
 #EXTINF:-1,BEIN_JEEM
-http://62.4.21.70:8000/live/akdim/akdim/2775.ts
+http://62.4.21.70:8000/live/akdim/akdim/2775.m3u8
 #EXTINF:-1,BEIN_BARRAEM
-http://62.4.21.70:8000/live/akdim/akdim/2774.ts
+http://62.4.21.70:8000/live/akdim/akdim/2774.m3u8
 #EXTINF:-1,*-*-*-*-*BEIN_SPORT_HD*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/4037.ts
+http://62.4.21.70:8000/live/akdim/akdim/4037.m3u8
 #EXTINF:-1,BEINSPORT_NEWS_ARABIC
-http://62.4.21.70:8000/live/akdim/akdim/685.ts
+http://62.4.21.70:8000/live/akdim/akdim/685.m3u8
 #EXTINF:-1,BEIN_SPORTS_1_HD_AR
-http://62.4.21.70:8000/live/akdim/akdim/186.ts
+http://62.4.21.70:8000/live/akdim/akdim/186.m3u8
 #EXTINF:-1,BEIN_SPORTS_1_HDS
-http://62.4.21.70:8000/live/akdim/akdim/2788.ts
+http://62.4.21.70:8000/live/akdim/akdim/2788.m3u8
 #EXTINF:-1,BEIN_SPORTS_2_HD_AR
-http://62.4.21.70:8000/live/akdim/akdim/188.ts
+http://62.4.21.70:8000/live/akdim/akdim/188.m3u8
 #EXTINF:-1,BEIN_SPORTS_2_HDS
-http://62.4.21.70:8000/live/akdim/akdim/2789.ts
+http://62.4.21.70:8000/live/akdim/akdim/2789.m3u8
 #EXTINF:-1,BEIN_SPORTS_3_HD_AR
-http://62.4.21.70:8000/live/akdim/akdim/189.ts
+http://62.4.21.70:8000/live/akdim/akdim/189.m3u8
 #EXTINF:-1,BEIN_SPORTS_3_HDS
-http://62.4.21.70:8000/live/akdim/akdim/2790.ts
+http://62.4.21.70:8000/live/akdim/akdim/2790.m3u8
 #EXTINF:-1,BEIN_SPORTS_4_HD_AR
-http://62.4.21.70:8000/live/akdim/akdim/266.ts
+http://62.4.21.70:8000/live/akdim/akdim/266.m3u8
 #EXTINF:-1,BEIN_SPORTS_4_HDS
-http://62.4.21.70:8000/live/akdim/akdim/2839.ts
+http://62.4.21.70:8000/live/akdim/akdim/2839.m3u8
 #EXTINF:-1,BEIN_SPORTS_5_HD_AR
-http://62.4.21.70:8000/live/akdim/akdim/267.ts
+http://62.4.21.70:8000/live/akdim/akdim/267.m3u8
 #EXTINF:-1,BEIN_SPORTS_5_HDS
-http://62.4.21.70:8000/live/akdim/akdim/2840.ts
+http://62.4.21.70:8000/live/akdim/akdim/2840.m3u8
 #EXTINF:-1,BEIN_SPORTS_6_HD_AR
-http://62.4.21.70:8000/live/akdim/akdim/268.ts
+http://62.4.21.70:8000/live/akdim/akdim/268.m3u8
 #EXTINF:-1,BEIN_SPORTS_6_HDS
-http://62.4.21.70:8000/live/akdim/akdim/2841.ts
+http://62.4.21.70:8000/live/akdim/akdim/2841.m3u8
 #EXTINF:-1,BEIN_SPORTS_HD7_AR
-http://62.4.21.70:8000/live/akdim/akdim/7.ts
+http://62.4.21.70:8000/live/akdim/akdim/7.m3u8
 #EXTINF:-1,BEIN_SPORTS_7_HDS
-http://62.4.21.70:8000/live/akdim/akdim/2889.ts
+http://62.4.21.70:8000/live/akdim/akdim/2889.m3u8
 #EXTINF:-1,BEIN_SPORTS_HD8_AR
-http://62.4.21.70:8000/live/akdim/akdim/8.ts
+http://62.4.21.70:8000/live/akdim/akdim/8.m3u8
 #EXTINF:-1,BEIN_SPORTS_8_HDS
-http://62.4.21.70:8000/live/akdim/akdim/2890.ts
+http://62.4.21.70:8000/live/akdim/akdim/2890.m3u8
 #EXTINF:-1,BEIN_SPORTS_HD9_AR
-http://62.4.21.70:8000/live/akdim/akdim/9.ts
+http://62.4.21.70:8000/live/akdim/akdim/9.m3u8
 #EXTINF:-1,BEIN_SPORTS_9_HDS
-http://62.4.21.70:8000/live/akdim/akdim/2891.ts
+http://62.4.21.70:8000/live/akdim/akdim/2891.m3u8
 #EXTINF:-1,BEIN_SPORTS_HD10_AR
-http://62.4.21.70:8000/live/akdim/akdim/10.ts
+http://62.4.21.70:8000/live/akdim/akdim/10.m3u8
 #EXTINF:-1,*-*-*-*-*BACKUP_BEIN_SPORT*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/4091.ts
+http://62.4.21.70:8000/live/akdim/akdim/4091.m3u8
 #EXTINF:-1,_AR:_BEIN_SPORT_NEW_HD
-http://62.4.21.70:8000/live/akdim/akdim/4070.ts
+http://62.4.21.70:8000/live/akdim/akdim/4070.m3u8
 #EXTINF:-1,AR:_beIN_SPORTS_1_HD
-http://62.4.21.70:8000/live/akdim/akdim/4081.ts
+http://62.4.21.70:8000/live/akdim/akdim/4081.m3u8
 #EXTINF:-1,AR:_BEIN_SPORTS_2_HD
-http://62.4.21.70:8000/live/akdim/akdim/4082.ts
+http://62.4.21.70:8000/live/akdim/akdim/4082.m3u8
 #EXTINF:-1,AR:_BEIN_SPORTS_3_HD
-http://62.4.21.70:8000/live/akdim/akdim/4083.ts
+http://62.4.21.70:8000/live/akdim/akdim/4083.m3u8
 #EXTINF:-1,AR:_BEIN_SPORTS_4_HD
-http://62.4.21.70:8000/live/akdim/akdim/4084.ts
+http://62.4.21.70:8000/live/akdim/akdim/4084.m3u8
 #EXTINF:-1,AR:_BEIN_SPORTS_5_HD
-http://62.4.21.70:8000/live/akdim/akdim/4085.ts
+http://62.4.21.70:8000/live/akdim/akdim/4085.m3u8
 #EXTINF:-1,AR:_BEIN_SPORTS_6_HD
-http://62.4.21.70:8000/live/akdim/akdim/4086.ts
+http://62.4.21.70:8000/live/akdim/akdim/4086.m3u8
 #EXTINF:-1,AR:_BEIN_SPORTS_7_HD
-http://62.4.21.70:8000/live/akdim/akdim/4087.ts
+http://62.4.21.70:8000/live/akdim/akdim/4087.m3u8
 #EXTINF:-1,AR:_BEIN_SPORTS_8_HD
-http://62.4.21.70:8000/live/akdim/akdim/4088.ts
+http://62.4.21.70:8000/live/akdim/akdim/4088.m3u8
 #EXTINF:-1,AR:_BEIN_SPORTS_9_HD
-http://62.4.21.70:8000/live/akdim/akdim/4089.ts
+http://62.4.21.70:8000/live/akdim/akdim/4089.m3u8
 #EXTINF:-1,AR:_BEIN_SPORTS_10_HD
-http://62.4.21.70:8000/live/akdim/akdim/4090.ts
+http://62.4.21.70:8000/live/akdim/akdim/4090.m3u8
 #EXTINF:-1,_AR:_BEINSPORT_1_HD
-http://62.4.21.70:8000/live/akdim/akdim/4071.ts
+http://62.4.21.70:8000/live/akdim/akdim/4071.m3u8
 #EXTINF:-1,_AR:_BEINSPORT_2_HD
-http://62.4.21.70:8000/live/akdim/akdim/4072.ts
+http://62.4.21.70:8000/live/akdim/akdim/4072.m3u8
 #EXTINF:-1,_AR:_BEINSPORT_3_HD
-http://62.4.21.70:8000/live/akdim/akdim/4073.ts
+http://62.4.21.70:8000/live/akdim/akdim/4073.m3u8
 #EXTINF:-1,_AR:_BEINSPORT_4_HD
-http://62.4.21.70:8000/live/akdim/akdim/4074.ts
+http://62.4.21.70:8000/live/akdim/akdim/4074.m3u8
 #EXTINF:-1,_AR:_BEINSPORT_5_HD
-http://62.4.21.70:8000/live/akdim/akdim/4075.ts
+http://62.4.21.70:8000/live/akdim/akdim/4075.m3u8
 #EXTINF:-1,_AR:_BEINSPORT_6_HD
-http://62.4.21.70:8000/live/akdim/akdim/4076.ts
+http://62.4.21.70:8000/live/akdim/akdim/4076.m3u8
 #EXTINF:-1,_AR:_BEINSPORT_7_HD
-http://62.4.21.70:8000/live/akdim/akdim/4077.ts
+http://62.4.21.70:8000/live/akdim/akdim/4077.m3u8
 #EXTINF:-1,_AR:_BEINSPORT_8_HD
-http://62.4.21.70:8000/live/akdim/akdim/4078.ts
+http://62.4.21.70:8000/live/akdim/akdim/4078.m3u8
 #EXTINF:-1,_AR:_BEINSPORT_9_HD
-http://62.4.21.70:8000/live/akdim/akdim/4079.ts
+http://62.4.21.70:8000/live/akdim/akdim/4079.m3u8
 #EXTINF:-1,_AR:_BEINSPORT_10_HD
-http://62.4.21.70:8000/live/akdim/akdim/4080.ts
+http://62.4.21.70:8000/live/akdim/akdim/4080.m3u8
 #EXTINF:-1,*-*-*-*-*BEIN_SPORT_H265*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/4039.ts
+http://62.4.21.70:8000/live/akdim/akdim/4039.m3u8
 #EXTINF:-1,BEIN SPORTS 1 HEVC H.265
-http://62.4.21.70:8000/live/akdim/akdim/3705.ts
+http://62.4.21.70:8000/live/akdim/akdim/3705.m3u8
 #EXTINF:-1,BEIN SPORTS 2 HEVC H.265
-http://62.4.21.70:8000/live/akdim/akdim/3706.ts
+http://62.4.21.70:8000/live/akdim/akdim/3706.m3u8
 #EXTINF:-1,BEIN SPORTS 3 HEVC H.265
-http://62.4.21.70:8000/live/akdim/akdim/3707.ts
+http://62.4.21.70:8000/live/akdim/akdim/3707.m3u8
 #EXTINF:-1,BEIN SPORTS 4 HEVC H.265
-http://62.4.21.70:8000/live/akdim/akdim/3708.ts
+http://62.4.21.70:8000/live/akdim/akdim/3708.m3u8
 #EXTINF:-1,BEIN SPORTS 5 HEVC H.265
-http://62.4.21.70:8000/live/akdim/akdim/3709.ts
+http://62.4.21.70:8000/live/akdim/akdim/3709.m3u8
 #EXTINF:-1,*-*-*-*-*BEIN_SPORT_SD*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/4038.ts
+http://62.4.21.70:8000/live/akdim/akdim/4038.m3u8
 #EXTINF:-1,BEIN_SPORTS
-http://62.4.21.70:8000/live/akdim/akdim/3882.ts
+http://62.4.21.70:8000/live/akdim/akdim/3882.m3u8
 #EXTINF:-1,BEINSPORT1_SD
-http://62.4.21.70:8000/live/akdim/akdim/388.ts
+http://62.4.21.70:8000/live/akdim/akdim/388.m3u8
 #EXTINF:-1,BEINSPORT_2SD
-http://62.4.21.70:8000/live/akdim/akdim/389.ts
+http://62.4.21.70:8000/live/akdim/akdim/389.m3u8
 #EXTINF:-1,BEINSPORT_3SD
-http://62.4.21.70:8000/live/akdim/akdim/390.ts
+http://62.4.21.70:8000/live/akdim/akdim/390.m3u8
 #EXTINF:-1,BEINSPORT_4SD
-http://62.4.21.70:8000/live/akdim/akdim/391.ts
+http://62.4.21.70:8000/live/akdim/akdim/391.m3u8
 #EXTINF:-1,BEINSPORT_5SD
-http://62.4.21.70:8000/live/akdim/akdim/392.ts
+http://62.4.21.70:8000/live/akdim/akdim/392.m3u8
 #EXTINF:-1,BEINSPORT_6SD
-http://62.4.21.70:8000/live/akdim/akdim/393.ts
+http://62.4.21.70:8000/live/akdim/akdim/393.m3u8
 #EXTINF:-1,BEINSPORT_7SD
-http://62.4.21.70:8000/live/akdim/akdim/394.ts
+http://62.4.21.70:8000/live/akdim/akdim/394.m3u8
 #EXTINF:-1,BEINSPORT_8SD
-http://62.4.21.70:8000/live/akdim/akdim/395.ts
+http://62.4.21.70:8000/live/akdim/akdim/395.m3u8
 #EXTINF:-1,BEINSPORT9_SD
-http://62.4.21.70:8000/live/akdim/akdim/396.ts
+http://62.4.21.70:8000/live/akdim/akdim/396.m3u8
 #EXTINF:-1,BEINSPORT_10SD
-http://62.4.21.70:8000/live/akdim/akdim/397.ts
+http://62.4.21.70:8000/live/akdim/akdim/397.m3u8
 #EXTINF:-1,*-*-*-*-*ABU_DHABI_SPORTS*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/4061.ts
+http://62.4.21.70:8000/live/akdim/akdim/4061.m3u8
 #EXTINF:-1,Ad_Sport_1
-http://62.4.21.70:8000/live/akdim/akdim/3881.ts
+http://62.4.21.70:8000/live/akdim/akdim/3881.m3u8
 #EXTINF:-1,Ad_Sport_2
-http://62.4.21.70:8000/live/akdim/akdim/3880.ts
+http://62.4.21.70:8000/live/akdim/akdim/3880.m3u8
 #EXTINF:-1,Ad_Sport_4
-http://62.4.21.70:8000/live/akdim/akdim/3879.ts
+http://62.4.21.70:8000/live/akdim/akdim/3879.m3u8
 #EXTINF:-1,Ad_Sport_5
-http://62.4.21.70:8000/live/akdim/akdim/3878.ts
+http://62.4.21.70:8000/live/akdim/akdim/3878.m3u8
 #EXTINF:-1,Ad_Sport_3
-http://62.4.21.70:8000/live/akdim/akdim/3877.ts
+http://62.4.21.70:8000/live/akdim/akdim/3877.m3u8
 #EXTINF:-1,AR_MBC_PRO_SPORT_1_HD
-http://62.4.21.70:8000/live/akdim/akdim/2534.ts
+http://62.4.21.70:8000/live/akdim/akdim/2534.m3u8
 #EXTINF:-1,AR_MBC_PRO_SPORT_ 2_HD
-http://62.4.21.70:8000/live/akdim/akdim/2535.ts
+http://62.4.21.70:8000/live/akdim/akdim/2535.m3u8
 #EXTINF:-1,AR_MBC_PRO_SPORT_3_HD
-http://62.4.21.70:8000/live/akdim/akdim/2536.ts
+http://62.4.21.70:8000/live/akdim/akdim/2536.m3u8
 #EXTINF:-1,===OSN===
-http://62.4.21.70:8000/live/akdim/akdim/3476.ts
+http://62.4.21.70:8000/live/akdim/akdim/3476.m3u8
 #EXTINF:-1,OSN_Abu-Dhabi-Sports_3HD
-http://62.4.21.70:8000/live/akdim/akdim/2546.ts
+http://62.4.21.70:8000/live/akdim/akdim/2546.m3u8
 #EXTINF:-1,OSN_Discovery_Science_HD
-http://62.4.21.70:8000/live/akdim/akdim/2544.ts
+http://62.4.21.70:8000/live/akdim/akdim/2544.m3u8
 #EXTINF:-1,OSN_Animal-Planet_HD
-http://62.4.21.70:8000/live/akdim/akdim/2545.ts
+http://62.4.21.70:8000/live/akdim/akdim/2545.m3u8
 #EXTINF:-1,OSN_MBC_P_Variety_HD
-http://62.4.21.70:8000/live/akdim/akdim/2547.ts
+http://62.4.21.70:8000/live/akdim/akdim/2547.m3u8
 #EXTINF:-1,L (AR) OSN  ANIMAL PLANET HD
-http://62.4.21.70:8000/live/akdim/akdim/4146.ts
+http://62.4.21.70:8000/live/akdim/akdim/4146.m3u8
 #EXTINF:-1,L (AR) OSN  DISCOVERY HD
-http://62.4.21.70:8000/live/akdim/akdim/4148.ts
+http://62.4.21.70:8000/live/akdim/akdim/4148.m3u8
 #EXTINF:-1,L (AR) OSN  DISCOVERY SCIENCE HD
-http://62.4.21.70:8000/live/akdim/akdim/4150.ts
+http://62.4.21.70:8000/live/akdim/akdim/4150.m3u8
 #EXTINF:-1,L (AR) OSN  DISNEY CHANNEL
-http://62.4.21.70:8000/live/akdim/akdim/4157.ts
+http://62.4.21.70:8000/live/akdim/akdim/4157.m3u8
 #EXTINF:-1,L (AR) OSN  DISNEY JUNIOR
-http://62.4.21.70:8000/live/akdim/akdim/4159.ts
+http://62.4.21.70:8000/live/akdim/akdim/4159.m3u8
 #EXTINF:-1,L (AR) OSN  DISNEY XD
-http://62.4.21.70:8000/live/akdim/akdim/4151.ts
+http://62.4.21.70:8000/live/akdim/akdim/4151.m3u8
 #EXTINF:-1,L (AR) OSN  E
-http://62.4.21.70:8000/live/akdim/akdim/4156.ts
+http://62.4.21.70:8000/live/akdim/akdim/4156.m3u8
 #EXTINF:-1,L (AR) OSN  FINE LIVING
-http://62.4.21.70:8000/live/akdim/akdim/4153.ts
+http://62.4.21.70:8000/live/akdim/akdim/4153.m3u8
 #EXTINF:-1,L (AR) OSN  HISTORY
-http://62.4.21.70:8000/live/akdim/akdim/4158.ts
+http://62.4.21.70:8000/live/akdim/akdim/4158.m3u8
 #EXTINF:-1,L (AR) OSN  HISTORY2
-http://62.4.21.70:8000/live/akdim/akdim/4176.ts
+http://62.4.21.70:8000/live/akdim/akdim/4176.m3u8
 #EXTINF:-1,L (AR) OSN  JIM JAM
-http://62.4.21.70:8000/live/akdim/akdim/4185.ts
+http://62.4.21.70:8000/live/akdim/akdim/4185.m3u8
 #EXTINF:-1,L (AR) OSN  NAT GEO PEOPLE
-http://62.4.21.70:8000/live/akdim/akdim/4166.ts
+http://62.4.21.70:8000/live/akdim/akdim/4166.m3u8
 #EXTINF:-1,L (AR) OSN  OUTDOOR
-http://62.4.21.70:8000/live/akdim/akdim/4171.ts
+http://62.4.21.70:8000/live/akdim/akdim/4171.m3u8
 #EXTINF:-1,L (AR) OSN  WWE
-http://62.4.21.70:8000/live/akdim/akdim/4168.ts
+http://62.4.21.70:8000/live/akdim/akdim/4168.m3u8
 #EXTINF:-1,L (AR) OSN AL-SHASHA
-http://62.4.21.70:8000/live/akdim/akdim/4145.ts
+http://62.4.21.70:8000/live/akdim/akdim/4145.m3u8
 #EXTINF:-1,L (AR) OSN COMEDY CENTRAL
-http://62.4.21.70:8000/live/akdim/akdim/4147.ts
+http://62.4.21.70:8000/live/akdim/akdim/4147.m3u8
 #EXTINF:-1,L (AR) OSN DISCOVERY IDX HD
-http://62.4.21.70:8000/live/akdim/akdim/4149.ts
+http://62.4.21.70:8000/live/akdim/akdim/4149.m3u8
 #EXTINF:-1,L (AR) OSN FIRST COMEDY
-http://62.4.21.70:8000/live/akdim/akdim/4154.ts
+http://62.4.21.70:8000/live/akdim/akdim/4154.m3u8
 #EXTINF:-1,L (AR) OSN FIRST HD
-http://62.4.21.70:8000/live/akdim/akdim/4155.ts
+http://62.4.21.70:8000/live/akdim/akdim/4155.m3u8
 #EXTINF:-1,L (AR) OSN FOOD NETWORK
-http://62.4.21.70:8000/live/akdim/akdim/4152.ts
+http://62.4.21.70:8000/live/akdim/akdim/4152.m3u8
 #EXTINF:-1,L (AR) OSN MOVIES ACTION HD
-http://62.4.21.70:8000/live/akdim/akdim/4160.ts
+http://62.4.21.70:8000/live/akdim/akdim/4160.m3u8
 #EXTINF:-1,L (AR) OSN MOVIES DRAMA HD
-http://62.4.21.70:8000/live/akdim/akdim/4162.ts
+http://62.4.21.70:8000/live/akdim/akdim/4162.m3u8
 #EXTINF:-1,L (AR) OSN MOVIES FAMILY HD
-http://62.4.21.70:8000/live/akdim/akdim/4164.ts
+http://62.4.21.70:8000/live/akdim/akdim/4164.m3u8
 #EXTINF:-1,L (AR) OSN MOVIES FESTIVAL HD
-http://62.4.21.70:8000/live/akdim/akdim/4163.ts
+http://62.4.21.70:8000/live/akdim/akdim/4163.m3u8
 #EXTINF:-1,L (AR) OSN MOVIES HD
-http://62.4.21.70:8000/live/akdim/akdim/4161.ts
+http://62.4.21.70:8000/live/akdim/akdim/4161.m3u8
 #EXTINF:-1,L (AR) OSN MOVIES PREMIERE HD
-http://62.4.21.70:8000/live/akdim/akdim/4175.ts
+http://62.4.21.70:8000/live/akdim/akdim/4175.m3u8
 #EXTINF:-1,L (AR) OSN NATIONAL GEOGRAPHIC
-http://62.4.21.70:8000/live/akdim/akdim/4167.ts
+http://62.4.21.70:8000/live/akdim/akdim/4167.m3u8
 #EXTINF:-1,L (AR) OSN NICKLODEON HD
-http://62.4.21.70:8000/live/akdim/akdim/4165.ts
+http://62.4.21.70:8000/live/akdim/akdim/4165.m3u8
 #EXTINF:-1,L (AR) OSN STAR WORLD HD
-http://62.4.21.70:8000/live/akdim/akdim/4169.ts
+http://62.4.21.70:8000/live/akdim/akdim/4169.m3u8
 #EXTINF:-1,L (AR) OSN SYFY
-http://62.4.21.70:8000/live/akdim/akdim/4170.ts
+http://62.4.21.70:8000/live/akdim/akdim/4170.m3u8
 #EXTINF:-1,L (AR) OSN YAHALA CINEMA
-http://62.4.21.70:8000/live/akdim/akdim/4172.ts
+http://62.4.21.70:8000/live/akdim/akdim/4172.m3u8
 #EXTINF:-1,L (AR) OSN YAHALA DRAMA HD
-http://62.4.21.70:8000/live/akdim/akdim/4173.ts
+http://62.4.21.70:8000/live/akdim/akdim/4173.m3u8
 #EXTINF:-1,L (AR) OSN YAHALA HD
-http://62.4.21.70:8000/live/akdim/akdim/4174.ts
+http://62.4.21.70:8000/live/akdim/akdim/4174.m3u8
 #EXTINF:-1,L (AR) OSN YAHALA SHABAB
-http://62.4.21.70:8000/live/akdim/akdim/4177.ts
+http://62.4.21.70:8000/live/akdim/akdim/4177.m3u8
 #EXTINF:-1,OSN AL YOUM HD
-http://62.4.21.70:8000/live/akdim/akdim/4184.ts
+http://62.4.21.70:8000/live/akdim/akdim/4184.m3u8
 #EXTINF:-1,OSN BOX OFFICE 1 HD
-http://62.4.21.70:8000/live/akdim/akdim/4182.ts
+http://62.4.21.70:8000/live/akdim/akdim/4182.m3u8
 #EXTINF:-1,OSN BOX OFFICE 2 HD
-http://62.4.21.70:8000/live/akdim/akdim/4183.ts
+http://62.4.21.70:8000/live/akdim/akdim/4183.m3u8
 #EXTINF:-1,OSN BOX OFFICE 3 HD
-http://62.4.21.70:8000/live/akdim/akdim/4180.ts
+http://62.4.21.70:8000/live/akdim/akdim/4180.m3u8
 #EXTINF:-1,OSN-LOCAL: cinema1
-http://62.4.21.70:8000/live/akdim/akdim/4196.ts
+http://62.4.21.70:8000/live/akdim/akdim/4196.m3u8
 #EXTINF:-1,VIP: See vii be-link HD
-http://62.4.21.70:8000/live/akdim/akdim/4137.ts
+http://62.4.21.70:8000/live/akdim/akdim/4137.m3u8
 #EXTINF:-1,VIP: See vii Drama HD
-http://62.4.21.70:8000/live/akdim/akdim/4136.ts
+http://62.4.21.70:8000/live/akdim/akdim/4136.m3u8
 #EXTINF:-1,VIP: See vii Oula HD
-http://62.4.21.70:8000/live/akdim/akdim/4134.ts
+http://62.4.21.70:8000/live/akdim/akdim/4134.m3u8
 #EXTINF:-1,VIP: See vii Shamiya HD
-http://62.4.21.70:8000/live/akdim/akdim/4135.ts
+http://62.4.21.70:8000/live/akdim/akdim/4135.m3u8
 #EXTINF:-1,====ART====
-http://62.4.21.70:8000/live/akdim/akdim/3895.ts
+http://62.4.21.70:8000/live/akdim/akdim/3895.m3u8
 #EXTINF:-1,ART HEKAYAT ZAMANE
-http://62.4.21.70:8000/live/akdim/akdim/21.ts
+http://62.4.21.70:8000/live/akdim/akdim/21.m3u8
 #EXTINF:-1,ART HEKAYAT 2
-http://62.4.21.70:8000/live/akdim/akdim/22.ts
+http://62.4.21.70:8000/live/akdim/akdim/22.m3u8
 #EXTINF:-1,ART CINEMA
-http://62.4.21.70:8000/live/akdim/akdim/20.ts
+http://62.4.21.70:8000/live/akdim/akdim/20.m3u8
 #EXTINF:-1,ART AFLAM 1
-http://62.4.21.70:8000/live/akdim/akdim/18.ts
+http://62.4.21.70:8000/live/akdim/akdim/18.m3u8
 #EXTINF:-1,ART AFLAM 2
-http://62.4.21.70:8000/live/akdim/akdim/19.ts
+http://62.4.21.70:8000/live/akdim/akdim/19.m3u8
 #EXTINF:-1,====MAROC====
-http://62.4.21.70:8000/live/akdim/akdim/3888.ts
+http://62.4.21.70:8000/live/akdim/akdim/3888.m3u8
 #EXTINF:-1,AL_OULA_MAROC_HD
-http://62.4.21.70:8000/live/akdim/akdim/4058.ts
+http://62.4.21.70:8000/live/akdim/akdim/4058.m3u8
 #EXTINF:-1,2M MAROC
-http://62.4.21.70:8000/live/akdim/akdim/31.ts
+http://62.4.21.70:8000/live/akdim/akdim/31.m3u8
 #EXTINF:-1,AL OULA LAAYOUNE
-http://62.4.21.70:8000/live/akdim/akdim/666.ts
+http://62.4.21.70:8000/live/akdim/akdim/666.m3u8
 #EXTINF:-1,AL OULA MAROC
-http://62.4.21.70:8000/live/akdim/akdim/32.ts
+http://62.4.21.70:8000/live/akdim/akdim/32.m3u8
 #EXTINF:-1,ALMAGHRIBIA MAROC
-http://62.4.21.70:8000/live/akdim/akdim/35.ts
+http://62.4.21.70:8000/live/akdim/akdim/35.m3u8
 #EXTINF:-1,AR: Medi1 TV
-http://62.4.21.70:8000/live/akdim/akdim/931.ts
+http://62.4.21.70:8000/live/akdim/akdim/931.m3u8
 #EXTINF:-1,ARRABIA MAROC
-http://62.4.21.70:8000/live/akdim/akdim/34.ts
+http://62.4.21.70:8000/live/akdim/akdim/34.m3u8
 #EXTINF:-1,ARRIADIA MAROC
-http://62.4.21.70:8000/live/akdim/akdim/33.ts
+http://62.4.21.70:8000/live/akdim/akdim/33.m3u8
 #EXTINF:-1,ASSADISA
-http://62.4.21.70:8000/live/akdim/akdim/415.ts
+http://62.4.21.70:8000/live/akdim/akdim/415.m3u8
 #EXTINF:-1,AR Bzaf MAROC
-http://62.4.21.70:8000/live/akdim/akdim/1691.ts
+http://62.4.21.70:8000/live/akdim/akdim/1691.m3u8
 #EXTINF:-1,TAMAZIGHT_MAROC
-http://62.4.21.70:8000/live/akdim/akdim/4059.ts
+http://62.4.21.70:8000/live/akdim/akdim/4059.m3u8
 #EXTINF:-1,====ALGERIE====
-http://62.4.21.70:8000/live/akdim/akdim/3886.ts
+http://62.4.21.70:8000/live/akdim/akdim/3886.m3u8
 #EXTINF:-1,A3 Algerie - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3127.ts
+http://62.4.21.70:8000/live/akdim/akdim/3127.m3u8
 #EXTINF:-1,AR Al Magharibia
-http://62.4.21.70:8000/live/akdim/akdim/1709.ts
+http://62.4.21.70:8000/live/akdim/akdim/1709.m3u8
 #EXTINF:-1,AR Al Magharibia Two
-http://62.4.21.70:8000/live/akdim/akdim/1708.ts
+http://62.4.21.70:8000/live/akdim/akdim/1708.m3u8
 #EXTINF:-1,AR Beur TV
-http://62.4.21.70:8000/live/akdim/akdim/1692.ts
+http://62.4.21.70:8000/live/akdim/akdim/1692.m3u8
 #EXTINF:-1,AR Canal Algerie
-http://62.4.21.70:8000/live/akdim/akdim/1688.ts
+http://62.4.21.70:8000/live/akdim/akdim/1688.m3u8
 #EXTINF:-1,AR_NUMIDIA_NEWS_ALGERIE
-http://62.4.21.70:8000/live/akdim/akdim/2573.ts
+http://62.4.21.70:8000/live/akdim/akdim/2573.m3u8
 #EXTINF:-1,El Djazairia - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3131.ts
+http://62.4.21.70:8000/live/akdim/akdim/3131.m3u8
 #EXTINF:-1,EL CHOUROUK HD ALGERIE
-http://62.4.21.70:8000/live/akdim/akdim/592.ts
+http://62.4.21.70:8000/live/akdim/akdim/592.m3u8
 #EXTINF:-1,DZAIR TV ALGERIE
-http://62.4.21.70:8000/live/akdim/akdim/46.ts
+http://62.4.21.70:8000/live/akdim/akdim/46.m3u8
 #EXTINF:-1,Dzair Pub - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3130.ts
+http://62.4.21.70:8000/live/akdim/akdim/3130.m3u8
 #EXTINF:-1,AR ALGERIE  Tamazight
-http://62.4.21.70:8000/live/akdim/akdim/941.ts
+http://62.4.21.70:8000/live/akdim/akdim/941.m3u8
 #EXTINF:-1,SAMIRA TV ALGERIE
-http://62.4.21.70:8000/live/akdim/akdim/47.ts
+http://62.4.21.70:8000/live/akdim/akdim/47.m3u8
 #EXTINF:-1,CNA TAMAZIGHT
-http://62.4.21.70:8000/live/akdim/akdim/1684.ts
+http://62.4.21.70:8000/live/akdim/akdim/1684.m3u8
 #EXTINF:-1,ENNAHAR TV ALGERIE
-http://62.4.21.70:8000/live/akdim/akdim/48.ts
+http://62.4.21.70:8000/live/akdim/akdim/48.m3u8
 #EXTINF:-1,ELHADDAF ALGERIE
-http://62.4.21.70:8000/live/akdim/akdim/40.ts
+http://62.4.21.70:8000/live/akdim/akdim/40.m3u8
 #EXTINF:-1,ENTV ALGERIE NATIONAL
-http://62.4.21.70:8000/live/akdim/akdim/36.ts
+http://62.4.21.70:8000/live/akdim/akdim/36.m3u8
 #EXTINF:-1,ELCHOUROUK ALGERIE NEWS
-http://62.4.21.70:8000/live/akdim/akdim/45.ts
+http://62.4.21.70:8000/live/akdim/akdim/45.m3u8
 #EXTINF:-1,NUMEDIA NEWS ALGERIE
-http://62.4.21.70:8000/live/akdim/akdim/594.ts
+http://62.4.21.70:8000/live/akdim/akdim/594.m3u8
 #EXTINF:-1,DZAIR NEWS ALGERIE
-http://62.4.21.70:8000/live/akdim/akdim/37.ts
+http://62.4.21.70:8000/live/akdim/akdim/37.m3u8
 #EXTINF:-1,Dzair Jannah - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3132.ts
+http://62.4.21.70:8000/live/akdim/akdim/3132.m3u8
 #EXTINF:-1,Dzair Aures - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3129.ts
+http://62.4.21.70:8000/live/akdim/akdim/3129.m3u8
 #EXTINF:-1,Dzair - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3128.ts
+http://62.4.21.70:8000/live/akdim/akdim/3128.m3u8
 #EXTINF:-1,BENNA TV  ALGERIE
-http://62.4.21.70:8000/live/akdim/akdim/41.ts
+http://62.4.21.70:8000/live/akdim/akdim/41.m3u8
 #EXTINF:-1,TV Coran ALGERIE
-http://62.4.21.70:8000/live/akdim/akdim/2027.ts
+http://62.4.21.70:8000/live/akdim/akdim/2027.m3u8
 #EXTINF:-1,AR_Al_Anis_TV
-http://62.4.21.70:8000/live/akdim/akdim/2340.ts
+http://62.4.21.70:8000/live/akdim/akdim/2340.m3u8
 #EXTINF:-1,KBC ALGERIE
-http://62.4.21.70:8000/live/akdim/akdim/42.ts
+http://62.4.21.70:8000/live/akdim/akdim/42.m3u8
 #EXTINF:-1,====TUNISIE====
-http://62.4.21.70:8000/live/akdim/akdim/3887.ts
+http://62.4.21.70:8000/live/akdim/akdim/3887.m3u8
 #EXTINF:-1,AR Zaytoona - AR Zaytoona
-http://62.4.21.70:8000/live/akdim/akdim/2033.ts
+http://62.4.21.70:8000/live/akdim/akdim/2033.m3u8
 #EXTINF:-1,AR El Hiwar Ettounsi - AR El Hiwar Ettounsi
-http://62.4.21.70:8000/live/akdim/akdim/2032.ts
+http://62.4.21.70:8000/live/akdim/akdim/2032.m3u8
 #EXTINF:-1,AR Tunisna
-http://62.4.21.70:8000/live/akdim/akdim/2029.ts
+http://62.4.21.70:8000/live/akdim/akdim/2029.m3u8
 #EXTINF:-1,AR Al Janoubia - AR Al Janoubia
-http://62.4.21.70:8000/live/akdim/akdim/2035.ts
+http://62.4.21.70:8000/live/akdim/akdim/2035.m3u8
 #EXTINF:-1,AR Tunisia National 2 - AR Tunisia National 2
-http://62.4.21.70:8000/live/akdim/akdim/2038.ts
+http://62.4.21.70:8000/live/akdim/akdim/2038.m3u8
 #EXTINF:-1,AR Tunisia National 1 - AR Tunisia National 1
-http://62.4.21.70:8000/live/akdim/akdim/2037.ts
+http://62.4.21.70:8000/live/akdim/akdim/2037.m3u8
 #EXTINF:-1,M_TUNISIA
-http://62.4.21.70:8000/live/akdim/akdim/4060.ts
+http://62.4.21.70:8000/live/akdim/akdim/4060.m3u8
 #EXTINF:-1,AR Attasia TV - AR Attasia TV
-http://62.4.21.70:8000/live/akdim/akdim/2031.ts
+http://62.4.21.70:8000/live/akdim/akdim/2031.m3u8
 #EXTINF:-1,Telvza TV - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3135.ts
+http://62.4.21.70:8000/live/akdim/akdim/3135.m3u8
 #EXTINF:-1,AR Al Hiwar
-http://62.4.21.70:8000/live/akdim/akdim/2073.ts
+http://62.4.21.70:8000/live/akdim/akdim/2073.m3u8
 #EXTINF:-1,Nessma TV - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3133.ts
+http://62.4.21.70:8000/live/akdim/akdim/3133.m3u8
 #EXTINF:-1,AR Hannibal
-http://62.4.21.70:8000/live/akdim/akdim/2030.ts
+http://62.4.21.70:8000/live/akdim/akdim/2030.m3u8
 #EXTINF:-1,Hannibal - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3134.ts
+http://62.4.21.70:8000/live/akdim/akdim/3134.m3u8
 #EXTINF:-1,====ARABIC_NEWS====
-http://62.4.21.70:8000/live/akdim/akdim/3889.ts
+http://62.4.21.70:8000/live/akdim/akdim/3889.m3u8
 #EXTINF:-1,AL ARABIYA ALHADATH
-http://62.4.21.70:8000/live/akdim/akdim/404.ts
+http://62.4.21.70:8000/live/akdim/akdim/404.m3u8
 #EXTINF:-1,AL ARABIYA
-http://62.4.21.70:8000/live/akdim/akdim/402.ts
+http://62.4.21.70:8000/live/akdim/akdim/402.m3u8
 #EXTINF:-1,France24 ARABIC
-http://62.4.21.70:8000/live/akdim/akdim/405.ts
+http://62.4.21.70:8000/live/akdim/akdim/405.m3u8
 #EXTINF:-1,BBC ARABIC
-http://62.4.21.70:8000/live/akdim/akdim/660.ts
+http://62.4.21.70:8000/live/akdim/akdim/660.m3u8
 #EXTINF:-1,Al JAZEERA ARABIC
-http://62.4.21.70:8000/live/akdim/akdim/398.ts
+http://62.4.21.70:8000/live/akdim/akdim/398.m3u8
 #EXTINF:-1,Al JAZEERA MUBASHER
-http://62.4.21.70:8000/live/akdim/akdim/401.ts
+http://62.4.21.70:8000/live/akdim/akdim/401.m3u8
 #EXTINF:-1,Al JAZEERA ENGLISH
-http://62.4.21.70:8000/live/akdim/akdim/400.ts
+http://62.4.21.70:8000/live/akdim/akdim/400.m3u8
 #EXTINF:-1,DW ARABIC
-http://62.4.21.70:8000/live/akdim/akdim/2838.ts
+http://62.4.21.70:8000/live/akdim/akdim/2838.m3u8
 #EXTINF:-1,AR Tok Tok Cinema
-http://62.4.21.70:8000/live/akdim/akdim/2077.ts
+http://62.4.21.70:8000/live/akdim/akdim/2077.m3u8
 #EXTINF:-1,AR i24 News Arabic
-http://62.4.21.70:8000/live/akdim/akdim/2043.ts
+http://62.4.21.70:8000/live/akdim/akdim/2043.m3u8
 #EXTINF:-1,AR Euronews Arabic
-http://62.4.21.70:8000/live/akdim/akdim/2041.ts
+http://62.4.21.70:8000/live/akdim/akdim/2041.m3u8
 #EXTINF:-1,AR Al Jazeera HD
-http://62.4.21.70:8000/live/akdim/akdim/2039.ts
+http://62.4.21.70:8000/live/akdim/akdim/2039.m3u8
 #EXTINF:-1,Al_Manar
-http://62.4.21.70:8000/live/akdim/akdim/3884.ts
+http://62.4.21.70:8000/live/akdim/akdim/3884.m3u8
 #EXTINF:-1,AL HURRA
-http://62.4.21.70:8000/live/akdim/akdim/1913.ts
+http://62.4.21.70:8000/live/akdim/akdim/1913.m3u8
 #EXTINF:-1,AL AAN TV
-http://62.4.21.70:8000/live/akdim/akdim/1901.ts
+http://62.4.21.70:8000/live/akdim/akdim/1901.m3u8
 #EXTINF:-1,Bbc World News - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3145.ts
+http://62.4.21.70:8000/live/akdim/akdim/3145.m3u8
 #EXTINF:-1,Ann - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3142.ts
+http://62.4.21.70:8000/live/akdim/akdim/3142.m3u8
 #EXTINF:-1,CNBC ARABIC
-http://62.4.21.70:8000/live/akdim/akdim/1912.ts
+http://62.4.21.70:8000/live/akdim/akdim/1912.m3u8
 #EXTINF:-1,Al JAZEERA DOCUMENTARY
-http://62.4.21.70:8000/live/akdim/akdim/399.ts
+http://62.4.21.70:8000/live/akdim/akdim/399.m3u8
 #EXTINF:-1,AR Al Mayadeen
-http://62.4.21.70:8000/live/akdim/akdim/2042.ts
+http://62.4.21.70:8000/live/akdim/akdim/2042.m3u8
 #EXTINF:-1,SKY NEWS ARABIC
-http://62.4.21.70:8000/live/akdim/akdim/411.ts
+http://62.4.21.70:8000/live/akdim/akdim/411.m3u8
 #EXTINF:-1,AR_Ann
-http://62.4.21.70:8000/live/akdim/akdim/2286.ts
+http://62.4.21.70:8000/live/akdim/akdim/2286.m3u8
 #EXTINF:-1,====EGYPT====
-http://62.4.21.70:8000/live/akdim/akdim/3890.ts
+http://62.4.21.70:8000/live/akdim/akdim/3890.m3u8
 #EXTINF:-1,Ontv live - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3183.ts
+http://62.4.21.70:8000/live/akdim/akdim/3183.m3u8
 #EXTINF:-1,ARABIC_MEKAMILIN
-http://62.4.21.70:8000/live/akdim/akdim/2888.ts
+http://62.4.21.70:8000/live/akdim/akdim/2888.m3u8
 #EXTINF:-1,AR Top Cinema
-http://62.4.21.70:8000/live/akdim/akdim/2280.ts
+http://62.4.21.70:8000/live/akdim/akdim/2280.m3u8
 #EXTINF:-1,AR Tok Tok Aflam
-http://62.4.21.70:8000/live/akdim/akdim/2076.ts
+http://62.4.21.70:8000/live/akdim/akdim/2076.m3u8
 #EXTINF:-1,AR Time Quran
-http://62.4.21.70:8000/live/akdim/akdim/2279.ts
+http://62.4.21.70:8000/live/akdim/akdim/2279.m3u8
 #EXTINF:-1,AR Time Film
-http://62.4.21.70:8000/live/akdim/akdim/2278.ts
+http://62.4.21.70:8000/live/akdim/akdim/2278.m3u8
 #EXTINF:-1,AR_Time_Comedy
-http://62.4.21.70:8000/live/akdim/akdim/2446.ts
+http://62.4.21.70:8000/live/akdim/akdim/2446.m3u8
 #EXTINF:-1,AR Time Cinema
-http://62.4.21.70:8000/live/akdim/akdim/2277.ts
+http://62.4.21.70:8000/live/akdim/akdim/2277.m3u8
 #EXTINF:-1,AR Ten
-http://62.4.21.70:8000/live/akdim/akdim/2069.ts
+http://62.4.21.70:8000/live/akdim/akdim/2069.m3u8
 #EXTINF:-1,AR Star Cinema 2
-http://62.4.21.70:8000/live/akdim/akdim/2075.ts
+http://62.4.21.70:8000/live/akdim/akdim/2075.m3u8
 #EXTINF:-1,AR Star Cinema 1
-http://62.4.21.70:8000/live/akdim/akdim/2074.ts
+http://62.4.21.70:8000/live/akdim/akdim/2074.m3u8
 #EXTINF:-1,AR_Semsem
-http://62.4.21.70:8000/live/akdim/akdim/2393.ts
+http://62.4.21.70:8000/live/akdim/akdim/2393.m3u8
 #EXTINF:-1,AR_Modern_Sport
-http://62.4.21.70:8000/live/akdim/akdim/2437.ts
+http://62.4.21.70:8000/live/akdim/akdim/2437.m3u8
 #EXTINF:-1,AR_Misr_Alzera3ia
-http://62.4.21.70:8000/live/akdim/akdim/2281.ts
+http://62.4.21.70:8000/live/akdim/akdim/2281.m3u8
 #EXTINF:-1,AR Mazazikh
-http://62.4.21.70:8000/live/akdim/akdim/2060.ts
+http://62.4.21.70:8000/live/akdim/akdim/2060.m3u8
 #EXTINF:-1,AR_Majestick_Cinema
-http://62.4.21.70:8000/live/akdim/akdim/2384.ts
+http://62.4.21.70:8000/live/akdim/akdim/2384.m3u8
 #EXTINF:-1,AR_Ltc
-http://62.4.21.70:8000/live/akdim/akdim/2299.ts
+http://62.4.21.70:8000/live/akdim/akdim/2299.m3u8
 #EXTINF:-1,AR_Daloaa
-http://62.4.21.70:8000/live/akdim/akdim/2331.ts
+http://62.4.21.70:8000/live/akdim/akdim/2331.m3u8
 #EXTINF:-1,AR_Cinema_Pro
-http://62.4.21.70:8000/live/akdim/akdim/2282.ts
+http://62.4.21.70:8000/live/akdim/akdim/2282.m3u8
 #EXTINF:-1,AR Cbc 2
-http://62.4.21.70:8000/live/akdim/akdim/2064.ts
+http://62.4.21.70:8000/live/akdim/akdim/2064.m3u8
 #EXTINF:-1,AR Cairo Drama
-http://62.4.21.70:8000/live/akdim/akdim/2276.ts
+http://62.4.21.70:8000/live/akdim/akdim/2276.m3u8
 #EXTINF:-1,NILE NEWS
-http://62.4.21.70:8000/live/akdim/akdim/1900.ts
+http://62.4.21.70:8000/live/akdim/akdim/1900.m3u8
 #EXTINF:-1,NILE FAMILY
-http://62.4.21.70:8000/live/akdim/akdim/1893.ts
+http://62.4.21.70:8000/live/akdim/akdim/1893.m3u8
 #EXTINF:-1,MEHWAR
-http://62.4.21.70:8000/live/akdim/akdim/1917.ts
+http://62.4.21.70:8000/live/akdim/akdim/1917.m3u8
 #EXTINF:-1,AR Esc
-http://62.4.21.70:8000/live/akdim/akdim/2063.ts
+http://62.4.21.70:8000/live/akdim/akdim/2063.m3u8
 #EXTINF:-1,DREAM 2
-http://62.4.21.70:8000/live/akdim/akdim/1897.ts
+http://62.4.21.70:8000/live/akdim/akdim/1897.m3u8
 #EXTINF:-1,AR Ontv  Plus - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3047.ts
+http://62.4.21.70:8000/live/akdim/akdim/3047.m3u8
 #EXTINF:-1,AR ON TV LIVE
-http://62.4.21.70:8000/live/akdim/akdim/3045.ts
+http://62.4.21.70:8000/live/akdim/akdim/3045.m3u8
 #EXTINF:-1,AR Al Hayat 2 - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3046.ts
+http://62.4.21.70:8000/live/akdim/akdim/3046.m3u8
 #EXTINF:-1,CBC TV
-http://62.4.21.70:8000/live/akdim/akdim/535.ts
+http://62.4.21.70:8000/live/akdim/akdim/535.m3u8
 #EXTINF:-1,CBC Sofra
-http://62.4.21.70:8000/live/akdim/akdim/536.ts
+http://62.4.21.70:8000/live/akdim/akdim/536.m3u8
 #EXTINF:-1,CBC EXtra
-http://62.4.21.70:8000/live/akdim/akdim/537.ts
+http://62.4.21.70:8000/live/akdim/akdim/537.m3u8
 #EXTINF:-1,CBC Drama
-http://62.4.21.70:8000/live/akdim/akdim/538.ts
+http://62.4.21.70:8000/live/akdim/akdim/538.m3u8
 #EXTINF:-1,AR AL Hayat
-http://62.4.21.70:8000/live/akdim/akdim/1716.ts
+http://62.4.21.70:8000/live/akdim/akdim/1716.m3u8
 #EXTINF:-1,AR Al Hayat Musalsalat
-http://62.4.21.70:8000/live/akdim/akdim/1715.ts
+http://62.4.21.70:8000/live/akdim/akdim/1715.m3u8
 #EXTINF:-1,AR Nile Cinema
-http://62.4.21.70:8000/live/akdim/akdim/1679.ts
+http://62.4.21.70:8000/live/akdim/akdim/1679.m3u8
 #EXTINF:-1,AR Nile Comedy
-http://62.4.21.70:8000/live/akdim/akdim/1678.ts
+http://62.4.21.70:8000/live/akdim/akdim/1678.m3u8
 #EXTINF:-1,AR Nile Sport
-http://62.4.21.70:8000/live/akdim/akdim/1677.ts
+http://62.4.21.70:8000/live/akdim/akdim/1677.m3u8
 #EXTINF:-1,AR Cima
-http://62.4.21.70:8000/live/akdim/akdim/1686.ts
+http://62.4.21.70:8000/live/akdim/akdim/1686.m3u8
 #EXTINF:-1,AR.Cairo.Universal
-http://62.4.21.70:8000/live/akdim/akdim/1689.ts
+http://62.4.21.70:8000/live/akdim/akdim/1689.m3u8
 #EXTINF:-1,AR Cairo Cinema
-http://62.4.21.70:8000/live/akdim/akdim/1690.ts
+http://62.4.21.70:8000/live/akdim/akdim/1690.m3u8
 #EXTINF:-1,AR AL Nahar Sport
-http://62.4.21.70:8000/live/akdim/akdim/1706.ts
+http://62.4.21.70:8000/live/akdim/akdim/1706.m3u8
 #EXTINF:-1,AR AL Nahar Nour
-http://62.4.21.70:8000/live/akdim/akdim/1707.ts
+http://62.4.21.70:8000/live/akdim/akdim/1707.m3u8
 #EXTINF:-1,AR Al Nahar One
-http://62.4.21.70:8000/live/akdim/akdim/2070.ts
+http://62.4.21.70:8000/live/akdim/akdim/2070.m3u8
 #EXTINF:-1,AR Al Nahar Cinema
-http://62.4.21.70:8000/live/akdim/akdim/2071.ts
+http://62.4.21.70:8000/live/akdim/akdim/2071.m3u8
 #EXTINF:-1,AR Al Nahar Alyoum
-http://62.4.21.70:8000/live/akdim/akdim/2072.ts
+http://62.4.21.70:8000/live/akdim/akdim/2072.m3u8
 #EXTINF:-1,AR Sada El Balad Drama
-http://62.4.21.70:8000/live/akdim/akdim/2068.ts
+http://62.4.21.70:8000/live/akdim/akdim/2068.m3u8
 #EXTINF:-1,AR Sada El Balad
-http://62.4.21.70:8000/live/akdim/akdim/2067.ts
+http://62.4.21.70:8000/live/akdim/akdim/2067.m3u8
 #EXTINF:-1,AR Al Nahar Drama
-http://62.4.21.70:8000/live/akdim/akdim/1710.ts
+http://62.4.21.70:8000/live/akdim/akdim/1710.m3u8
 #EXTINF:-1,AR_Al_Sharq
-http://62.4.21.70:8000/live/akdim/akdim/2294.ts
+http://62.4.21.70:8000/live/akdim/akdim/2294.m3u8
 #EXTINF:-1,AR_Arabica
-http://62.4.21.70:8000/live/akdim/akdim/2343.ts
+http://62.4.21.70:8000/live/akdim/akdim/2343.m3u8
 #EXTINF:-1,AR_Al_Shareyyah
-http://62.4.21.70:8000/live/akdim/akdim/2335.ts
+http://62.4.21.70:8000/live/akdim/akdim/2335.m3u8
 #EXTINF:-1,AR Al Kahera Wel Nas
-http://62.4.21.70:8000/live/akdim/akdim/2066.ts
+http://62.4.21.70:8000/live/akdim/akdim/2066.m3u8
 #EXTINF:-1,AR Al Kahera
-http://62.4.21.70:8000/live/akdim/akdim/2065.ts
+http://62.4.21.70:8000/live/akdim/akdim/2065.m3u8
 #EXTINF:-1,====IRAQ====
-http://62.4.21.70:8000/live/akdim/akdim/3893.ts
+http://62.4.21.70:8000/live/akdim/akdim/3893.m3u8
 #EXTINF:-1,AR_Sadr_Al_Iraq
-http://62.4.21.70:8000/live/akdim/akdim/2357.ts
+http://62.4.21.70:8000/live/akdim/akdim/2357.m3u8
 #EXTINF:-1,HONA BAGHDAD IRAQ
-http://62.4.21.70:8000/live/akdim/akdim/593.ts
+http://62.4.21.70:8000/live/akdim/akdim/593.m3u8
 #EXTINF:-1,AL FORAT IRAQ
-http://62.4.21.70:8000/live/akdim/akdim/614.ts
+http://62.4.21.70:8000/live/akdim/akdim/614.m3u8
 #EXTINF:-1,AR_Baghdad_TV
-http://62.4.21.70:8000/live/akdim/akdim/2352.ts
+http://62.4.21.70:8000/live/akdim/akdim/2352.m3u8
 #EXTINF:-1,AR_I_Film
-http://62.4.21.70:8000/live/akdim/akdim/2318.ts
+http://62.4.21.70:8000/live/akdim/akdim/2318.m3u8
 #EXTINF:-1,AL IRAQIA IRAQ
-http://62.4.21.70:8000/live/akdim/akdim/672.ts
+http://62.4.21.70:8000/live/akdim/akdim/672.m3u8
 #EXTINF:-1,AR Hod Hod TV
-http://62.4.21.70:8000/live/akdim/akdim/2061.ts
+http://62.4.21.70:8000/live/akdim/akdim/2061.m3u8
 #EXTINF:-1,RUDAW KURDISTAN
-http://62.4.21.70:8000/live/akdim/akdim/669.ts
+http://62.4.21.70:8000/live/akdim/akdim/669.m3u8
 #EXTINF:-1,KURDMAX KURDISTAN
-http://62.4.21.70:8000/live/akdim/akdim/662.ts
+http://62.4.21.70:8000/live/akdim/akdim/662.m3u8
 #EXTINF:-1,AR_Karbala
-http://62.4.21.70:8000/live/akdim/akdim/2365.ts
+http://62.4.21.70:8000/live/akdim/akdim/2365.m3u8
 #EXTINF:-1,AR_Annajaf
-http://62.4.21.70:8000/live/akdim/akdim/2439.ts
+http://62.4.21.70:8000/live/akdim/akdim/2439.m3u8
 #EXTINF:-1,ALJALEYA TV ARABIC
-http://62.4.21.70:8000/live/akdim/akdim/661.ts
+http://62.4.21.70:8000/live/akdim/akdim/661.m3u8
 #EXTINF:-1,MAJLISS TV ARABIC
-http://62.4.21.70:8000/live/akdim/akdim/683.ts
+http://62.4.21.70:8000/live/akdim/akdim/683.m3u8
 #EXTINF:-1,IFILM ARABIC
-http://62.4.21.70:8000/live/akdim/akdim/680.ts
+http://62.4.21.70:8000/live/akdim/akdim/680.m3u8
 #EXTINF:-1,AR_Al_Noujaba
-http://62.4.21.70:8000/live/akdim/akdim/2332.ts
+http://62.4.21.70:8000/live/akdim/akdim/2332.m3u8
 #EXTINF:-1,AL JAMEELA ARABIC
-http://62.4.21.70:8000/live/akdim/akdim/664.ts
+http://62.4.21.70:8000/live/akdim/akdim/664.m3u8
 #EXTINF:-1,AR_Al_Kawthar
-http://62.4.21.70:8000/live/akdim/akdim/2444.ts
+http://62.4.21.70:8000/live/akdim/akdim/2444.m3u8
 #EXTINF:-1,AR_Al_Sharqia_News_HD
-http://62.4.21.70:8000/live/akdim/akdim/2360.ts
+http://62.4.21.70:8000/live/akdim/akdim/2360.m3u8
 #EXTINF:-1,AR_Al_Sharqia_HD
-http://62.4.21.70:8000/live/akdim/akdim/2358.ts
+http://62.4.21.70:8000/live/akdim/akdim/2358.m3u8
 #EXTINF:-1,AR_Al_Maaref
-http://62.4.21.70:8000/live/akdim/akdim/2330.ts
+http://62.4.21.70:8000/live/akdim/akdim/2330.m3u8
 #EXTINF:-1,AR AL Sumaira
-http://62.4.21.70:8000/live/akdim/akdim/1702.ts
+http://62.4.21.70:8000/live/akdim/akdim/1702.m3u8
 #EXTINF:-1,====JORDAN====
-http://62.4.21.70:8000/live/akdim/akdim/3892.ts
+http://62.4.21.70:8000/live/akdim/akdim/3892.m3u8
 #EXTINF:-1,AR_Jordan_TV
-http://62.4.21.70:8000/live/akdim/akdim/2410.ts
+http://62.4.21.70:8000/live/akdim/akdim/2410.m3u8
 #EXTINF:-1,AR_Jordan_Sport
-http://62.4.21.70:8000/live/akdim/akdim/2414.ts
+http://62.4.21.70:8000/live/akdim/akdim/2414.m3u8
 #EXTINF:-1,AR_Jordan_Manaseer
-http://62.4.21.70:8000/live/akdim/akdim/2419.ts
+http://62.4.21.70:8000/live/akdim/akdim/2419.m3u8
 #EXTINF:-1,AR_Jordan_Jood
-http://62.4.21.70:8000/live/akdim/akdim/2417.ts
+http://62.4.21.70:8000/live/akdim/akdim/2417.m3u8
 #EXTINF:-1,AR_Jordan_Amen
-http://62.4.21.70:8000/live/akdim/akdim/2418.ts
+http://62.4.21.70:8000/live/akdim/akdim/2418.m3u8
 #EXTINF:-1,AR_Jordan_Alwastalbalad
-http://62.4.21.70:8000/live/akdim/akdim/2420.ts
+http://62.4.21.70:8000/live/akdim/akdim/2420.m3u8
 #EXTINF:-1,====LIBYA====
-http://62.4.21.70:8000/live/akdim/akdim/3891.ts
+http://62.4.21.70:8000/live/akdim/akdim/3891.m3u8
 #EXTINF:-1,Libyas - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3163.ts
+http://62.4.21.70:8000/live/akdim/akdim/3163.m3u8
 #EXTINF:-1,Libya One - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3164.ts
+http://62.4.21.70:8000/live/akdim/akdim/3164.m3u8
 #EXTINF:-1,Libya El Marah - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3165.ts
+http://62.4.21.70:8000/live/akdim/akdim/3165.m3u8
 #EXTINF:-1,Libya Al Rasmeya - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3166.ts
+http://62.4.21.70:8000/live/akdim/akdim/3166.m3u8
 #EXTINF:-1,Libya 218 - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3167.ts
+http://62.4.21.70:8000/live/akdim/akdim/3167.m3u8
 #EXTINF:-1,====UAE====
-http://62.4.21.70:8000/live/akdim/akdim/3894.ts
+http://62.4.21.70:8000/live/akdim/akdim/3894.m3u8
 #EXTINF:-1,Abu_Dhabi_Sports_1HD
-http://62.4.21.70:8000/live/akdim/akdim/579.ts
+http://62.4.21.70:8000/live/akdim/akdim/579.m3u8
 #EXTINF:-1,AR_Sama_TV
-http://62.4.21.70:8000/live/akdim/akdim/2317.ts
+http://62.4.21.70:8000/live/akdim/akdim/2317.m3u8
 #EXTINF:-1,AR_Sama_Dubai
-http://62.4.21.70:8000/live/akdim/akdim/2458.ts
+http://62.4.21.70:8000/live/akdim/akdim/2458.m3u8
 #EXTINF:-1,AR_Dubai_Zaman
-http://62.4.21.70:8000/live/akdim/akdim/2459.ts
+http://62.4.21.70:8000/live/akdim/akdim/2459.m3u8
 #EXTINF:-1,AR_Dubai_Sport_HD
-http://62.4.21.70:8000/live/akdim/akdim/2463.ts
+http://62.4.21.70:8000/live/akdim/akdim/2463.m3u8
 #EXTINF:-1,AR_Dubai_Sport_4
-http://62.4.21.70:8000/live/akdim/akdim/2466.ts
+http://62.4.21.70:8000/live/akdim/akdim/2466.m3u8
 #EXTINF:-1,AR_Dubai_Sport_3
-http://62.4.21.70:8000/live/akdim/akdim/2465.ts
+http://62.4.21.70:8000/live/akdim/akdim/2465.m3u8
 #EXTINF:-1,AR_Dubai_Drama_AR
-http://62.4.21.70:8000/live/akdim/akdim/2460.ts
+http://62.4.21.70:8000/live/akdim/akdim/2460.m3u8
 #EXTINF:-1,AR_Dubai_AlOula_HD
-http://62.4.21.70:8000/live/akdim/akdim/2462.ts
+http://62.4.21.70:8000/live/akdim/akdim/2462.m3u8
 #EXTINF:-1,AR_Abu_Dhabi_Sport_1
-http://62.4.21.70:8000/live/akdim/akdim/2469.ts
+http://62.4.21.70:8000/live/akdim/akdim/2469.m3u8
 #EXTINF:-1,Abu Dhabi TV HD - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3147.ts
+http://62.4.21.70:8000/live/akdim/akdim/3147.m3u8
 #EXTINF:-1,Abu Dhabi Ngc HD - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3149.ts
+http://62.4.21.70:8000/live/akdim/akdim/3149.m3u8
 #EXTINF:-1,Abu Dhabi Drama HD - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3148.ts
+http://62.4.21.70:8000/live/akdim/akdim/3148.m3u8
 #EXTINF:-1,AR_Noor_Dubai
-http://62.4.21.70:8000/live/akdim/akdim/2457.ts
+http://62.4.21.70:8000/live/akdim/akdim/2457.m3u8
 #EXTINF:-1,DUBAI ONE
-http://62.4.21.70:8000/live/akdim/akdim/414.ts
+http://62.4.21.70:8000/live/akdim/akdim/414.m3u8
 #EXTINF:-1,DUBAI SPORTS
-http://62.4.21.70:8000/live/akdim/akdim/429.ts
+http://62.4.21.70:8000/live/akdim/akdim/429.m3u8
 #EXTINF:-1,SAMA DUBAI
-http://62.4.21.70:8000/live/akdim/akdim/425.ts
+http://62.4.21.70:8000/live/akdim/akdim/425.m3u8
 #EXTINF:-1,ASHARIQAH
-http://62.4.21.70:8000/live/akdim/akdim/424.ts
+http://62.4.21.70:8000/live/akdim/akdim/424.m3u8
 #EXTINF:-1,AL QHARIQA SPORT
-http://62.4.21.70:8000/live/akdim/akdim/682.ts
+http://62.4.21.70:8000/live/akdim/akdim/682.m3u8
 #EXTINF:-1,AR YAS Sports HD
-http://62.4.21.70:8000/live/akdim/akdim/1671.ts
+http://62.4.21.70:8000/live/akdim/akdim/1671.m3u8
 #EXTINF:-1,====MBC====
-http://62.4.21.70:8000/live/akdim/akdim/3896.ts
+http://62.4.21.70:8000/live/akdim/akdim/3896.m3u8
 #EXTINF:-1,AR_MBC1_HD
-http://62.4.21.70:8000/live/akdim/akdim/2527.ts
+http://62.4.21.70:8000/live/akdim/akdim/2527.m3u8
 #EXTINF:-1,AR_MBC2_HD
-http://62.4.21.70:8000/live/akdim/akdim/2528.ts
+http://62.4.21.70:8000/live/akdim/akdim/2528.m3u8
 #EXTINF:-1,AR_MBC3_HD
-http://62.4.21.70:8000/live/akdim/akdim/2529.ts
+http://62.4.21.70:8000/live/akdim/akdim/2529.m3u8
 #EXTINF:-1,AR_MBC_4_HD
-http://62.4.21.70:8000/live/akdim/akdim/2530.ts
+http://62.4.21.70:8000/live/akdim/akdim/2530.m3u8
 #EXTINF:-1,AR_MBC_MAX_HD
-http://62.4.21.70:8000/live/akdim/akdim/2531.ts
+http://62.4.21.70:8000/live/akdim/akdim/2531.m3u8
 #EXTINF:-1,AR_MBC_DRAMA_HD
-http://62.4.21.70:8000/live/akdim/akdim/2533.ts
+http://62.4.21.70:8000/live/akdim/akdim/2533.m3u8
 #EXTINF:-1,AR_MBC_ACTION_HD
-http://62.4.21.70:8000/live/akdim/akdim/2532.ts
+http://62.4.21.70:8000/live/akdim/akdim/2532.m3u8
 #EXTINF:-1,MBC 1 ARABIC
-http://62.4.21.70:8000/live/akdim/akdim/24.ts
+http://62.4.21.70:8000/live/akdim/akdim/24.m3u8
 #EXTINF:-1,MBC 2 ARABIC
-http://62.4.21.70:8000/live/akdim/akdim/25.ts
+http://62.4.21.70:8000/live/akdim/akdim/25.m3u8
 #EXTINF:-1,MBC 3 ARABIC
-http://62.4.21.70:8000/live/akdim/akdim/26.ts
+http://62.4.21.70:8000/live/akdim/akdim/26.m3u8
 #EXTINF:-1,MBC 4 ARABIC
-http://62.4.21.70:8000/live/akdim/akdim/27.ts
+http://62.4.21.70:8000/live/akdim/akdim/27.m3u8
 #EXTINF:-1,MBC DRAMA ARABIC
-http://62.4.21.70:8000/live/akdim/akdim/360.ts
+http://62.4.21.70:8000/live/akdim/akdim/360.m3u8
 #EXTINF:-1,MBC  MAX ARABIC
-http://62.4.21.70:8000/live/akdim/akdim/28.ts
+http://62.4.21.70:8000/live/akdim/akdim/28.m3u8
 #EXTINF:-1,MBC ACTION ARABIC
-http://62.4.21.70:8000/live/akdim/akdim/29.ts
+http://62.4.21.70:8000/live/akdim/akdim/29.m3u8
 #EXTINF:-1,MBC BOLLYWOOD ARABIC
-http://62.4.21.70:8000/live/akdim/akdim/30.ts
+http://62.4.21.70:8000/live/akdim/akdim/30.m3u8
 #EXTINF:-1,MBC_MASR
-http://62.4.21.70:8000/live/akdim/akdim/386.ts
+http://62.4.21.70:8000/live/akdim/akdim/386.m3u8
 #EXTINF:-1,MBC_MASR2
-http://62.4.21.70:8000/live/akdim/akdim/385.ts
+http://62.4.21.70:8000/live/akdim/akdim/385.m3u8
 #EXTINF:-1,WANASAH
-http://62.4.21.70:8000/live/akdim/akdim/1902.ts
+http://62.4.21.70:8000/live/akdim/akdim/1902.m3u8
 #EXTINF:-1,====ROTANA====
-http://62.4.21.70:8000/live/akdim/akdim/3897.ts
+http://62.4.21.70:8000/live/akdim/akdim/3897.m3u8
 #EXTINF:-1,AR Rotana Cinema Ksa
-http://62.4.21.70:8000/live/akdim/akdim/2026.ts
+http://62.4.21.70:8000/live/akdim/akdim/2026.m3u8
 #EXTINF:-1,AR Rotana - AR Rotana
-http://62.4.21.70:8000/live/akdim/akdim/2025.ts
+http://62.4.21.70:8000/live/akdim/akdim/2025.m3u8
 #EXTINF:-1,ROTANA_CINEMA
-http://62.4.21.70:8000/live/akdim/akdim/148.ts
+http://62.4.21.70:8000/live/akdim/akdim/148.m3u8
 #EXTINF:-1,ROTANA_MASRIYA
-http://62.4.21.70:8000/live/akdim/akdim/147.ts
+http://62.4.21.70:8000/live/akdim/akdim/147.m3u8
 #EXTINF:-1,ROTANA CLIP ARABIC
-http://62.4.21.70:8000/live/akdim/akdim/144.ts
+http://62.4.21.70:8000/live/akdim/akdim/144.m3u8
 #EXTINF:-1,ROTANA_CLASSIC
-http://62.4.21.70:8000/live/akdim/akdim/146.ts
+http://62.4.21.70:8000/live/akdim/akdim/146.m3u8
 #EXTINF:-1,ROTANA MUSIC ARABIC
-http://62.4.21.70:8000/live/akdim/akdim/145.ts
+http://62.4.21.70:8000/live/akdim/akdim/145.m3u8
 #EXTINF:-1,ROTANA_KHALIJIA
-http://62.4.21.70:8000/live/akdim/akdim/352.ts
+http://62.4.21.70:8000/live/akdim/akdim/352.m3u8
 #EXTINF:-1,====SAUDI====
-http://62.4.21.70:8000/live/akdim/akdim/3898.ts
+http://62.4.21.70:8000/live/akdim/akdim/3898.m3u8
 #EXTINF:-1,AR Saudi Sunnah - AR Saudi Sunnah
-http://62.4.21.70:8000/live/akdim/akdim/2046.ts
+http://62.4.21.70:8000/live/akdim/akdim/2046.m3u8
 #EXTINF:-1,AR Saudi Quran - AR Saudi Quran
-http://62.4.21.70:8000/live/akdim/akdim/2045.ts
+http://62.4.21.70:8000/live/akdim/akdim/2045.m3u8
 #EXTINF:-1,AR_Saudi_Channel2
-http://62.4.21.70:8000/live/akdim/akdim/2324.ts
+http://62.4.21.70:8000/live/akdim/akdim/2324.m3u8
 #EXTINF:-1,AR_Saudi_Anti
-http://62.4.21.70:8000/live/akdim/akdim/2323.ts
+http://62.4.21.70:8000/live/akdim/akdim/2323.m3u8
 #EXTINF:-1,AR_Saudi24
-http://62.4.21.70:8000/live/akdim/akdim/2322.ts
+http://62.4.21.70:8000/live/akdim/akdim/2322.m3u8
 #EXTINF:-1,AR_Al_Mergab
-http://62.4.21.70:8000/live/akdim/akdim/2381.ts
+http://62.4.21.70:8000/live/akdim/akdim/2381.m3u8
 #EXTINF:-1,AR_Saudi1
-http://62.4.21.70:8000/live/akdim/akdim/2321.ts
+http://62.4.21.70:8000/live/akdim/akdim/2321.m3u8
 #EXTINF:-1,====ISLAMIC====
-http://62.4.21.70:8000/live/akdim/akdim/3899.ts
+http://62.4.21.70:8000/live/akdim/akdim/3899.m3u8
 #EXTINF:-1,AR_Al_Nada
-http://62.4.21.70:8000/live/akdim/akdim/2377.ts
+http://62.4.21.70:8000/live/akdim/akdim/2377.m3u8
 #EXTINF:-1,AR_Wesal
-http://62.4.21.70:8000/live/akdim/akdim/2398.ts
+http://62.4.21.70:8000/live/akdim/akdim/2398.m3u8
 #EXTINF:-1,AR Al Rahma
-http://62.4.21.70:8000/live/akdim/akdim/2048.ts
+http://62.4.21.70:8000/live/akdim/akdim/2048.m3u8
 #EXTINF:-1,AR_Tayba_TV
-http://62.4.21.70:8000/live/akdim/akdim/2337.ts
+http://62.4.21.70:8000/live/akdim/akdim/2337.m3u8
 #EXTINF:-1,AR Resalat Al Islam
-http://62.4.21.70:8000/live/akdim/akdim/2047.ts
+http://62.4.21.70:8000/live/akdim/akdim/2047.m3u8
 #EXTINF:-1,AR_Quran_TV
-http://62.4.21.70:8000/live/akdim/akdim/2441.ts
+http://62.4.21.70:8000/live/akdim/akdim/2441.m3u8
 #EXTINF:-1,AR Mta Muslim TV
-http://62.4.21.70:8000/live/akdim/akdim/2051.ts
+http://62.4.21.70:8000/live/akdim/akdim/2051.m3u8
 #EXTINF:-1,AR Jannah
-http://62.4.21.70:8000/live/akdim/akdim/2049.ts
+http://62.4.21.70:8000/live/akdim/akdim/2049.m3u8
 #EXTINF:-1,AR Mta Arabic
-http://62.4.21.70:8000/live/akdim/akdim/2052.ts
+http://62.4.21.70:8000/live/akdim/akdim/2052.m3u8
 #EXTINF:-1,AR_Belad_Haramen
-http://62.4.21.70:8000/live/akdim/akdim/2456.ts
+http://62.4.21.70:8000/live/akdim/akdim/2456.m3u8
 #EXTINF:-1,AR Al Zitouna Hedaya - AR Al Zitouna Hedaya
-http://62.4.21.70:8000/live/akdim/akdim/2034.ts
+http://62.4.21.70:8000/live/akdim/akdim/2034.m3u8
 #EXTINF:-1,AR_Bahrain_Quran
-http://62.4.21.70:8000/live/akdim/akdim/2453.ts
+http://62.4.21.70:8000/live/akdim/akdim/2453.m3u8
 #EXTINF:-1,====ARAB NILESAT====
-http://62.4.21.70:8000/live/akdim/akdim/1734.ts
+http://62.4.21.70:8000/live/akdim/akdim/1734.m3u8
 #EXTINF:-1,AR_Qatar_Today
-http://62.4.21.70:8000/live/akdim/akdim/2432.ts
+http://62.4.21.70:8000/live/akdim/akdim/2432.m3u8
 #EXTINF:-1,AR_Talaqie
-http://62.4.21.70:8000/live/akdim/akdim/2325.ts
+http://62.4.21.70:8000/live/akdim/akdim/2325.m3u8
 #EXTINF:-1,SAMA SYRIA
-http://62.4.21.70:8000/live/akdim/akdim/4143.ts
+http://62.4.21.70:8000/live/akdim/akdim/4143.m3u8
 #EXTINF:-1,SYRIA AL OULA
-http://62.4.21.70:8000/live/akdim/akdim/4139.ts
+http://62.4.21.70:8000/live/akdim/akdim/4139.m3u8
 #EXTINF:-1,SYRIA NEWS
-http://62.4.21.70:8000/live/akdim/akdim/4138.ts
+http://62.4.21.70:8000/live/akdim/akdim/4138.m3u8
 #EXTINF:-1,TALAQIE SYRIA TV
-http://62.4.21.70:8000/live/akdim/akdim/4142.ts
+http://62.4.21.70:8000/live/akdim/akdim/4142.m3u8
 #EXTINF:-1,UGARIT SYRIA TV
-http://62.4.21.70:8000/live/akdim/akdim/4141.ts
+http://62.4.21.70:8000/live/akdim/akdim/4141.m3u8
 #EXTINF:-1,AR_Syria_Education
-http://62.4.21.70:8000/live/akdim/akdim/2313.ts
+http://62.4.21.70:8000/live/akdim/akdim/2313.m3u8
 #EXTINF:-1,AR_Syria_Drama
-http://62.4.21.70:8000/live/akdim/akdim/2312.ts
+http://62.4.21.70:8000/live/akdim/akdim/2312.m3u8
 #EXTINF:-1,AR_Sat_7Plus
-http://62.4.21.70:8000/live/akdim/akdim/2362.ts
+http://62.4.21.70:8000/live/akdim/akdim/2362.m3u8
 #EXTINF:-1,AR_Sat_7Kids
-http://62.4.21.70:8000/live/akdim/akdim/2363.ts
+http://62.4.21.70:8000/live/akdim/akdim/2363.m3u8
 #EXTINF:-1,AR_Sat7
-http://62.4.21.70:8000/live/akdim/akdim/2361.ts
+http://62.4.21.70:8000/live/akdim/akdim/2361.m3u8
 #EXTINF:-1,AR Otv
-http://62.4.21.70:8000/live/akdim/akdim/2056.ts
+http://62.4.21.70:8000/live/akdim/akdim/2056.m3u8
 #EXTINF:-1,AR_Oman_TV
-http://62.4.21.70:8000/live/akdim/akdim/2400.ts
+http://62.4.21.70:8000/live/akdim/akdim/2400.m3u8
 #EXTINF:-1,AR_Noursat
-http://62.4.21.70:8000/live/akdim/akdim/2284.ts
+http://62.4.21.70:8000/live/akdim/akdim/2284.m3u8
 #EXTINF:-1,AR_Nour_El_Sham
-http://62.4.21.70:8000/live/akdim/akdim/2302.ts
+http://62.4.21.70:8000/live/akdim/akdim/2302.m3u8
 #EXTINF:-1,AR_Neelain_Sport
-http://62.4.21.70:8000/live/akdim/akdim/2450.ts
+http://62.4.21.70:8000/live/akdim/akdim/2450.m3u8
 #EXTINF:-1,AR_Naba_TV
-http://62.4.21.70:8000/live/akdim/akdim/2298.ts
+http://62.4.21.70:8000/live/akdim/akdim/2298.m3u8
 #EXTINF:-1,AR Mtv Lebanon - AR Mtv Lebanon
-http://62.4.21.70:8000/live/akdim/akdim/2058.ts
+http://62.4.21.70:8000/live/akdim/akdim/2058.m3u8
 #EXTINF:-1,AR_Mouritania_TV
-http://62.4.21.70:8000/live/akdim/akdim/2451.ts
+http://62.4.21.70:8000/live/akdim/akdim/2451.m3u8
 #EXTINF:-1,AR_Menara_TV
-http://62.4.21.70:8000/live/akdim/akdim/2433.ts
+http://62.4.21.70:8000/live/akdim/akdim/2433.m3u8
 #EXTINF:-1,AR_Masdar
-http://62.4.21.70:8000/live/akdim/akdim/2385.ts
+http://62.4.21.70:8000/live/akdim/akdim/2385.m3u8
 #EXTINF:-1,AR_Maan_TV
-http://62.4.21.70:8000/live/akdim/akdim/2310.ts
+http://62.4.21.70:8000/live/akdim/akdim/2310.m3u8
 #EXTINF:-1,AR Ldc - AR Ldc
-http://62.4.21.70:8000/live/akdim/akdim/2055.ts
+http://62.4.21.70:8000/live/akdim/akdim/2055.m3u8
 #EXTINF:-1,AR Lbc Libanon - AR Lbc Libanon
-http://62.4.21.70:8000/live/akdim/akdim/2054.ts
+http://62.4.21.70:8000/live/akdim/akdim/2054.m3u8
 #EXTINF:-1,AR_Azhari
-http://62.4.21.70:8000/live/akdim/akdim/2405.ts
+http://62.4.21.70:8000/live/akdim/akdim/2405.m3u8
 #EXTINF:-1,AR_Kuwait_Deretna
-http://62.4.21.70:8000/live/akdim/akdim/2341.ts
+http://62.4.21.70:8000/live/akdim/akdim/2341.m3u8
 #EXTINF:-1,AR_Kuwait
-http://62.4.21.70:8000/live/akdim/akdim/2339.ts
+http://62.4.21.70:8000/live/akdim/akdim/2339.m3u8
 #EXTINF:-1,AR_Ktv_Sport
-http://62.4.21.70:8000/live/akdim/akdim/2473.ts
+http://62.4.21.70:8000/live/akdim/akdim/2473.m3u8
 #EXTINF:-1,A_Ktv_2
-http://62.4.21.70:8000/live/akdim/akdim/2472.ts
+http://62.4.21.70:8000/live/akdim/akdim/2472.m3u8
 #EXTINF:-1,AR Future
-http://62.4.21.70:8000/live/akdim/akdim/2059.ts
+http://62.4.21.70:8000/live/akdim/akdim/2059.m3u8
 #EXTINF:-1,AR_Eladjwaa
-http://62.4.21.70:8000/live/akdim/akdim/2333.ts
+http://62.4.21.70:8000/live/akdim/akdim/2333.m3u8
 #EXTINF:-1,AR_El_Heya_TV
-http://62.4.21.70:8000/live/akdim/akdim/2293.ts
+http://62.4.21.70:8000/live/akdim/akdim/2293.m3u8
 #EXTINF:-1,AR_Dawan_TV
-http://62.4.21.70:8000/live/akdim/akdim/2383.ts
+http://62.4.21.70:8000/live/akdim/akdim/2383.m3u8
 #EXTINF:-1,AR_Blue_Nile
-http://62.4.21.70:8000/live/akdim/akdim/2455.ts
+http://62.4.21.70:8000/live/akdim/akdim/2455.m3u8
 #EXTINF:-1,AR_Bahia_TV
-http://62.4.21.70:8000/live/akdim/akdim/2328.ts
+http://62.4.21.70:8000/live/akdim/akdim/2328.m3u8
 #EXTINF:-1,AR_Ashorooq
-http://62.4.21.70:8000/live/akdim/akdim/2447.ts
+http://62.4.21.70:8000/live/akdim/akdim/2447.m3u8
 #EXTINF:-1,AR_Althaqafiah
-http://62.4.21.70:8000/live/akdim/akdim/2452.ts
+http://62.4.21.70:8000/live/akdim/akdim/2452.m3u8
 #EXTINF:-1,AR_Al_Waad
-http://62.4.21.70:8000/live/akdim/akdim/2319.ts
+http://62.4.21.70:8000/live/akdim/akdim/2319.m3u8
 #EXTINF:-1,AR_Al_Thabat
-http://62.4.21.70:8000/live/akdim/akdim/2347.ts
+http://62.4.21.70:8000/live/akdim/akdim/2347.m3u8
 #EXTINF:-1,AR_Al_Teeb
-http://62.4.21.70:8000/live/akdim/akdim/2382.ts
+http://62.4.21.70:8000/live/akdim/akdim/2382.m3u8
 #EXTINF:-1,AR_Al_Sirat
-http://62.4.21.70:8000/live/akdim/akdim/2399.ts
+http://62.4.21.70:8000/live/akdim/akdim/2399.m3u8
 #EXTINF:-1,AR_Al_Shallal
-http://62.4.21.70:8000/live/akdim/akdim/2348.ts
+http://62.4.21.70:8000/live/akdim/akdim/2348.m3u8
 #EXTINF:-1,AR_Al_Shahed
-http://62.4.21.70:8000/live/akdim/akdim/2349.ts
+http://62.4.21.70:8000/live/akdim/akdim/2349.m3u8
 #EXTINF:-1,AR_Al_Shababtv
-http://62.4.21.70:8000/live/akdim/akdim/2344.ts
+http://62.4.21.70:8000/live/akdim/akdim/2344.m3u8
 #EXTINF:-1,AR_Al_Sahraa_Aalebel
-http://62.4.21.70:8000/live/akdim/akdim/2373.ts
+http://62.4.21.70:8000/live/akdim/akdim/2373.m3u8
 #EXTINF:-1,AR_Al_Rayyan
-http://62.4.21.70:8000/live/akdim/akdim/2401.ts
+http://62.4.21.70:8000/live/akdim/akdim/2401.m3u8
 #EXTINF:-1,AR_Al_Rasheed
-http://62.4.21.70:8000/live/akdim/akdim/2316.ts
+http://62.4.21.70:8000/live/akdim/akdim/2316.m3u8
 #EXTINF:-1,AR_Al_Quds
-http://62.4.21.70:8000/live/akdim/akdim/2392.ts
+http://62.4.21.70:8000/live/akdim/akdim/2392.m3u8
 #EXTINF:-1,AR_Al_Qanat
-http://62.4.21.70:8000/live/akdim/akdim/2379.ts
+http://62.4.21.70:8000/live/akdim/akdim/2379.m3u8
 #EXTINF:-1,AR_Al_Qamar
-http://62.4.21.70:8000/live/akdim/akdim/2376.ts
+http://62.4.21.70:8000/live/akdim/akdim/2376.m3u8
 #EXTINF:-1,AR Al Omah
-http://62.4.21.70:8000/live/akdim/akdim/2050.ts
+http://62.4.21.70:8000/live/akdim/akdim/2050.m3u8
 #EXTINF:-1,AR_Al_Naeem
-http://62.4.21.70:8000/live/akdim/akdim/2338.ts
+http://62.4.21.70:8000/live/akdim/akdim/2338.m3u8
 #EXTINF:-1,AR_Al_Mustakila
-http://62.4.21.70:8000/live/akdim/akdim/2329.ts
+http://62.4.21.70:8000/live/akdim/akdim/2329.m3u8
 #EXTINF:-1,AR_Al_Karma_TV
-http://62.4.21.70:8000/live/akdim/akdim/2296.ts
+http://62.4.21.70:8000/live/akdim/akdim/2296.m3u8
 #EXTINF:-1,AR_Al_Itejah
-http://62.4.21.70:8000/live/akdim/akdim/2327.ts
+http://62.4.21.70:8000/live/akdim/akdim/2327.m3u8
 #EXTINF:-1,AR_Al_InsenTV
-http://62.4.21.70:8000/live/akdim/akdim/2295.ts
+http://62.4.21.70:8000/live/akdim/akdim/2295.m3u8
 #EXTINF:-1,AR Al Haqiqa
-http://62.4.21.70:8000/live/akdim/akdim/2053.ts
+http://62.4.21.70:8000/live/akdim/akdim/2053.m3u8
 #EXTINF:-1,AR_Al_Ghad_Alarbiya
-http://62.4.21.70:8000/live/akdim/akdim/2283.ts
+http://62.4.21.70:8000/live/akdim/akdim/2283.m3u8
 #EXTINF:-1,AR_Al_Gamaiya
-http://62.4.21.70:8000/live/akdim/akdim/2305.ts
+http://62.4.21.70:8000/live/akdim/akdim/2305.m3u8
 #EXTINF:-1,AR_Al_Forat2
-http://62.4.21.70:8000/live/akdim/akdim/2351.ts
+http://62.4.21.70:8000/live/akdim/akdim/2351.m3u8
 #EXTINF:-1,AR_Al_Fayhaa
-http://62.4.21.70:8000/live/akdim/akdim/2320.ts
+http://62.4.21.70:8000/live/akdim/akdim/2320.m3u8
 #EXTINF:-1,AR_Al_Eshraq
-http://62.4.21.70:8000/live/akdim/akdim/2380.ts
+http://62.4.21.70:8000/live/akdim/akdim/2380.m3u8
 #EXTINF:-1,AR_Al_Ekhbaria_Al_Soriya
-http://62.4.21.70:8000/live/akdim/akdim/2315.ts
+http://62.4.21.70:8000/live/akdim/akdim/2315.m3u8
 #EXTINF:-1,AR_Al_Diyar
-http://62.4.21.70:8000/live/akdim/akdim/2378.ts
+http://62.4.21.70:8000/live/akdim/akdim/2378.m3u8
 #EXTINF:-1,AR_Al_Bawadi
-http://62.4.21.70:8000/live/akdim/akdim/2409.ts
+http://62.4.21.70:8000/live/akdim/akdim/2409.m3u8
 #EXTINF:-1,AR_Al_Basira_2
-http://62.4.21.70:8000/live/akdim/akdim/2356.ts
+http://62.4.21.70:8000/live/akdim/akdim/2356.m3u8
 #EXTINF:-1,AR_Al_Basira
-http://62.4.21.70:8000/live/akdim/akdim/2355.ts
+http://62.4.21.70:8000/live/akdim/akdim/2355.m3u8
 #EXTINF:-1,AR_Al_Bait_Baitak_Cinema
-http://62.4.21.70:8000/live/akdim/akdim/2309.ts
+http://62.4.21.70:8000/live/akdim/akdim/2309.m3u8
 #EXTINF:-1,AR_Al_Baghdadia
-http://62.4.21.70:8000/live/akdim/akdim/2353.ts
+http://62.4.21.70:8000/live/akdim/akdim/2353.m3u8
 #EXTINF:-1,AR_Al_Awhad
-http://62.4.21.70:8000/live/akdim/akdim/2370.ts
+http://62.4.21.70:8000/live/akdim/akdim/2370.m3u8
 #EXTINF:-1,AR_Al_Atrja
-http://62.4.21.70:8000/live/akdim/akdim/2396.ts
+http://62.4.21.70:8000/live/akdim/akdim/2396.m3u8
 #EXTINF:-1,AR_Al_Asrar_TV
-http://62.4.21.70:8000/live/akdim/akdim/2297.ts
+http://62.4.21.70:8000/live/akdim/akdim/2297.m3u8
 #EXTINF:-1,AR_Al_Asr_TV
-http://62.4.21.70:8000/live/akdim/akdim/2406.ts
+http://62.4.21.70:8000/live/akdim/akdim/2406.m3u8
 #EXTINF:-1,AR_Al_Araby
-http://62.4.21.70:8000/live/akdim/akdim/2350.ts
+http://62.4.21.70:8000/live/akdim/akdim/2350.m3u8
 #EXTINF:-1,AR Al Alam News Channel
-http://62.4.21.70:8000/live/akdim/akdim/2040.ts
+http://62.4.21.70:8000/live/akdim/akdim/2040.m3u8
 #EXTINF:-1,AR_Akh_TV
-http://62.4.21.70:8000/live/akdim/akdim/2291.ts
+http://62.4.21.70:8000/live/akdim/akdim/2291.m3u8
 #EXTINF:-1,AR_Ajyal
-http://62.4.21.70:8000/live/akdim/akdim/2445.ts
+http://62.4.21.70:8000/live/akdim/akdim/2445.m3u8
 #EXTINF:-1,AR_Ahel_Al_Quran
-http://62.4.21.70:8000/live/akdim/akdim/2395.ts
+http://62.4.21.70:8000/live/akdim/akdim/2395.m3u8
 #EXTINF:-1,AR_Aghanina
-http://62.4.21.70:8000/live/akdim/akdim/2334.ts
+http://62.4.21.70:8000/live/akdim/akdim/2334.m3u8
 #EXTINF:-1,AR_Aghani
-http://62.4.21.70:8000/live/akdim/akdim/2287.ts
+http://62.4.21.70:8000/live/akdim/akdim/2287.m3u8
 #EXTINF:-1,AR_Afrah_TV
-http://62.4.21.70:8000/live/akdim/akdim/2285.ts
+http://62.4.21.70:8000/live/akdim/akdim/2285.m3u8
 #EXTINF:-1,AR_Abalfadhl_Allabas_Tv
-http://62.4.21.70:8000/live/akdim/akdim/2367.ts
+http://62.4.21.70:8000/live/akdim/akdim/2367.m3u8
 #EXTINF:-1,AR Panorama film
-http://62.4.21.70:8000/live/akdim/akdim/1673.ts
+http://62.4.21.70:8000/live/akdim/akdim/1673.m3u8
 #EXTINF:-1,AR B4U Plus
-http://62.4.21.70:8000/live/akdim/akdim/1469.ts
+http://62.4.21.70:8000/live/akdim/akdim/1469.m3u8
 #EXTINF:-1,AR B4U Aflam
-http://62.4.21.70:8000/live/akdim/akdim/1470.ts
+http://62.4.21.70:8000/live/akdim/akdim/1470.m3u8
 #EXTINF:-1,Zitouna Hedaya - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3136.ts
+http://62.4.21.70:8000/live/akdim/akdim/3136.m3u8
 #EXTINF:-1,Zein TV - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3160.ts
+http://62.4.21.70:8000/live/akdim/akdim/3160.m3u8
 #EXTINF:-1,Zee Living - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3138.ts
+http://62.4.21.70:8000/live/akdim/akdim/3138.m3u8
 #EXTINF:-1,Yemen TV - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3157.ts
+http://62.4.21.70:8000/live/akdim/akdim/3157.m3u8
 #EXTINF:-1,Yemen Shabab - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3159.ts
+http://62.4.21.70:8000/live/akdim/akdim/3159.m3u8
 #EXTINF:-1,Suryoyo Sat - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3169.ts
+http://62.4.21.70:8000/live/akdim/akdim/3169.m3u8
 #EXTINF:-1,Suryana - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3162.ts
+http://62.4.21.70:8000/live/akdim/akdim/3162.m3u8
 #EXTINF:-1,Shahamh - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3172.ts
+http://62.4.21.70:8000/live/akdim/akdim/3172.m3u8
 #EXTINF:-1,Sanaa TV - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3182.ts
+http://62.4.21.70:8000/live/akdim/akdim/3182.m3u8
 #EXTINF:-1,Sama Yemen - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3158.ts
+http://62.4.21.70:8000/live/akdim/akdim/3158.m3u8
 #EXTINF:-1,Rt Arab - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3144.ts
+http://62.4.21.70:8000/live/akdim/akdim/3144.m3u8
 #EXTINF:-1,Quo.edu - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3118.ts
+http://62.4.21.70:8000/live/akdim/akdim/3118.m3u8
 #EXTINF:-1,Qatar TV HD - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3156.ts
+http://62.4.21.70:8000/live/akdim/akdim/3156.m3u8
 #EXTINF:-1,Palastine Sport - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3119.ts
+http://62.4.21.70:8000/live/akdim/akdim/3119.m3u8
 #EXTINF:-1,Palastine News - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3120.ts
+http://62.4.21.70:8000/live/akdim/akdim/3120.m3u8
 #EXTINF:-1,Palastine Live - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3121.ts
+http://62.4.21.70:8000/live/akdim/akdim/3121.m3u8
 #EXTINF:-1,Palastine - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3122.ts
+http://62.4.21.70:8000/live/akdim/akdim/3122.m3u8
 #EXTINF:-1,Noursat Al Chabab - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3170.ts
+http://62.4.21.70:8000/live/akdim/akdim/3170.m3u8
 #EXTINF:-1,Mystro TV - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3180.ts
+http://62.4.21.70:8000/live/akdim/akdim/3180.m3u8
 #EXTINF:-1,Music Al Hanen - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3161.ts
+http://62.4.21.70:8000/live/akdim/akdim/3161.m3u8
 #EXTINF:-1,Musawa - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3123.ts
+http://62.4.21.70:8000/live/akdim/akdim/3123.m3u8
 #EXTINF:-1,Mouritania - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3186.ts
+http://62.4.21.70:8000/live/akdim/akdim/3186.m3u8
 #EXTINF:-1,Mbc Pro Sports 4 - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3137.ts
+http://62.4.21.70:8000/live/akdim/akdim/3137.m3u8
 #EXTINF:-1,Massaya - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3146.ts
+http://62.4.21.70:8000/live/akdim/akdim/3146.m3u8
 #EXTINF:-1,Maspero Zaman
-http://62.4.21.70:8000/live/akdim/akdim/3173.ts
+http://62.4.21.70:8000/live/akdim/akdim/3173.m3u8
 #EXTINF:-1,Ktv 3 - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3150.ts
+http://62.4.21.70:8000/live/akdim/akdim/3150.m3u8
 #EXTINF:-1,Kitabat TV - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3189.ts
+http://62.4.21.70:8000/live/akdim/akdim/3189.m3u8
 #EXTINF:-1,Karameesh - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3181.ts
+http://62.4.21.70:8000/live/akdim/akdim/3181.m3u8
 #EXTINF:-1,Halaba TV - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3140.ts
+http://62.4.21.70:8000/live/akdim/akdim/3140.m3u8
 #EXTINF:-1,Falastiniah-Arab
-http://62.4.21.70:8000/live/akdim/akdim/3124.ts
+http://62.4.21.70:8000/live/akdim/akdim/3124.m3u8
 #EXTINF:-1,Dream 2 - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3179.ts
+http://62.4.21.70:8000/live/akdim/akdim/3179.m3u8
 #EXTINF:-1,Cinema Pro - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3139.ts
+http://62.4.21.70:8000/live/akdim/akdim/3139.m3u8
 #EXTINF:-1,Baraem Kids Europe - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3143.ts
+http://62.4.21.70:8000/live/akdim/akdim/3143.m3u8
 #EXTINF:-1,Bahrain International - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3168.ts
+http://62.4.21.70:8000/live/akdim/akdim/3168.m3u8
 #EXTINF:-1,Awdeh - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3125.ts
+http://62.4.21.70:8000/live/akdim/akdim/3125.m3u8
 #EXTINF:-1,Annajah NBC - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3126.ts
+http://62.4.21.70:8000/live/akdim/akdim/3126.m3u8
 #EXTINF:-1,Al Wilayah - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3174.ts
+http://62.4.21.70:8000/live/akdim/akdim/3174.m3u8
 #EXTINF:-1,Al Sharjah - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3178.ts
+http://62.4.21.70:8000/live/akdim/akdim/3178.m3u8
 #EXTINF:-1,Al Shamal - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3188.ts
+http://62.4.21.70:8000/live/akdim/akdim/3188.m3u8
 #EXTINF:-1,Al Qanat - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3191.ts
+http://62.4.21.70:8000/live/akdim/akdim/3191.m3u8
 #EXTINF:-1,Al Malakoot - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3171.ts
+http://62.4.21.70:8000/live/akdim/akdim/3171.m3u8
 #EXTINF:-1,Al Majd Kids HD - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3155.ts
+http://62.4.21.70:8000/live/akdim/akdim/3155.m3u8
 #EXTINF:-1,Al Majd 4 - arab
-http://62.4.21.70:8000/live/akdim/akdim/3154.ts
+http://62.4.21.70:8000/live/akdim/akdim/3154.m3u8
 #EXTINF:-1,Al Majd 3 - arab
-http://62.4.21.70:8000/live/akdim/akdim/3153.ts
+http://62.4.21.70:8000/live/akdim/akdim/3153.m3u8
 #EXTINF:-1,Al Majd 2 - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3152.ts
+http://62.4.21.70:8000/live/akdim/akdim/3152.m3u8
 #EXTINF:-1,Al Majd 1  - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3151.ts
+http://62.4.21.70:8000/live/akdim/akdim/3151.m3u8
 #EXTINF:-1,Al Jadeed - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3190.ts
+http://62.4.21.70:8000/live/akdim/akdim/3190.m3u8
 #EXTINF:-1,Al Fady - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3176.ts
+http://62.4.21.70:8000/live/akdim/akdim/3176.m3u8
 #EXTINF:-1,Al Dawaeia - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3187.ts
+http://62.4.21.70:8000/live/akdim/akdim/3187.m3u8
 #EXTINF:-1,Al Askandria - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3141.ts
+http://62.4.21.70:8000/live/akdim/akdim/3141.m3u8
 #EXTINF:-1,Al Arrab - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3175.ts
+http://62.4.21.70:8000/live/akdim/akdim/3175.m3u8
 #EXTINF:-1,Al Amaken - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3177.ts
+http://62.4.21.70:8000/live/akdim/akdim/3177.m3u8
 #EXTINF:-1,Aghapy - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3184.ts
+http://62.4.21.70:8000/live/akdim/akdim/3184.m3u8
 #EXTINF:-1,Abn - Arab
-http://62.4.21.70:8000/live/akdim/akdim/3185.ts
+http://62.4.21.70:8000/live/akdim/akdim/3185.m3u8
 #EXTINF:-1,ZEE ALWAN
-http://62.4.21.70:8000/live/akdim/akdim/1903.ts
+http://62.4.21.70:8000/live/akdim/akdim/1903.m3u8
 #EXTINF:-1,ZEE AFLAM
-http://62.4.21.70:8000/live/akdim/akdim/1919.ts
+http://62.4.21.70:8000/live/akdim/akdim/1919.m3u8
 #EXTINF:-1,PSC
-http://62.4.21.70:8000/live/akdim/akdim/1914.ts
+http://62.4.21.70:8000/live/akdim/akdim/1914.m3u8
 #EXTINF:-1,AR_Ktv_1
-http://62.4.21.70:8000/live/akdim/akdim/2471.ts
+http://62.4.21.70:8000/live/akdim/akdim/2471.m3u8
 #EXTINF:-1,PALESTINE TODAY
-http://62.4.21.70:8000/live/akdim/akdim/1916.ts
+http://62.4.21.70:8000/live/akdim/akdim/1916.m3u8
 #EXTINF:-1,FUNOON
-http://62.4.21.70:8000/live/akdim/akdim/1896.ts
+http://62.4.21.70:8000/live/akdim/akdim/1896.m3u8
 #EXTINF:-1,DUBAI TV
-http://62.4.21.70:8000/live/akdim/akdim/413.ts
+http://62.4.21.70:8000/live/akdim/akdim/413.m3u8
 #EXTINF:-1,IQRAA
-http://62.4.21.70:8000/live/akdim/akdim/430.ts
+http://62.4.21.70:8000/live/akdim/akdim/430.m3u8
 #EXTINF:-1,AL RESALAH
-http://62.4.21.70:8000/live/akdim/akdim/383.ts
+http://62.4.21.70:8000/live/akdim/akdim/383.m3u8
 #EXTINF:-1,MEKKA TV
-http://62.4.21.70:8000/live/akdim/akdim/422.ts
+http://62.4.21.70:8000/live/akdim/akdim/422.m3u8
 #EXTINF:-1,AL MAJD QURAN AR
-http://62.4.21.70:8000/live/akdim/akdim/677.ts
+http://62.4.21.70:8000/live/akdim/akdim/677.m3u8
 #EXTINF:-1,AL MAJD ISLAM AR
-http://62.4.21.70:8000/live/akdim/akdim/676.ts
+http://62.4.21.70:8000/live/akdim/akdim/676.m3u8
 #EXTINF:-1,AR Cartoon network
-http://62.4.21.70:8000/live/akdim/akdim/1687.ts
+http://62.4.21.70:8000/live/akdim/akdim/1687.m3u8
 #EXTINF:-1,AR: Toyor Al Janah
-http://62.4.21.70:8000/live/akdim/akdim/932.ts
+http://62.4.21.70:8000/live/akdim/akdim/932.m3u8
 #EXTINF:-1,AR: Spacetoon
-http://62.4.21.70:8000/live/akdim/akdim/934.ts
+http://62.4.21.70:8000/live/akdim/akdim/934.m3u8
 #EXTINF:-1,AR Al Waha
-http://62.4.21.70:8000/live/akdim/akdim/1701.ts
+http://62.4.21.70:8000/live/akdim/akdim/1701.m3u8
 #EXTINF:-1,AR AL Shallal TV
-http://62.4.21.70:8000/live/akdim/akdim/1703.ts
+http://62.4.21.70:8000/live/akdim/akdim/1703.m3u8
 #EXTINF:-1,AR AL Nahar
-http://62.4.21.70:8000/live/akdim/akdim/1711.ts
+http://62.4.21.70:8000/live/akdim/akdim/1711.m3u8
 #EXTINF:-1,MOURIDIYAH SENEGAL
-http://62.4.21.70:8000/live/akdim/akdim/684.ts
+http://62.4.21.70:8000/live/akdim/akdim/684.m3u8
 #EXTINF:-1,===MUSIC====
-http://62.4.21.70:8000/live/akdim/akdim/1746.ts
+http://62.4.21.70:8000/live/akdim/akdim/1746.m3u8
 #EXTINF:-1,VEVO 1
-http://62.4.21.70:8000/live/akdim/akdim/572.ts
+http://62.4.21.70:8000/live/akdim/akdim/572.m3u8
 #EXTINF:-1,VEVO 2
-http://62.4.21.70:8000/live/akdim/akdim/571.ts
+http://62.4.21.70:8000/live/akdim/akdim/571.m3u8
 #EXTINF:-1,VEVO 3
-http://62.4.21.70:8000/live/akdim/akdim/570.ts
+http://62.4.21.70:8000/live/akdim/akdim/570.m3u8
 #EXTINF:-1,====PORTUGAL====
-http://62.4.21.70:8000/live/akdim/akdim/1747.ts
+http://62.4.21.70:8000/live/akdim/akdim/1747.m3u8
 #EXTINF:-1,Tvi_24_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3606.ts
+http://62.4.21.70:8000/live/akdim/akdim/3606.m3u8
 #EXTINF:-1,Tvi_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3607.ts
+http://62.4.21.70:8000/live/akdim/akdim/3607.m3u8
 #EXTINF:-1,Tv_Sick_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3608.ts
+http://62.4.21.70:8000/live/akdim/akdim/3608.m3u8
 #EXTINF:-1,TV_Series_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3609.ts
+http://62.4.21.70:8000/live/akdim/akdim/3609.m3u8
 #EXTINF:-1,Tv_Globo_Premium_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3603.ts
+http://62.4.21.70:8000/live/akdim/akdim/3603.m3u8
 #EXTINF:-1,TV_Globo_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3575.ts
+http://62.4.21.70:8000/live/akdim/akdim/3575.m3u8
 #EXTINF:-1,TV_Cine_4_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3610.ts
+http://62.4.21.70:8000/live/akdim/akdim/3610.m3u8
 #EXTINF:-1,TV_Cine_3_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3611.ts
+http://62.4.21.70:8000/live/akdim/akdim/3611.m3u8
 #EXTINF:-1,TV_Cine_2_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3612.ts
+http://62.4.21.70:8000/live/akdim/akdim/3612.m3u8
 #EXTINF:-1,TV_Cine_1_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3613.ts
+http://62.4.21.70:8000/live/akdim/akdim/3613.m3u8
 #EXTINF:-1,Travel_Channel_HD_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3583.ts
+http://62.4.21.70:8000/live/akdim/akdim/3583.m3u8
 #EXTINF:-1,Tlc_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3614.ts
+http://62.4.21.70:8000/live/akdim/akdim/3614.m3u8
 #EXTINF:-1,Sporting_Tv_HD_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3584.ts
+http://62.4.21.70:8000/live/akdim/akdim/3584.m3u8
 #EXTINF:-1,Sport_TV_5_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3615.ts
+http://62.4.21.70:8000/live/akdim/akdim/3615.m3u8
 #EXTINF:-1,Sport_TV_4_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3616.ts
+http://62.4.21.70:8000/live/akdim/akdim/3616.m3u8
 #EXTINF:-1,Sport_TV_3_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3617.ts
+http://62.4.21.70:8000/live/akdim/akdim/3617.m3u8
 #EXTINF:-1,Sport_TV_2_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3618.ts
+http://62.4.21.70:8000/live/akdim/akdim/3618.m3u8
 #EXTINF:-1,Sport_TV_1_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3619.ts
+http://62.4.21.70:8000/live/akdim/akdim/3619.m3u8
 #EXTINF:-1,Sic_Radical_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3578.ts
+http://62.4.21.70:8000/live/akdim/akdim/3578.m3u8
 #EXTINF:-1,Sic_Noticias_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3579.ts
+http://62.4.21.70:8000/live/akdim/akdim/3579.m3u8
 #EXTINF:-1,Sic_Mulher_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3580.ts
+http://62.4.21.70:8000/live/akdim/akdim/3580.m3u8
 #EXTINF:-1,Sic_Kids_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3576.ts
+http://62.4.21.70:8000/live/akdim/akdim/3576.m3u8
 #EXTINF:-1,Sic_Caras_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3581.ts
+http://62.4.21.70:8000/live/akdim/akdim/3581.m3u8
 #EXTINF:-1,Sic_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3577.ts
+http://62.4.21.70:8000/live/akdim/akdim/3577.m3u8
 #EXTINF:-1,Rtp_Africa_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3585.ts
+http://62.4.21.70:8000/live/akdim/akdim/3585.m3u8
 #EXTINF:-1,Rtp_3_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3620.ts
+http://62.4.21.70:8000/live/akdim/akdim/3620.m3u8
 #EXTINF:-1,Rtp_2_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3621.ts
+http://62.4.21.70:8000/live/akdim/akdim/3621.m3u8
 #EXTINF:-1,Rtp_1_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3622.ts
+http://62.4.21.70:8000/live/akdim/akdim/3622.m3u8
 #EXTINF:-1,Rt_Global_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3586.ts
+http://62.4.21.70:8000/live/akdim/akdim/3586.m3u8
 #EXTINF:-1,Porto_Canal_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3587.ts
+http://62.4.21.70:8000/live/akdim/akdim/3587.m3u8
 #EXTINF:-1,PLUG_RTL
-http://62.4.21.70:8000/live/akdim/akdim/2640.ts
+http://62.4.21.70:8000/live/akdim/akdim/2640.m3u8
 #EXTINF:-1,Pfc_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3588.ts
+http://62.4.21.70:8000/live/akdim/akdim/3588.m3u8
 #EXTINF:-1,Nickelodeon_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3623.ts
+http://62.4.21.70:8000/live/akdim/akdim/3623.m3u8
 #EXTINF:-1,National_Geographic_Wild_HD_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3605.ts
+http://62.4.21.70:8000/live/akdim/akdim/3605.m3u8
 #EXTINF:-1,National_Geographic_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3582.ts
+http://62.4.21.70:8000/live/akdim/akdim/3582.m3u8
 #EXTINF:-1,Mov_HD_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3589.ts
+http://62.4.21.70:8000/live/akdim/akdim/3589.m3u8
 #EXTINF:-1,Motorvision_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3590.ts
+http://62.4.21.70:8000/live/akdim/akdim/3590.m3u8
 #EXTINF:-1,Mcm_Top_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3591.ts
+http://62.4.21.70:8000/live/akdim/akdim/3591.m3u8
 #EXTINF:-1,Hollywood_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3592.ts
+http://62.4.21.70:8000/live/akdim/akdim/3592.m3u8
 #EXTINF:-1,Fuel_TV_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3593.ts
+http://62.4.21.70:8000/live/akdim/akdim/3593.m3u8
 #EXTINF:-1,Fox_Movies_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3594.ts
+http://62.4.21.70:8000/live/akdim/akdim/3594.m3u8
 #EXTINF:-1,Fox_Life_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3624.ts
+http://62.4.21.70:8000/live/akdim/akdim/3624.m3u8
 #EXTINF:-1,Fox_Crime_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3625.ts
+http://62.4.21.70:8000/live/akdim/akdim/3625.m3u8
 #EXTINF:-1,Fox_Comedy_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3626.ts
+http://62.4.21.70:8000/live/akdim/akdim/3626.m3u8
 #EXTINF:-1,Fox_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3627.ts
+http://62.4.21.70:8000/live/akdim/akdim/3627.m3u8
 #EXTINF:-1,Eurosport_2_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3595.ts
+http://62.4.21.70:8000/live/akdim/akdim/3595.m3u8
 #EXTINF:-1,Eurosport_1_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3596.ts
+http://62.4.21.70:8000/live/akdim/akdim/3596.m3u8
 #EXTINF:-1,Economico_TV_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3597.ts
+http://62.4.21.70:8000/live/akdim/akdim/3597.m3u8
 #EXTINF:-1,E!_Entertainment_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3628.ts
+http://62.4.21.70:8000/live/akdim/akdim/3628.m3u8
 #EXTINF:-1,Disney_Channel_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3629.ts
+http://62.4.21.70:8000/live/akdim/akdim/3629.m3u8
 #EXTINF:-1,Discovery_Showcase_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3630.ts
+http://62.4.21.70:8000/live/akdim/akdim/3630.m3u8
 #EXTINF:-1,Discovery_Channel_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3631.ts
+http://62.4.21.70:8000/live/akdim/akdim/3631.m3u8
 #EXTINF:-1,Cm_TV_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3632.ts
+http://62.4.21.70:8000/live/akdim/akdim/3632.m3u8
 #EXTINF:-1,Cbs_Reality_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3598.ts
+http://62.4.21.70:8000/live/akdim/akdim/3598.m3u8
 #EXTINF:-1,Cartoon_Network_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3633.ts
+http://62.4.21.70:8000/live/akdim/akdim/3633.m3u8
 #EXTINF:-1,Canal_Panda_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3634.ts
+http://62.4.21.70:8000/live/akdim/akdim/3634.m3u8
 #EXTINF:-1,Benfica_TV_1_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3635.ts
+http://62.4.21.70:8000/live/akdim/akdim/3635.m3u8
 #EXTINF:-1,Baby_TV_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3599.ts
+http://62.4.21.70:8000/live/akdim/akdim/3599.m3u8
 #EXTINF:-1,Axn_White_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3636.ts
+http://62.4.21.70:8000/live/akdim/akdim/3636.m3u8
 #EXTINF:-1,Axn_Black_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3604.ts
+http://62.4.21.70:8000/live/akdim/akdim/3604.m3u8
 #EXTINF:-1,Axn_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3637.ts
+http://62.4.21.70:8000/live/akdim/akdim/3637.m3u8
 #EXTINF:-1,Abola_TV_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3600.ts
+http://62.4.21.70:8000/live/akdim/akdim/3600.m3u8
 #EXTINF:-1,A&E_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3601.ts
+http://62.4.21.70:8000/live/akdim/akdim/3601.m3u8
 #EXTINF:-1,24_Kitchen_-_Portugal
-http://62.4.21.70:8000/live/akdim/akdim/3602.ts
+http://62.4.21.70:8000/live/akdim/akdim/3602.m3u8
 #EXTINF:-1,PORTUGAL:RTP1
-http://62.4.21.70:8000/live/akdim/akdim/606.ts
+http://62.4.21.70:8000/live/akdim/akdim/606.m3u8
 #EXTINF:-1,====NETHERLAND====
-http://62.4.21.70:8000/live/akdim/akdim/1738.ts
+http://62.4.21.70:8000/live/akdim/akdim/1738.m3u8
 #EXTINF:-1,NL Veronica HD
-http://62.4.21.70:8000/live/akdim/akdim/732.ts
+http://62.4.21.70:8000/live/akdim/akdim/732.m3u8
 #EXTINF:-1,NL TLC
-http://62.4.21.70:8000/live/akdim/akdim/740.ts
+http://62.4.21.70:8000/live/akdim/akdim/740.m3u8
 #EXTINF:-1,NL Sport1 Voetbal HD
-http://62.4.21.70:8000/live/akdim/akdim/757.ts
+http://62.4.21.70:8000/live/akdim/akdim/757.m3u8
 #EXTINF:-1,NL Sport1 Select HD
-http://62.4.21.70:8000/live/akdim/akdim/756.ts
+http://62.4.21.70:8000/live/akdim/akdim/756.m3u8
 #EXTINF:-1,NL Sport 1 Extra 2
-http://62.4.21.70:8000/live/akdim/akdim/761.ts
+http://62.4.21.70:8000/live/akdim/akdim/761.m3u8
 #EXTINF:-1,NL SBS6 HD
-http://62.4.21.70:8000/live/akdim/akdim/725.ts
+http://62.4.21.70:8000/live/akdim/akdim/725.m3u8
 #EXTINF:-1,NL SBS9 HD
-http://62.4.21.70:8000/live/akdim/akdim/728.ts
+http://62.4.21.70:8000/live/akdim/akdim/728.m3u8
 #EXTINF:-1,NL RTL4 HD
-http://62.4.21.70:8000/live/akdim/akdim/723.ts
+http://62.4.21.70:8000/live/akdim/akdim/723.m3u8
 #EXTINF:-1,NL RTL5 HD
-http://62.4.21.70:8000/live/akdim/akdim/724.ts
+http://62.4.21.70:8000/live/akdim/akdim/724.m3u8
 #EXTINF:-1,NL RTL7 HD
-http://62.4.21.70:8000/live/akdim/akdim/726.ts
+http://62.4.21.70:8000/live/akdim/akdim/726.m3u8
 #EXTINF:-1,NL RTL8 HD
-http://62.4.21.70:8000/live/akdim/akdim/727.ts
+http://62.4.21.70:8000/live/akdim/akdim/727.m3u8
 #EXTINF:-1,NL Rtl Lounge
-http://62.4.21.70:8000/live/akdim/akdim/730.ts
+http://62.4.21.70:8000/live/akdim/akdim/730.m3u8
 #EXTINF:-1,NL NPO1 HD
-http://62.4.21.70:8000/live/akdim/akdim/720.ts
+http://62.4.21.70:8000/live/akdim/akdim/720.m3u8
 #EXTINF:-1,NL NPO2 HD
-http://62.4.21.70:8000/live/akdim/akdim/721.ts
+http://62.4.21.70:8000/live/akdim/akdim/721.m3u8
 #EXTINF:-1,NL NPO3 HD
-http://62.4.21.70:8000/live/akdim/akdim/722.ts
+http://62.4.21.70:8000/live/akdim/akdim/722.m3u8
 #EXTINF:-1,NL Nickelodeon
-http://62.4.21.70:8000/live/akdim/akdim/731.ts
+http://62.4.21.70:8000/live/akdim/akdim/731.m3u8
 #EXTINF:-1,NL NGC HD
-http://62.4.21.70:8000/live/akdim/akdim/745.ts
+http://62.4.21.70:8000/live/akdim/akdim/745.m3u8
 #EXTINF:-1,NL NET5 HD
-http://62.4.21.70:8000/live/akdim/akdim/729.ts
+http://62.4.21.70:8000/live/akdim/akdim/729.m3u8
 #EXTINF:-1,NL MTV
-http://62.4.21.70:8000/live/akdim/akdim/738.ts
+http://62.4.21.70:8000/live/akdim/akdim/738.m3u8
 #EXTINF:-1,NL HBO1 HD
-http://62.4.21.70:8000/live/akdim/akdim/753.ts
+http://62.4.21.70:8000/live/akdim/akdim/753.m3u8
 #EXTINF:-1,NL HBO2 HD
-http://62.4.21.70:8000/live/akdim/akdim/754.ts
+http://62.4.21.70:8000/live/akdim/akdim/754.m3u8
 #EXTINF:-1,NL HBO3 HD
-http://62.4.21.70:8000/live/akdim/akdim/755.ts
+http://62.4.21.70:8000/live/akdim/akdim/755.m3u8
 #EXTINF:-1,NL Fox Sports 1
-http://62.4.21.70:8000/live/akdim/akdim/762.ts
+http://62.4.21.70:8000/live/akdim/akdim/762.m3u8
 #EXTINF:-1,NL Fox Sports 2
-http://62.4.21.70:8000/live/akdim/akdim/763.ts
+http://62.4.21.70:8000/live/akdim/akdim/763.m3u8
 #EXTINF:-1,NL Fox Sports 3
-http://62.4.21.70:8000/live/akdim/akdim/764.ts
+http://62.4.21.70:8000/live/akdim/akdim/764.m3u8
 #EXTINF:-1,NL Fox Sports 4
-http://62.4.21.70:8000/live/akdim/akdim/765.ts
+http://62.4.21.70:8000/live/akdim/akdim/765.m3u8
 #EXTINF:-1,NL Fox Sports 5
-http://62.4.21.70:8000/live/akdim/akdim/766.ts
+http://62.4.21.70:8000/live/akdim/akdim/766.m3u8
 #EXTINF:-1,NL Fox
-http://62.4.21.70:8000/live/akdim/akdim/741.ts
+http://62.4.21.70:8000/live/akdim/akdim/741.m3u8
 #EXTINF:-1,NL Film1 Sundance
-http://62.4.21.70:8000/live/akdim/akdim/750.ts
+http://62.4.21.70:8000/live/akdim/akdim/750.m3u8
 #EXTINF:-1,NL Film1 Premiere HD
-http://62.4.21.70:8000/live/akdim/akdim/749.ts
+http://62.4.21.70:8000/live/akdim/akdim/749.m3u8
 #EXTINF:-1,NL Film1 Comedy
-http://62.4.21.70:8000/live/akdim/akdim/751.ts
+http://62.4.21.70:8000/live/akdim/akdim/751.m3u8
 #EXTINF:-1,NL Film1 Action
-http://62.4.21.70:8000/live/akdim/akdim/752.ts
+http://62.4.21.70:8000/live/akdim/akdim/752.m3u8
 #EXTINF:-1,NL Eurosport HD
-http://62.4.21.70:8000/live/akdim/akdim/742.ts
+http://62.4.21.70:8000/live/akdim/akdim/742.m3u8
 #EXTINF:-1,NL Disney Junior
-http://62.4.21.70:8000/live/akdim/akdim/736.ts
+http://62.4.21.70:8000/live/akdim/akdim/736.m3u8
 #EXTINF:-1,NL Disney Channel
-http://62.4.21.70:8000/live/akdim/akdim/735.ts
+http://62.4.21.70:8000/live/akdim/akdim/735.m3u8
 #EXTINF:-1,NL Discovery Investigation
-http://62.4.21.70:8000/live/akdim/akdim/744.ts
+http://62.4.21.70:8000/live/akdim/akdim/744.m3u8
 #EXTINF:-1,NL Discovery
-http://62.4.21.70:8000/live/akdim/akdim/743.ts
+http://62.4.21.70:8000/live/akdim/akdim/743.m3u8
 #EXTINF:-1,NL Comedy Central
-http://62.4.21.70:8000/live/akdim/akdim/734.ts
+http://62.4.21.70:8000/live/akdim/akdim/734.m3u8
 #EXTINF:-1,NL Cartoon Network
-http://62.4.21.70:8000/live/akdim/akdim/737.ts
+http://62.4.21.70:8000/live/akdim/akdim/737.m3u8
 #EXTINF:-1,NL Boomerang
-http://62.4.21.70:8000/live/akdim/akdim/733.ts
+http://62.4.21.70:8000/live/akdim/akdim/733.m3u8
 #EXTINF:-1,NL 24Kitchen
-http://62.4.21.70:8000/live/akdim/akdim/739.ts
+http://62.4.21.70:8000/live/akdim/akdim/739.m3u8
 #EXTINF:-1,NL 13th Street
-http://62.4.21.70:8000/live/akdim/akdim/746.ts
+http://62.4.21.70:8000/live/akdim/akdim/746.m3u8
 #EXTINF:-1,NL_Ziggo_Sport_Voetbal_-_NL
-http://62.4.21.70:8000/live/akdim/akdim/3715.ts
+http://62.4.21.70:8000/live/akdim/akdim/3715.m3u8
 #EXTINF:-1,NL_Ziggo_Sport_Select_-_NL
-http://62.4.21.70:8000/live/akdim/akdim/3716.ts
+http://62.4.21.70:8000/live/akdim/akdim/3716.m3u8
 #EXTINF:-1,NL_Ziggo_Sport_Racing_-_NL
-http://62.4.21.70:8000/live/akdim/akdim/3718.ts
+http://62.4.21.70:8000/live/akdim/akdim/3718.m3u8
 #EXTINF:-1,NL_Ziggo_Sport_Golf_-_NL
-http://62.4.21.70:8000/live/akdim/akdim/3717.ts
+http://62.4.21.70:8000/live/akdim/akdim/3717.m3u8
 #EXTINF:-1,NL_Tv_Oost_-_NL
-http://62.4.21.70:8000/live/akdim/akdim/3711.ts
+http://62.4.21.70:8000/live/akdim/akdim/3711.m3u8
 #EXTINF:-1,NL_Tv_Noord_-_NL
-http://62.4.21.70:8000/live/akdim/akdim/3712.ts
+http://62.4.21.70:8000/live/akdim/akdim/3712.m3u8
 #EXTINF:-1,NL_Sport_2_Extra_-_NL
-http://62.4.21.70:8000/live/akdim/akdim/3720.ts
+http://62.4.21.70:8000/live/akdim/akdim/3720.m3u8
 #EXTINF:-1,NL_L1_Limburg_-_NL
-http://62.4.21.70:8000/live/akdim/akdim/3713.ts
+http://62.4.21.70:8000/live/akdim/akdim/3713.m3u8
 #EXTINF:-1,NL_Fox_Sport_6_-_NL
-http://62.4.21.70:8000/live/akdim/akdim/3719.ts
+http://62.4.21.70:8000/live/akdim/akdim/3719.m3u8
 #EXTINF:-1,NL_Baby_Tv_-_NL
-http://62.4.21.70:8000/live/akdim/akdim/3714.ts
+http://62.4.21.70:8000/live/akdim/akdim/3714.m3u8
 #EXTINF:-1,NL_At_5_-_NL
-http://62.4.21.70:8000/live/akdim/akdim/3710.ts
+http://62.4.21.70:8000/live/akdim/akdim/3710.m3u8
 #EXTINF:-1,====Albania====
-http://62.4.21.70:8000/live/akdim/akdim/2665.ts
+http://62.4.21.70:8000/live/akdim/akdim/2665.m3u8
 #EXTINF:-1,ALB:_Sport_News_HD
-http://62.4.21.70:8000/live/akdim/akdim/2679.ts
+http://62.4.21.70:8000/live/akdim/akdim/2679.m3u8
 #EXTINF:-1,ALB:_Vizion_Plus
-http://62.4.21.70:8000/live/akdim/akdim/2667.ts
+http://62.4.21.70:8000/live/akdim/akdim/2667.m3u8
 #EXTINF:-1,ALB:_Tring_24_News
-http://62.4.21.70:8000/live/akdim/akdim/2678.ts
+http://62.4.21.70:8000/live/akdim/akdim/2678.m3u8
 #EXTINF:-1,ALB:_Tirng_Life
-http://62.4.21.70:8000/live/akdim/akdim/2677.ts
+http://62.4.21.70:8000/live/akdim/akdim/2677.m3u8
 #EXTINF:-1,ALB:_Plus_HD
-http://62.4.21.70:8000/live/akdim/akdim/2672.ts
+http://62.4.21.70:8000/live/akdim/akdim/2672.m3u8
 #EXTINF:-1,ALB:_Ora_News
-http://62.4.21.70:8000/live/akdim/akdim/2674.ts
+http://62.4.21.70:8000/live/akdim/akdim/2674.m3u8
 #EXTINF:-1,ALB:_Bbf_Music
-http://62.4.21.70:8000/live/akdim/akdim/2675.ts
+http://62.4.21.70:8000/live/akdim/akdim/2675.m3u8
 #EXTINF:-1,ALB:_Music_Al
-http://62.4.21.70:8000/live/akdim/akdim/2676.ts
+http://62.4.21.70:8000/live/akdim/akdim/2676.m3u8
 #EXTINF:-1,====SPAIN====
-http://62.4.21.70:8000/live/akdim/akdim/1735.ts
+http://62.4.21.70:8000/live/akdim/akdim/1735.m3u8
 #EXTINF:-1,*-*-*-*-*Espagne_ESPANA*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/4066.ts
+http://62.4.21.70:8000/live/akdim/akdim/4066.m3u8
 #EXTINF:-1,SP TNT - SP TNT
-http://62.4.21.70:8000/live/akdim/akdim/1823.ts
+http://62.4.21.70:8000/live/akdim/akdim/1823.m3u8
 #EXTINF:-1,SP Teledeporte - SP Teledeporte
-http://62.4.21.70:8000/live/akdim/akdim/1822.ts
+http://62.4.21.70:8000/live/akdim/akdim/1822.m3u8
 #EXTINF:-1,SP Telecino - SP Telecino
-http://62.4.21.70:8000/live/akdim/akdim/1821.ts
+http://62.4.21.70:8000/live/akdim/akdim/1821.m3u8
 #EXTINF:-1,TCM_SPAIN
-http://62.4.21.70:8000/live/akdim/akdim/1890.ts
+http://62.4.21.70:8000/live/akdim/akdim/1890.m3u8
 #EXTINF:-1,SyFy_SPAIN
-http://62.4.21.70:8000/live/akdim/akdim/1889.ts
+http://62.4.21.70:8000/live/akdim/akdim/1889.m3u8
 #EXTINF:-1,Sol_Musica_SPAIN
-http://62.4.21.70:8000/live/akdim/akdim/1888.ts
+http://62.4.21.70:8000/live/akdim/akdim/1888.m3u8
 #EXTINF:-1,SP Neox - SP Neox
-http://62.4.21.70:8000/live/akdim/akdim/1830.ts
+http://62.4.21.70:8000/live/akdim/akdim/1830.m3u8
 #EXTINF:-1,SP MTV Espana - SP MTV Espana
-http://62.4.21.70:8000/live/akdim/akdim/1850.ts
+http://62.4.21.70:8000/live/akdim/akdim/1850.m3u8
 #EXTINF:-1,SP Moto GP - SP Moto GP
-http://62.4.21.70:8000/live/akdim/akdim/1867.ts
+http://62.4.21.70:8000/live/akdim/akdim/1867.m3u8
 #EXTINF:-1,SP Mezzo - SP Mezzo
-http://62.4.21.70:8000/live/akdim/akdim/1861.ts
+http://62.4.21.70:8000/live/akdim/akdim/1861.m3u8
 #EXTINF:-1,SP Ltc - SP Ltc
-http://62.4.21.70:8000/live/akdim/akdim/1866.ts
+http://62.4.21.70:8000/live/akdim/akdim/1866.m3u8
 #EXTINF:-1,SP La Sexta - SP La Sexta
-http://62.4.21.70:8000/live/akdim/akdim/1846.ts
+http://62.4.21.70:8000/live/akdim/akdim/1846.m3u8
 #EXTINF:-1,SP La 2 - SP La 2
-http://62.4.21.70:8000/live/akdim/akdim/1847.ts
+http://62.4.21.70:8000/live/akdim/akdim/1847.m3u8
 #EXTINF:-1,SP La 1 - SP La 1
-http://62.4.21.70:8000/live/akdim/akdim/1854.ts
+http://62.4.21.70:8000/live/akdim/akdim/1854.m3u8
 #EXTINF:-1,SP Hollywood - SP Hollywood
-http://62.4.21.70:8000/live/akdim/akdim/1855.ts
+http://62.4.21.70:8000/live/akdim/akdim/1855.m3u8
 #EXTINF:-1,SP Historia - SP Historia
-http://62.4.21.70:8000/live/akdim/akdim/1856.ts
+http://62.4.21.70:8000/live/akdim/akdim/1856.m3u8
 #EXTINF:-1,SP Fox News - SP Fox News
-http://62.4.21.70:8000/live/akdim/akdim/1857.ts
+http://62.4.21.70:8000/live/akdim/akdim/1857.m3u8
 #EXTINF:-1,SP FDF - SP FDF
-http://62.4.21.70:8000/live/akdim/akdim/1858.ts
+http://62.4.21.70:8000/live/akdim/akdim/1858.m3u8
 #EXTINF:-1,SP Energy - SP Energy
-http://62.4.21.70:8000/live/akdim/akdim/1864.ts
+http://62.4.21.70:8000/live/akdim/akdim/1864.m3u8
 #EXTINF:-1,SP TVI Inter - SP TVI Inter
-http://62.4.21.70:8000/live/akdim/akdim/1825.ts
+http://62.4.21.70:8000/live/akdim/akdim/1825.m3u8
 #EXTINF:-1,*-*-*-*-*Espagne_ENTRETENIMIENTO*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/4064.ts
+http://62.4.21.70:8000/live/akdim/akdim/4064.m3u8
 #EXTINF:-1,SP Viajar - SP Viajar
-http://62.4.21.70:8000/live/akdim/akdim/1829.ts
+http://62.4.21.70:8000/live/akdim/akdim/1829.m3u8
 #EXTINF:-1,SP TV Internacional Europa - SP TV Internacional Europa
-http://62.4.21.70:8000/live/akdim/akdim/1824.ts
+http://62.4.21.70:8000/live/akdim/akdim/1824.m3u8
 #EXTINF:-1,SP NGC Wild - SP NGC Wild
-http://62.4.21.70:8000/live/akdim/akdim/1851.ts
+http://62.4.21.70:8000/live/akdim/akdim/1851.m3u8
 #EXTINF:-1,SP NGC - SP NGC
-http://62.4.21.70:8000/live/akdim/akdim/1852.ts
+http://62.4.21.70:8000/live/akdim/akdim/1852.m3u8
 #EXTINF:-1,SP Discovery - SP Discovery
-http://62.4.21.70:8000/live/akdim/akdim/1837.ts
+http://62.4.21.70:8000/live/akdim/akdim/1837.m3u8
 #EXTINF:-1,*-*-*-*-*Espagne_DEPORTES*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/4062.ts
+http://62.4.21.70:8000/live/akdim/akdim/4062.m3u8
 #EXTINF:-1,SP Divinity - SP Divinity
-http://62.4.21.70:8000/live/akdim/akdim/1863.ts
+http://62.4.21.70:8000/live/akdim/akdim/1863.m3u8
 #EXTINF:-1,SP Dcine Espanol - SP Dcine Espanol
-http://62.4.21.70:8000/live/akdim/akdim/1840.ts
+http://62.4.21.70:8000/live/akdim/akdim/1840.m3u8
 #EXTINF:-1,SP Cuatro - SP Cuatro
-http://62.4.21.70:8000/live/akdim/akdim/1871.ts
+http://62.4.21.70:8000/live/akdim/akdim/1871.m3u8
 #EXTINF:-1,SP Comedy Central - SP Comedy Central
-http://62.4.21.70:8000/live/akdim/akdim/1833.ts
+http://62.4.21.70:8000/live/akdim/akdim/1833.m3u8
 #EXTINF:-1,SP Comedia HD - SP Comedia HD
-http://62.4.21.70:8000/live/akdim/akdim/1859.ts
+http://62.4.21.70:8000/live/akdim/akdim/1859.m3u8
 #EXTINF:-1,SP Classica - SP Classica
-http://62.4.21.70:8000/live/akdim/akdim/1836.ts
+http://62.4.21.70:8000/live/akdim/akdim/1836.m3u8
 #EXTINF:-1,SP Clan TVe - SP Clan TVe
-http://62.4.21.70:8000/live/akdim/akdim/1848.ts
+http://62.4.21.70:8000/live/akdim/akdim/1848.m3u8
 #EXTINF:-1,SP Canal Sur - SP Canal Sur
-http://62.4.21.70:8000/live/akdim/akdim/1841.ts
+http://62.4.21.70:8000/live/akdim/akdim/1841.m3u8
 #EXTINF:-1,SP Canal Panda - SP Canal Panda
-http://62.4.21.70:8000/live/akdim/akdim/1839.ts
+http://62.4.21.70:8000/live/akdim/akdim/1839.m3u8
 #EXTINF:-1,SP Canal Odisea - SP Canal Odisea
-http://62.4.21.70:8000/live/akdim/akdim/1842.ts
+http://62.4.21.70:8000/live/akdim/akdim/1842.m3u8
 #EXTINF:-1,SP Canal Decasa - SP Canal Decasa
-http://62.4.21.70:8000/live/akdim/akdim/1870.ts
+http://62.4.21.70:8000/live/akdim/akdim/1870.m3u8
 #EXTINF:-1,SP Canal Cocina - SP Canal Cocina
-http://62.4.21.70:8000/live/akdim/akdim/1869.ts
+http://62.4.21.70:8000/live/akdim/akdim/1869.m3u8
 #EXTINF:-1,SP Canal 24 Horas - SP Canal 24 Horas
-http://62.4.21.70:8000/live/akdim/akdim/1868.ts
+http://62.4.21.70:8000/live/akdim/akdim/1868.m3u8
 #EXTINF:-1,SP Calle 13 - SP Calle 13
-http://62.4.21.70:8000/live/akdim/akdim/1843.ts
+http://62.4.21.70:8000/live/akdim/akdim/1843.m3u8
 #EXTINF:-1,SP C  Toros - SP C  Toros
-http://62.4.21.70:8000/live/akdim/akdim/1828.ts
+http://62.4.21.70:8000/live/akdim/akdim/1828.m3u8
 #EXTINF:-1,SP C  Series Xtra - SP C  Series Xtra
-http://62.4.21.70:8000/live/akdim/akdim/1874.ts
+http://62.4.21.70:8000/live/akdim/akdim/1874.m3u8
 #EXTINF:-1,SP C  Series - SP C  Series
-http://62.4.21.70:8000/live/akdim/akdim/1834.ts
+http://62.4.21.70:8000/live/akdim/akdim/1834.m3u8
 #EXTINF:-1,SP C  Liga - SP C  Liga
-http://62.4.21.70:8000/live/akdim/akdim/1878.ts
+http://62.4.21.70:8000/live/akdim/akdim/1878.m3u8
 #EXTINF:-1,C+Golf _SPAIN
-http://62.4.21.70:8000/live/akdim/akdim/1887.ts
+http://62.4.21.70:8000/live/akdim/akdim/1887.m3u8
 #EXTINF:-1,SP C  Fotbol HD - SP C  Fotbol HD
-http://62.4.21.70:8000/live/akdim/akdim/1832.ts
+http://62.4.21.70:8000/live/akdim/akdim/1832.m3u8
 #EXTINF:-1,C+Footbol_SPAIN
-http://62.4.21.70:8000/live/akdim/akdim/1886.ts
+http://62.4.21.70:8000/live/akdim/akdim/1886.m3u8
 #EXTINF:-1,C+Estrenos_SPAIN
-http://62.4.21.70:8000/live/akdim/akdim/1885.ts
+http://62.4.21.70:8000/live/akdim/akdim/1885.m3u8
 #EXTINF:-1,SP Real Madrid TV - SP Real Madrid TV
-http://62.4.21.70:8000/live/akdim/akdim/1827.ts
+http://62.4.21.70:8000/live/akdim/akdim/1827.m3u8
 #EXTINF:-1,SP C  Estrellas - SP C  Estrellas
-http://62.4.21.70:8000/live/akdim/akdim/1882.ts
+http://62.4.21.70:8000/live/akdim/akdim/1882.m3u8
 #EXTINF:-1,SP C  Deportes 2 - SP C  Deportes 2
-http://62.4.21.70:8000/live/akdim/akdim/1883.ts
+http://62.4.21.70:8000/live/akdim/akdim/1883.m3u8
 #EXTINF:-1,SP C  Deportes - SP C  Deportes
-http://62.4.21.70:8000/live/akdim/akdim/1884.ts
+http://62.4.21.70:8000/live/akdim/akdim/1884.m3u8
 #EXTINF:-1,SP C  Dcine HD - SP C  Dcine HD
-http://62.4.21.70:8000/live/akdim/akdim/1838.ts
+http://62.4.21.70:8000/live/akdim/akdim/1838.m3u8
 #EXTINF:-1,SP C  Accion HD - SP C  Accion HD
-http://62.4.21.70:8000/live/akdim/akdim/1831.ts
+http://62.4.21.70:8000/live/akdim/akdim/1831.m3u8
 #EXTINF:-1,SP Boing - SP Boing
-http://62.4.21.70:8000/live/akdim/akdim/1881.ts
+http://62.4.21.70:8000/live/akdim/akdim/1881.m3u8
 #EXTINF:-1,SP Bein Sports - SP Bein Sports
-http://62.4.21.70:8000/live/akdim/akdim/1826.ts
+http://62.4.21.70:8000/live/akdim/akdim/1826.m3u8
 #EXTINF:-1,SP bCaza Y Pesca - SP bCaza Y Pesca
-http://62.4.21.70:8000/live/akdim/akdim/1845.ts
+http://62.4.21.70:8000/live/akdim/akdim/1845.m3u8
 #EXTINF:-1,SP Barca Tv - SP Barca Tv
-http://62.4.21.70:8000/live/akdim/akdim/1860.ts
+http://62.4.21.70:8000/live/akdim/akdim/1860.m3u8
 #EXTINF:-1,SP AXN HD - SP AXN HD
-http://62.4.21.70:8000/live/akdim/akdim/1853.ts
+http://62.4.21.70:8000/live/akdim/akdim/1853.m3u8
 #EXTINF:-1,SP Antena 3 - SP Antena 3
-http://62.4.21.70:8000/live/akdim/akdim/1872.ts
+http://62.4.21.70:8000/live/akdim/akdim/1872.m3u8
 #EXTINF:-1,SP AMC - SP AMC
-http://62.4.21.70:8000/live/akdim/akdim/1880.ts
+http://62.4.21.70:8000/live/akdim/akdim/1880.m3u8
 #EXTINF:-1,SP AE - SP AE
-http://62.4.21.70:8000/live/akdim/akdim/1875.ts
+http://62.4.21.70:8000/live/akdim/akdim/1875.m3u8
 #EXTINF:-1,SP 40 TV - SP 40 TV
-http://62.4.21.70:8000/live/akdim/akdim/1877.ts
+http://62.4.21.70:8000/live/akdim/akdim/1877.m3u8
 #EXTINF:-1,SP 24 Horas - SP 24 Horas
-http://62.4.21.70:8000/live/akdim/akdim/1876.ts
+http://62.4.21.70:8000/live/akdim/akdim/1876.m3u8
 #EXTINF:-1,*-*-*-*-*Espagne_NINOS*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/4065.ts
+http://62.4.21.70:8000/live/akdim/akdim/4065.m3u8
 #EXTINF:-1,SP Disney xd - SP Disney xd
-http://62.4.21.70:8000/live/akdim/akdim/1862.ts
+http://62.4.21.70:8000/live/akdim/akdim/1862.m3u8
 #EXTINF:-1,SP Disney Ch - SP Disney Ch
-http://62.4.21.70:8000/live/akdim/akdim/1820.ts
+http://62.4.21.70:8000/live/akdim/akdim/1820.m3u8
 #EXTINF:-1,SP Baby Tv - SP Baby Tv
-http://62.4.21.70:8000/live/akdim/akdim/1844.ts
+http://62.4.21.70:8000/live/akdim/akdim/1844.m3u8
 #EXTINF:-1,*-*-*-*-*Espagne_TAQUILLA*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/4063.ts
+http://62.4.21.70:8000/live/akdim/akdim/4063.m3u8
 #EXTINF:-1,SP_TAQUILLA_1
-http://62.4.21.70:8000/live/akdim/akdim/2621.ts
+http://62.4.21.70:8000/live/akdim/akdim/2621.m3u8
 #EXTINF:-1,SP_TAQUILLA_2
-http://62.4.21.70:8000/live/akdim/akdim/2622.ts
+http://62.4.21.70:8000/live/akdim/akdim/2622.m3u8
 #EXTINF:-1,SP-TAQUILLA-3
-http://62.4.21.70:8000/live/akdim/akdim/2623.ts
+http://62.4.21.70:8000/live/akdim/akdim/2623.m3u8
 #EXTINF:-1,SP_TAQUILLA_4
-http://62.4.21.70:8000/live/akdim/akdim/2624.ts
+http://62.4.21.70:8000/live/akdim/akdim/2624.m3u8
 #EXTINF:-1,SP_TAQUILLA_5
-http://62.4.21.70:8000/live/akdim/akdim/2625.ts
+http://62.4.21.70:8000/live/akdim/akdim/2625.m3u8
 #EXTINF:-1,SP_TAQUILLA_6
-http://62.4.21.70:8000/live/akdim/akdim/2626.ts
+http://62.4.21.70:8000/live/akdim/akdim/2626.m3u8
 #EXTINF:-1,SP_TAQUILLA_7
-http://62.4.21.70:8000/live/akdim/akdim/2627.ts
+http://62.4.21.70:8000/live/akdim/akdim/2627.m3u8
 #EXTINF:-1,SP_TAQUILLA_8
-http://62.4.21.70:8000/live/akdim/akdim/2628.ts
+http://62.4.21.70:8000/live/akdim/akdim/2628.m3u8
 #EXTINF:-1,SP_TAQUILLA_9
-http://62.4.21.70:8000/live/akdim/akdim/2629.ts
+http://62.4.21.70:8000/live/akdim/akdim/2629.m3u8
 #EXTINF:-1,SP_TAQUILLA_10
-http://62.4.21.70:8000/live/akdim/akdim/2630.ts
+http://62.4.21.70:8000/live/akdim/akdim/2630.m3u8
 #EXTINF:-1,TAQUILLA_11_HD
-http://62.4.21.70:8000/live/akdim/akdim/2658.ts
+http://62.4.21.70:8000/live/akdim/akdim/2658.m3u8
 #EXTINF:-1,TAQUILLA_12_HD
-http://62.4.21.70:8000/live/akdim/akdim/2659.ts
+http://62.4.21.70:8000/live/akdim/akdim/2659.m3u8
 #EXTINF:-1,TAQUILLA_13_HD
-http://62.4.21.70:8000/live/akdim/akdim/2660.ts
+http://62.4.21.70:8000/live/akdim/akdim/2660.m3u8
 #EXTINF:-1,TAQUILLA_14_HD
-http://62.4.21.70:8000/live/akdim/akdim/2661.ts
+http://62.4.21.70:8000/live/akdim/akdim/2661.m3u8
 #EXTINF:-1,TAQUILLA_15_HD
-http://62.4.21.70:8000/live/akdim/akdim/2662.ts
+http://62.4.21.70:8000/live/akdim/akdim/2662.m3u8
 #EXTINF:-1,TAQUILLA_16_HD
-http://62.4.21.70:8000/live/akdim/akdim/2663.ts
+http://62.4.21.70:8000/live/akdim/akdim/2663.m3u8
 #EXTINF:-1,====TURKISH====
-http://62.4.21.70:8000/live/akdim/akdim/1745.ts
+http://62.4.21.70:8000/live/akdim/akdim/1745.m3u8
 #EXTINF:-1,Lig_TV_1_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3548.ts
+http://62.4.21.70:8000/live/akdim/akdim/3548.m3u8
 #EXTINF:-1,Lig_TV_2_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3549.ts
+http://62.4.21.70:8000/live/akdim/akdim/3549.m3u8
 #EXTINF:-1,Lig_TV_3_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3550.ts
+http://62.4.21.70:8000/live/akdim/akdim/3550.m3u8
 #EXTINF:-1,Lig_TV_4_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3551.ts
+http://62.4.21.70:8000/live/akdim/akdim/3551.m3u8
 #EXTINF:-1,Tivibu_Spor_1_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3554.ts
+http://62.4.21.70:8000/live/akdim/akdim/3554.m3u8
 #EXTINF:-1,Tivibu_Spor_2_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3555.ts
+http://62.4.21.70:8000/live/akdim/akdim/3555.m3u8
 #EXTINF:-1,Trt_Spor_HD_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3501.ts
+http://62.4.21.70:8000/live/akdim/akdim/3501.m3u8
 #EXTINF:-1,Ntv_Spor_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3526.ts
+http://62.4.21.70:8000/live/akdim/akdim/3526.m3u8
 #EXTINF:-1,Sport_TV_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3505.ts
+http://62.4.21.70:8000/live/akdim/akdim/3505.m3u8
 #EXTINF:-1,Smart_Spor_1_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3556.ts
+http://62.4.21.70:8000/live/akdim/akdim/3556.m3u8
 #EXTINF:-1,Smart_Spor_2_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3557.ts
+http://62.4.21.70:8000/live/akdim/akdim/3557.m3u8
 #EXTINF:-1,A_Sport_HD_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3558.ts
+http://62.4.21.70:8000/live/akdim/akdim/3558.m3u8
 #EXTINF:-1,Euro_Star_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3533.ts
+http://62.4.21.70:8000/live/akdim/akdim/3533.m3u8
 #EXTINF:-1,Eurosport_2_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3553.ts
+http://62.4.21.70:8000/live/akdim/akdim/3553.m3u8
 #EXTINF:-1,Eurosport_1_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3552.ts
+http://62.4.21.70:8000/live/akdim/akdim/3552.m3u8
 #EXTINF:-1,World_Travel_Channel_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3542.ts
+http://62.4.21.70:8000/live/akdim/akdim/3542.m3u8
 #EXTINF:-1,Ulke_TV_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3510.ts
+http://62.4.21.70:8000/live/akdim/akdim/3510.m3u8
 #EXTINF:-1,TV_8.5_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3485.ts
+http://62.4.21.70:8000/live/akdim/akdim/3485.m3u8
 #EXTINF:-1,TV_8_HD_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3484.ts
+http://62.4.21.70:8000/live/akdim/akdim/3484.m3u8
 #EXTINF:-1,TV_8_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3483.ts
+http://62.4.21.70:8000/live/akdim/akdim/3483.m3u8
 #EXTINF:-1,TV_2_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3541.ts
+http://62.4.21.70:8000/live/akdim/akdim/3541.m3u8
 #EXTINF:-1,Trt_Muzik_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3500.ts
+http://62.4.21.70:8000/live/akdim/akdim/3500.m3u8
 #EXTINF:-1,Trt_Haber_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3502.ts
+http://62.4.21.70:8000/live/akdim/akdim/3502.m3u8
 #EXTINF:-1,Trt_Cocuk_HD_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3499.ts
+http://62.4.21.70:8000/live/akdim/akdim/3499.m3u8
 #EXTINF:-1,Trt_Belgesel_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3498.ts
+http://62.4.21.70:8000/live/akdim/akdim/3498.m3u8
 #EXTINF:-1,Trt_1_HD_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3497.ts
+http://62.4.21.70:8000/live/akdim/akdim/3497.m3u8
 #EXTINF:-1,Tlc_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3506.ts
+http://62.4.21.70:8000/live/akdim/akdim/3506.m3u8
 #EXTINF:-1,Tgrt_Haber_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3503.ts
+http://62.4.21.70:8000/live/akdim/akdim/3503.m3u8
 #EXTINF:-1,Star_TV_HD_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3494.ts
+http://62.4.21.70:8000/live/akdim/akdim/3494.m3u8
 #EXTINF:-1,Star_TV_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3493.ts
+http://62.4.21.70:8000/live/akdim/akdim/3493.m3u8
 #EXTINF:-1,Show_TV_HD_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3496.ts
+http://62.4.21.70:8000/live/akdim/akdim/3496.m3u8
 #EXTINF:-1,Show_TV_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3495.ts
+http://62.4.21.70:8000/live/akdim/akdim/3495.m3u8
 #EXTINF:-1,Show_Turk_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3532.ts
+http://62.4.21.70:8000/live/akdim/akdim/3532.m3u8
 #EXTINF:-1,Semerkand_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3540.ts
+http://62.4.21.70:8000/live/akdim/akdim/3540.m3u8
 #EXTINF:-1,Salon_3_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3562.ts
+http://62.4.21.70:8000/live/akdim/akdim/3562.m3u8
 #EXTINF:-1,Salon_2_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3561.ts
+http://62.4.21.70:8000/live/akdim/akdim/3561.m3u8
 #EXTINF:-1,Salon_1_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3560.ts
+http://62.4.21.70:8000/live/akdim/akdim/3560.m3u8
 #EXTINF:-1,Red_360_TV_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3507.ts
+http://62.4.21.70:8000/live/akdim/akdim/3507.m3u8
 #EXTINF:-1,Power_TV_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3515.ts
+http://62.4.21.70:8000/live/akdim/akdim/3515.m3u8
 #EXTINF:-1,Power_Turk_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3516.ts
+http://62.4.21.70:8000/live/akdim/akdim/3516.m3u8
 #EXTINF:-1,Planet_Turk_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3520.ts
+http://62.4.21.70:8000/live/akdim/akdim/3520.m3u8
 #EXTINF:-1,Planet_Cocuk_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3521.ts
+http://62.4.21.70:8000/live/akdim/akdim/3521.m3u8
 #EXTINF:-1,Number_1_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3522.ts
+http://62.4.21.70:8000/live/akdim/akdim/3522.m3u8
 #EXTINF:-1,Ntv_Avrupa_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3527.ts
+http://62.4.21.70:8000/live/akdim/akdim/3527.m3u8
 #EXTINF:-1,Ntv_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3525.ts
+http://62.4.21.70:8000/live/akdim/akdim/3525.m3u8
 #EXTINF:-1,Nba_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3508.ts
+http://62.4.21.70:8000/live/akdim/akdim/3508.m3u8
 #EXTINF:-1,National_Geographic_Wild_HD_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3545.ts
+http://62.4.21.70:8000/live/akdim/akdim/3545.m3u8
 #EXTINF:-1,National_Geographic_People_HD_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3546.ts
+http://62.4.21.70:8000/live/akdim/akdim/3546.m3u8
 #EXTINF:-1,National_Geographic_Channel_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3544.ts
+http://62.4.21.70:8000/live/akdim/akdim/3544.m3u8
 #EXTINF:-1,Moviesmart_Turk_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3568.ts
+http://62.4.21.70:8000/live/akdim/akdim/3568.m3u8
 #EXTINF:-1,Moviesmart_Premium_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3569.ts
+http://62.4.21.70:8000/live/akdim/akdim/3569.m3u8
 #EXTINF:-1,Moviesmart_Gold_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3570.ts
+http://62.4.21.70:8000/live/akdim/akdim/3570.m3u8
 #EXTINF:-1,Moviesmart_Fest_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3571.ts
+http://62.4.21.70:8000/live/akdim/akdim/3571.m3u8
 #EXTINF:-1,Moviesmart_Family_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3572.ts
+http://62.4.21.70:8000/live/akdim/akdim/3572.m3u8
 #EXTINF:-1,Moviesmart_Action_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3573.ts
+http://62.4.21.70:8000/live/akdim/akdim/3573.m3u8
 #EXTINF:-1,Manika_Go_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3518.ts
+http://62.4.21.70:8000/live/akdim/akdim/3518.m3u8
 #EXTINF:-1,Manika_Cocuk_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3519.ts
+http://62.4.21.70:8000/live/akdim/akdim/3519.m3u8
 #EXTINF:-1,Kral_TV_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3528.ts
+http://62.4.21.70:8000/live/akdim/akdim/3528.m3u8
 #EXTINF:-1,Kral_Pop_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3529.ts
+http://62.4.21.70:8000/live/akdim/akdim/3529.m3u8
 #EXTINF:-1,Kanal_Hayat_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3509.ts
+http://62.4.21.70:8000/live/akdim/akdim/3509.m3u8
 #EXTINF:-1,Kanal_D_HD_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3482.ts
+http://62.4.21.70:8000/live/akdim/akdim/3482.m3u8
 #EXTINF:-1,Kanal_D_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3481.ts
+http://62.4.21.70:8000/live/akdim/akdim/3481.m3u8
 #EXTINF:-1,Kanal_Avrupa_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3531.ts
+http://62.4.21.70:8000/live/akdim/akdim/3531.m3u8
 #EXTINF:-1,Kanal_7_HD_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3487.ts
+http://62.4.21.70:8000/live/akdim/akdim/3487.m3u8
 #EXTINF:-1,Kanal_7_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3486.ts
+http://62.4.21.70:8000/live/akdim/akdim/3486.m3u8
 #EXTINF:-1,Kanal_24_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3530.ts
+http://62.4.21.70:8000/live/akdim/akdim/3530.m3u8
 #EXTINF:-1,Halk_TV_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3535.ts
+http://62.4.21.70:8000/live/akdim/akdim/3535.m3u8
 #EXTINF:-1,Haber_Turk_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3537.ts
+http://62.4.21.70:8000/live/akdim/akdim/3537.m3u8
 #EXTINF:-1,Fox_TV_HD_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3489.ts
+http://62.4.21.70:8000/live/akdim/akdim/3489.m3u8
 #EXTINF:-1,Fox_TV_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3488.ts
+http://62.4.21.70:8000/live/akdim/akdim/3488.m3u8
 #EXTINF:-1,Flash_TV_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3492.ts
+http://62.4.21.70:8000/live/akdim/akdim/3492.m3u8
 #EXTINF:-1,Filmbox_Turk_HD_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3564.ts
+http://62.4.21.70:8000/live/akdim/akdim/3564.m3u8
 #EXTINF:-1,Filmbox_Premier_HD_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3563.ts
+http://62.4.21.70:8000/live/akdim/akdim/3563.m3u8
 #EXTINF:-1,Filmbox_Korku_HD_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3565.ts
+http://62.4.21.70:8000/live/akdim/akdim/3565.m3u8
 #EXTINF:-1,Filmbox_Aksiyon_HD_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3566.ts
+http://62.4.21.70:8000/live/akdim/akdim/3566.m3u8
 #EXTINF:-1,Filmbox_Aile_HD_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3567.ts
+http://62.4.21.70:8000/live/akdim/akdim/3567.m3u8
 #EXTINF:-1,Fil_TV_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3534.ts
+http://62.4.21.70:8000/live/akdim/akdim/3534.m3u8
 #EXTINF:-1,Fenerbahce_TV_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3559.ts
+http://62.4.21.70:8000/live/akdim/akdim/3559.m3u8
 #EXTINF:-1,Dream_TV_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3523.ts
+http://62.4.21.70:8000/live/akdim/akdim/3523.m3u8
 #EXTINF:-1,Dream_Turk_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3524.ts
+http://62.4.21.70:8000/live/akdim/akdim/3524.m3u8
 #EXTINF:-1,Disney_Channel_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3504.ts
+http://62.4.21.70:8000/live/akdim/akdim/3504.m3u8
 #EXTINF:-1,Discovery_Channel_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3543.ts
+http://62.4.21.70:8000/live/akdim/akdim/3543.m3u8
 #EXTINF:-1,CNN_Turk_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3511.ts
+http://62.4.21.70:8000/live/akdim/akdim/3511.m3u8
 #EXTINF:-1,Cinemax_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3512.ts
+http://62.4.21.70:8000/live/akdim/akdim/3512.m3u8
 #EXTINF:-1,Cartoon_Network_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3517.ts
+http://62.4.21.70:8000/live/akdim/akdim/3517.m3u8
 #EXTINF:-1,Bloomberg_HT_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3514.ts
+http://62.4.21.70:8000/live/akdim/akdim/3514.m3u8
 #EXTINF:-1,Bloomberg_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3513.ts
+http://62.4.21.70:8000/live/akdim/akdim/3513.m3u8
 #EXTINF:-1,Beyaz_TV_HD_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3491.ts
+http://62.4.21.70:8000/live/akdim/akdim/3491.m3u8
 #EXTINF:-1,Bayaz_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3490.ts
+http://62.4.21.70:8000/live/akdim/akdim/3490.m3u8
 #EXTINF:-1,Atv_HD_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3480.ts
+http://62.4.21.70:8000/live/akdim/akdim/3480.m3u8
 #EXTINF:-1,Atv_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3479.ts
+http://62.4.21.70:8000/live/akdim/akdim/3479.m3u8
 #EXTINF:-1,Animal_Planet_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3547.ts
+http://62.4.21.70:8000/live/akdim/akdim/3547.m3u8
 #EXTINF:-1,A_Haber_HD_-_Turkish
-http://62.4.21.70:8000/live/akdim/akdim/3536.ts
+http://62.4.21.70:8000/live/akdim/akdim/3536.m3u8
 #EXTINF:-1,====SKY DE====
-http://62.4.21.70:8000/live/akdim/akdim/1732.ts
+http://62.4.21.70:8000/live/akdim/akdim/1732.m3u8
 #EXTINF:-1,*-*-*-*-*GERMANY*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/4069.ts
+http://62.4.21.70:8000/live/akdim/akdim/4069.m3u8
 #EXTINF:-1,ZDF
-http://62.4.21.70:8000/live/akdim/akdim/2618.ts
+http://62.4.21.70:8000/live/akdim/akdim/2618.m3u8
 #EXTINF:-1,SAT_1
-http://62.4.21.70:8000/live/akdim/akdim/2620.ts
+http://62.4.21.70:8000/live/akdim/akdim/2620.m3u8
 #EXTINF:-1,Vox - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2807.ts
+http://62.4.21.70:8000/live/akdim/akdim/2807.m3u8
 #EXTINF:-1,Syfy - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2808.ts
+http://62.4.21.70:8000/live/akdim/akdim/2808.m3u8
 #EXTINF:-1,Spiegel Geschichte
-http://62.4.21.70:8000/live/akdim/akdim/2810.ts
+http://62.4.21.70:8000/live/akdim/akdim/2810.m3u8
 #EXTINF:-1,Sky TNT Serie - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2811.ts
+http://62.4.21.70:8000/live/akdim/akdim/2811.m3u8
 #EXTINF:-1,Sky RTL Passion - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2812.ts
+http://62.4.21.70:8000/live/akdim/akdim/2812.m3u8
 #EXTINF:-1,Sky Nostalgie - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2813.ts
+http://62.4.21.70:8000/live/akdim/akdim/2813.m3u8
 #EXTINF:-1,Sky Krimi - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2814.ts
+http://62.4.21.70:8000/live/akdim/akdim/2814.m3u8
 #EXTINF:-1,Sky Disney XD - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2815.ts
+http://62.4.21.70:8000/live/akdim/akdim/2815.m3u8
 #EXTINF:-1,Sky Comedy - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2816.ts
+http://62.4.21.70:8000/live/akdim/akdim/2816.m3u8
 #EXTINF:-1,Sky Cinema HD - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2817.ts
+http://62.4.21.70:8000/live/akdim/akdim/2817.m3u8
 #EXTINF:-1,Sky Cinema 1 - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2818.ts
+http://62.4.21.70:8000/live/akdim/akdim/2818.m3u8
 #EXTINF:-1,Sky Cinema  24 - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2819.ts
+http://62.4.21.70:8000/live/akdim/akdim/2819.m3u8
 #EXTINF:-1,Sat 1 Gold - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2820.ts
+http://62.4.21.70:8000/live/akdim/akdim/2820.m3u8
 #EXTINF:-1,Rtl Nitro - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2821.ts
+http://62.4.21.70:8000/live/akdim/akdim/2821.m3u8
 #EXTINF:-1,Rtl Living - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2822.ts
+http://62.4.21.70:8000/live/akdim/akdim/2822.m3u8
 #EXTINF:-1,Rtl Crime - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2823.ts
+http://62.4.21.70:8000/live/akdim/akdim/2823.m3u8
 #EXTINF:-1,Prosieben Maxx - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2824.ts
+http://62.4.21.70:8000/live/akdim/akdim/2824.m3u8
 #EXTINF:-1,Prosieben - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2825.ts
+http://62.4.21.70:8000/live/akdim/akdim/2825.m3u8
 #EXTINF:-1,National Geographic Wild HD - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2826.ts
+http://62.4.21.70:8000/live/akdim/akdim/2826.m3u8
 #EXTINF:-1,National Geographic  - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2827.ts
+http://62.4.21.70:8000/live/akdim/akdim/2827.m3u8
 #EXTINF:-1,N24 - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2828.ts
+http://62.4.21.70:8000/live/akdim/akdim/2828.m3u8
 #EXTINF:-1,Motorvision TV - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2805.ts
+http://62.4.21.70:8000/live/akdim/akdim/2805.m3u8
 #EXTINF:-1,Junior - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2829.ts
+http://62.4.21.70:8000/live/akdim/akdim/2829.m3u8
 #EXTINF:-1,Jukebox - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2830.ts
+http://62.4.21.70:8000/live/akdim/akdim/2830.m3u8
 #EXTINF:-1,Heimat Kanal - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2831.ts
+http://62.4.21.70:8000/live/akdim/akdim/2831.m3u8
 #EXTINF:-1,Fox Serie - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2832.ts
+http://62.4.21.70:8000/live/akdim/akdim/2832.m3u8
 #EXTINF:-1,Disney Junior - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2833.ts
+http://62.4.21.70:8000/live/akdim/akdim/2833.m3u8
 #EXTINF:-1,Disney Cinemagic - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2806.ts
+http://62.4.21.70:8000/live/akdim/akdim/2806.m3u8
 #EXTINF:-1,Disney Channel HD - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2834.ts
+http://62.4.21.70:8000/live/akdim/akdim/2834.m3u8
 #EXTINF:-1,Discovery HD - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2835.ts
+http://62.4.21.70:8000/live/akdim/akdim/2835.m3u8
 #EXTINF:-1,Classica - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2836.ts
+http://62.4.21.70:8000/live/akdim/akdim/2836.m3u8
 #EXTINF:-1,13th Street - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2837.ts
+http://62.4.21.70:8000/live/akdim/akdim/2837.m3u8
 #EXTINF:-1,DE_ARD
-http://62.4.21.70:8000/live/akdim/akdim/2619.ts
+http://62.4.21.70:8000/live/akdim/akdim/2619.m3u8
 #EXTINF:-1,SKYDE:_cinema HD
-http://62.4.21.70:8000/live/akdim/akdim/554.ts
+http://62.4.21.70:8000/live/akdim/akdim/554.m3u8
 #EXTINF:-1,SKYDE: Cinema24HD
-http://62.4.21.70:8000/live/akdim/akdim/555.ts
+http://62.4.21.70:8000/live/akdim/akdim/555.m3u8
 #EXTINF:-1,SKYDE: 13StreetHD
-http://62.4.21.70:8000/live/akdim/akdim/557.ts
+http://62.4.21.70:8000/live/akdim/akdim/557.m3u8
 #EXTINF:-1,DE:RTL HD
-http://62.4.21.70:8000/live/akdim/akdim/1003.ts
+http://62.4.21.70:8000/live/akdim/akdim/1003.m3u8
 #EXTINF:-1,DE TNT Film HD
-http://62.4.21.70:8000/live/akdim/akdim/1014.ts
+http://62.4.21.70:8000/live/akdim/akdim/1014.m3u8
 #EXTINF:-1,DE Super RTL
-http://62.4.21.70:8000/live/akdim/akdim/1015.ts
+http://62.4.21.70:8000/live/akdim/akdim/1015.m3u8
 #EXTINF:-1,DE Sky Hits
-http://62.4.21.70:8000/live/akdim/akdim/1016.ts
+http://62.4.21.70:8000/live/akdim/akdim/1016.m3u8
 #EXTINF:-1,DE Sky Emotion
-http://62.4.21.70:8000/live/akdim/akdim/1017.ts
+http://62.4.21.70:8000/live/akdim/akdim/1017.m3u8
 #EXTINF:-1,DE Sky Atlantic
-http://62.4.21.70:8000/live/akdim/akdim/1019.ts
+http://62.4.21.70:8000/live/akdim/akdim/1019.m3u8
 #EXTINF:-1,DE: Sky Germany Action HD
-http://62.4.21.70:8000/live/akdim/akdim/1729.ts
+http://62.4.21.70:8000/live/akdim/akdim/1729.m3u8
 #EXTINF:-1,DE Sky Action
-http://62.4.21.70:8000/live/akdim/akdim/1020.ts
+http://62.4.21.70:8000/live/akdim/akdim/1020.m3u8
 #EXTINF:-1,DE: Sky Comedy HD
-http://62.4.21.70:8000/live/akdim/akdim/1730.ts
+http://62.4.21.70:8000/live/akdim/akdim/1730.m3u8
 #EXTINF:-1,DE: Sky Germany MGM HD
-http://62.4.21.70:8000/live/akdim/akdim/1728.ts
+http://62.4.21.70:8000/live/akdim/akdim/1728.m3u8
 #EXTINF:-1,DE Sat 1 HD
-http://62.4.21.70:8000/live/akdim/akdim/1007.ts
+http://62.4.21.70:8000/live/akdim/akdim/1007.m3u8
 #EXTINF:-1,DE RTL 2
-http://62.4.21.70:8000/live/akdim/akdim/1006.ts
+http://62.4.21.70:8000/live/akdim/akdim/1006.m3u8
 #EXTINF:-1,DE Kika HD
-http://62.4.21.70:8000/live/akdim/akdim/1008.ts
+http://62.4.21.70:8000/live/akdim/akdim/1008.m3u8
 #EXTINF:-1,DE Kabel 1
-http://62.4.21.70:8000/live/akdim/akdim/1009.ts
+http://62.4.21.70:8000/live/akdim/akdim/1009.m3u8
 #EXTINF:-1,*-*-*-*-*SKY_SPORT*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/4068.ts
+http://62.4.21.70:8000/live/akdim/akdim/4068.m3u8
 #EXTINF:-1,DE: Sky Sport 1 HD
-http://62.4.21.70:8000/live/akdim/akdim/1721.ts
+http://62.4.21.70:8000/live/akdim/akdim/1721.m3u8
 #EXTINF:-1,DE: Sky Sport 2 HD
-http://62.4.21.70:8000/live/akdim/akdim/1722.ts
+http://62.4.21.70:8000/live/akdim/akdim/1722.m3u8
 #EXTINF:-1,DE: SKY SPORT NEWS HD
-http://62.4.21.70:8000/live/akdim/akdim/1726.ts
+http://62.4.21.70:8000/live/akdim/akdim/1726.m3u8
 #EXTINF:-1,DE: SKY Bundesliga HD
-http://62.4.21.70:8000/live/akdim/akdim/1723.ts
+http://62.4.21.70:8000/live/akdim/akdim/1723.m3u8
 #EXTINF:-1,Sport 1 HD - Germany
-http://62.4.21.70:8000/live/akdim/akdim/2809.ts
+http://62.4.21.70:8000/live/akdim/akdim/2809.m3u8
 #EXTINF:-1,*-*-*-*-*SKY_SELECT*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/4067.ts
+http://62.4.21.70:8000/live/akdim/akdim/4067.m3u8
 #EXTINF:-1,DE_Sky_Select_1
-http://62.4.21.70:8000/live/akdim/akdim/1778.ts
+http://62.4.21.70:8000/live/akdim/akdim/1778.m3u8
 #EXTINF:-1,DE_Sky_Select_2
-http://62.4.21.70:8000/live/akdim/akdim/1779.ts
+http://62.4.21.70:8000/live/akdim/akdim/1779.m3u8
 #EXTINF:-1,DE Sky Select 3
-http://62.4.21.70:8000/live/akdim/akdim/1780.ts
+http://62.4.21.70:8000/live/akdim/akdim/1780.m3u8
 #EXTINF:-1,DE Sky Select 4
-http://62.4.21.70:8000/live/akdim/akdim/1781.ts
+http://62.4.21.70:8000/live/akdim/akdim/1781.m3u8
 #EXTINF:-1,DE Sky Select 5
-http://62.4.21.70:8000/live/akdim/akdim/1782.ts
+http://62.4.21.70:8000/live/akdim/akdim/1782.m3u8
 #EXTINF:-1,DE Sky Select 6
-http://62.4.21.70:8000/live/akdim/akdim/1783.ts
+http://62.4.21.70:8000/live/akdim/akdim/1783.m3u8
 #EXTINF:-1,DE Sky Select 7
-http://62.4.21.70:8000/live/akdim/akdim/1784.ts
+http://62.4.21.70:8000/live/akdim/akdim/1784.m3u8
 #EXTINF:-1,DE Sky Select 8
-http://62.4.21.70:8000/live/akdim/akdim/1785.ts
+http://62.4.21.70:8000/live/akdim/akdim/1785.m3u8
 #EXTINF:-1,====INDIAN====
-http://62.4.21.70:8000/live/akdim/akdim/1740.ts
+http://62.4.21.70:8000/live/akdim/akdim/1740.m3u8
 #EXTINF:-1,Zing_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3641.ts
+http://62.4.21.70:8000/live/akdim/akdim/3641.m3u8
 #EXTINF:-1,Zee_TV_-_indian
-http://62.4.21.70:8000/live/akdim/akdim/3638.ts
+http://62.4.21.70:8000/live/akdim/akdim/3638.m3u8
 #EXTINF:-1,Zee_Punjabi_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3639.ts
+http://62.4.21.70:8000/live/akdim/akdim/3639.m3u8
 #EXTINF:-1,Zee_Cinema_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3640.ts
+http://62.4.21.70:8000/live/akdim/akdim/3640.m3u8
 #EXTINF:-1,Venus_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3652.ts
+http://62.4.21.70:8000/live/akdim/akdim/3652.m3u8
 #EXTINF:-1,Ummah_Channel_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3654.ts
+http://62.4.21.70:8000/live/akdim/akdim/3654.m3u8
 #EXTINF:-1,Tv_99_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3655.ts
+http://62.4.21.70:8000/live/akdim/akdim/3655.m3u8
 #EXTINF:-1,TR:Salon 3
-http://62.4.21.70:8000/live/akdim/akdim/904.ts
+http://62.4.21.70:8000/live/akdim/akdim/904.m3u8
 #EXTINF:-1,TR_TV_2
-http://62.4.21.70:8000/live/akdim/akdim/2498.ts
+http://62.4.21.70:8000/live/akdim/akdim/2498.m3u8
 #EXTINF:-1,Takbeer_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3656.ts
+http://62.4.21.70:8000/live/akdim/akdim/3656.m3u8
 #EXTINF:-1,Star_Plus_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3657.ts
+http://62.4.21.70:8000/live/akdim/akdim/3657.m3u8
 #EXTINF:-1,Star_Life_Ok_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3658.ts
+http://62.4.21.70:8000/live/akdim/akdim/3658.m3u8
 #EXTINF:-1,Star_Gold_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3660.ts
+http://62.4.21.70:8000/live/akdim/akdim/3660.m3u8
 #EXTINF:-1,Sony_Sab_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3662.ts
+http://62.4.21.70:8000/live/akdim/akdim/3662.m3u8
 #EXTINF:-1,Sony_Max_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3663.ts
+http://62.4.21.70:8000/live/akdim/akdim/3663.m3u8
 #EXTINF:-1,Sikh_Channel_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3664.ts
+http://62.4.21.70:8000/live/akdim/akdim/3664.m3u8
 #EXTINF:-1,Sangat_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3665.ts
+http://62.4.21.70:8000/live/akdim/akdim/3665.m3u8
 #EXTINF:-1,Samaa_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3666.ts
+http://62.4.21.70:8000/live/akdim/akdim/3666.m3u8
 #EXTINF:-1,Rishtey_TV_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3667.ts
+http://62.4.21.70:8000/live/akdim/akdim/3667.m3u8
 #EXTINF:-1,Ptv_Prime_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3668.ts
+http://62.4.21.70:8000/live/akdim/akdim/3668.m3u8
 #EXTINF:-1,Ptv_Global_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3669.ts
+http://62.4.21.70:8000/live/akdim/akdim/3669.m3u8
 #EXTINF:-1,Ptc_Punjabi_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3670.ts
+http://62.4.21.70:8000/live/akdim/akdim/3670.m3u8
 #EXTINF:-1,Peace_TV_Urdu_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3671.ts
+http://62.4.21.70:8000/live/akdim/akdim/3671.m3u8
 #EXTINF:-1,Peace_TV_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3672.ts
+http://62.4.21.70:8000/live/akdim/akdim/3672.m3u8
 #EXTINF:-1,Noor_TV_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3673.ts
+http://62.4.21.70:8000/live/akdim/akdim/3673.m3u8
 #EXTINF:-1,News_18_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3674.ts
+http://62.4.21.70:8000/live/akdim/akdim/3674.m3u8
 #EXTINF:-1,Ndtv_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3675.ts
+http://62.4.21.70:8000/live/akdim/akdim/3675.m3u8
 #EXTINF:-1,Muslim_Ummah_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3676.ts
+http://62.4.21.70:8000/live/akdim/akdim/3676.m3u8
 #EXTINF:-1,Madani_Channel_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3677.ts
+http://62.4.21.70:8000/live/akdim/akdim/3677.m3u8
 #EXTINF:-1,Ma_TV_International_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3678.ts
+http://62.4.21.70:8000/live/akdim/akdim/3678.m3u8
 #EXTINF:-1,Islam_Channel_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3679.ts
+http://62.4.21.70:8000/live/akdim/akdim/3679.m3u8
 #EXTINF:-1,Iqra_TV_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3680.ts
+http://62.4.21.70:8000/live/akdim/akdim/3680.m3u8
 #EXTINF:-1,Hum_TV_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3681.ts
+http://62.4.21.70:8000/live/akdim/akdim/3681.m3u8
 #EXTINF:-1,Heart_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3682.ts
+http://62.4.21.70:8000/live/akdim/akdim/3682.m3u8
 #EXTINF:-1,Geo_TV_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3683.ts
+http://62.4.21.70:8000/live/akdim/akdim/3683.m3u8
 #EXTINF:-1,Geo_Tez_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3684.ts
+http://62.4.21.70:8000/live/akdim/akdim/3684.m3u8
 #EXTINF:-1,Geo_News_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3685.ts
+http://62.4.21.70:8000/live/akdim/akdim/3685.m3u8
 #EXTINF:-1,Dunya_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3686.ts
+http://62.4.21.70:8000/live/akdim/akdim/3686.m3u8
 #EXTINF:-1,Dm_Digital_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3644.ts
+http://62.4.21.70:8000/live/akdim/akdim/3644.m3u8
 #EXTINF:-1,Colors_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3643.ts
+http://62.4.21.70:8000/live/akdim/akdim/3643.m3u8
 #EXTINF:-1,B4You_Music_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3646.ts
+http://62.4.21.70:8000/live/akdim/akdim/3646.m3u8
 #EXTINF:-1,B4You_Movies_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3647.ts
+http://62.4.21.70:8000/live/akdim/akdim/3647.m3u8
 #EXTINF:-1,Ary_Qtv_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3649.ts
+http://62.4.21.70:8000/live/akdim/akdim/3649.m3u8
 #EXTINF:-1,Ary_News_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3650.ts
+http://62.4.21.70:8000/live/akdim/akdim/3650.m3u8
 #EXTINF:-1,Ary_Digital_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3651.ts
+http://62.4.21.70:8000/live/akdim/akdim/3651.m3u8
 #EXTINF:-1,&_TV_-_Indian
-http://62.4.21.70:8000/live/akdim/akdim/3642.ts
+http://62.4.21.70:8000/live/akdim/akdim/3642.m3u8
 #EXTINF:-1,====SKY UK====
-http://62.4.21.70:8000/live/akdim/akdim/1733.ts
+http://62.4.21.70:8000/live/akdim/akdim/1733.m3u8
 #EXTINF:-1,UK True.Movie.1
-http://62.4.21.70:8000/live/akdim/akdim/89.ts
+http://62.4.21.70:8000/live/akdim/akdim/89.m3u8
 #EXTINF:-1,UK_True_Movies_2
-http://62.4.21.70:8000/live/akdim/akdim/74.ts
+http://62.4.21.70:8000/live/akdim/akdim/74.m3u8
 #EXTINF:-1,UK_Syfy_UK
-http://62.4.21.70:8000/live/akdim/akdim/96.ts
+http://62.4.21.70:8000/live/akdim/akdim/96.m3u8
 #EXTINF:-1,UK_SKY.Art.1
-http://62.4.21.70:8000/live/akdim/akdim/106.ts
+http://62.4.21.70:8000/live/akdim/akdim/106.m3u8
 #EXTINF:-1,UK_Sky_Two
-http://62.4.21.70:8000/live/akdim/akdim/76.ts
+http://62.4.21.70:8000/live/akdim/akdim/76.m3u8
 #EXTINF:-1,UK_Sky.Sport.News.HD
-http://62.4.21.70:8000/live/akdim/akdim/107.ts
+http://62.4.21.70:8000/live/akdim/akdim/107.m3u8
 #EXTINF:-1,UK_Sky.Sport.1.UK
-http://62.4.21.70:8000/live/akdim/akdim/112.ts
+http://62.4.21.70:8000/live/akdim/akdim/112.m3u8
 #EXTINF:-1,UK_Sky.Sport.2.UK
-http://62.4.21.70:8000/live/akdim/akdim/111.ts
+http://62.4.21.70:8000/live/akdim/akdim/111.m3u8
 #EXTINF:-1,UK_Sky.Sport.3.UK
-http://62.4.21.70:8000/live/akdim/akdim/110.ts
+http://62.4.21.70:8000/live/akdim/akdim/110.m3u8
 #EXTINF:-1,UK:_CBS_Reality
-http://62.4.21.70:8000/live/akdim/akdim/2638.ts
+http://62.4.21.70:8000/live/akdim/akdim/2638.m3u8
 #EXTINF:-1,UK_sky.sport.4
-http://62.4.21.70:8000/live/akdim/akdim/109.ts
+http://62.4.21.70:8000/live/akdim/akdim/109.m3u8
 #EXTINF:-1,UK Sky Sport 5 UK
-http://62.4.21.70:8000/live/akdim/akdim/108.ts
+http://62.4.21.70:8000/live/akdim/akdim/108.m3u8
 #EXTINF:-1,UK_Sky_Sports_F1_UK
-http://62.4.21.70:8000/live/akdim/akdim/68.ts
+http://62.4.21.70:8000/live/akdim/akdim/68.m3u8
 #EXTINF:-1,UK Setantasport
-http://62.4.21.70:8000/live/akdim/akdim/915.ts
+http://62.4.21.70:8000/live/akdim/akdim/915.m3u8
 #EXTINF:-1,UK ESPN
-http://62.4.21.70:8000/live/akdim/akdim/914.ts
+http://62.4.21.70:8000/live/akdim/akdim/914.m3u8
 #EXTINF:-1,UK BT Sport Europe
-http://62.4.21.70:8000/live/akdim/akdim/913.ts
+http://62.4.21.70:8000/live/akdim/akdim/913.m3u8
 #EXTINF:-1,UK BT Sport 1
-http://62.4.21.70:8000/live/akdim/akdim/911.ts
+http://62.4.21.70:8000/live/akdim/akdim/911.m3u8
 #EXTINF:-1,UK BT Sport 2
-http://62.4.21.70:8000/live/akdim/akdim/912.ts
+http://62.4.21.70:8000/live/akdim/akdim/912.m3u8
 #EXTINF:-1,UK British Muslim
-http://62.4.21.70:8000/live/akdim/akdim/916.ts
+http://62.4.21.70:8000/live/akdim/akdim/916.m3u8
 #EXTINF:-1,UK_Sky_One
-http://62.4.21.70:8000/live/akdim/akdim/69.ts
+http://62.4.21.70:8000/live/akdim/akdim/69.m3u8
 #EXTINF:-1,UK_Sky.Movies.Thriller
-http://62.4.21.70:8000/live/akdim/akdim/95.ts
+http://62.4.21.70:8000/live/akdim/akdim/95.m3u8
 #EXTINF:-1,UK_Sky.Movies.Sci-Fi.&.Horror
-http://62.4.21.70:8000/live/akdim/akdim/114.ts
+http://62.4.21.70:8000/live/akdim/akdim/114.m3u8
 #EXTINF:-1,UK_Sky.Movies.Premiere.UK
-http://62.4.21.70:8000/live/akdim/akdim/115.ts
+http://62.4.21.70:8000/live/akdim/akdim/115.m3u8
 #EXTINF:-1,UK_Sky.Movies.Modern.HD
-http://62.4.21.70:8000/live/akdim/akdim/116.ts
+http://62.4.21.70:8000/live/akdim/akdim/116.m3u8
 #EXTINF:-1,UK_Sky.Movies.Family.UK
-http://62.4.21.70:8000/live/akdim/akdim/79.ts
+http://62.4.21.70:8000/live/akdim/akdim/79.m3u8
 #EXTINF:-1,UK_Sky.Movies.Comedy.HD
-http://62.4.21.70:8000/live/akdim/akdim/118.ts
+http://62.4.21.70:8000/live/akdim/akdim/118.m3u8
 #EXTINF:-1,UK_Sky.Movies.Action.&.Adventure
-http://62.4.21.70:8000/live/akdim/akdim/119.ts
+http://62.4.21.70:8000/live/akdim/akdim/119.m3u8
 #EXTINF:-1,UK_Sky_Family_UK
-http://62.4.21.70:8000/live/akdim/akdim/121.ts
+http://62.4.21.70:8000/live/akdim/akdim/121.m3u8
 #EXTINF:-1,UK_Sky_Atlantic
-http://62.4.21.70:8000/live/akdim/akdim/70.ts
+http://62.4.21.70:8000/live/akdim/akdim/70.m3u8
 #EXTINF:-1,UK Rte One UK
-http://62.4.21.70:8000/live/akdim/akdim/88.ts
+http://62.4.21.70:8000/live/akdim/akdim/88.m3u8
 #EXTINF:-1,UK_National.Geographic.UK
-http://62.4.21.70:8000/live/akdim/akdim/102.ts
+http://62.4.21.70:8000/live/akdim/akdim/102.m3u8
 #EXTINF:-1,UK Movies-4men Uk
-http://62.4.21.70:8000/live/akdim/akdim/98.ts
+http://62.4.21.70:8000/live/akdim/akdim/98.m3u8
 #EXTINF:-1,UK_ITV_1
-http://62.4.21.70:8000/live/akdim/akdim/84.ts
+http://62.4.21.70:8000/live/akdim/akdim/84.m3u8
 #EXTINF:-1,UK_ITV_2
-http://62.4.21.70:8000/live/akdim/akdim/83.ts
+http://62.4.21.70:8000/live/akdim/akdim/83.m3u8
 #EXTINF:-1,UK_ITV_3
-http://62.4.21.70:8000/live/akdim/akdim/82.ts
+http://62.4.21.70:8000/live/akdim/akdim/82.m3u8
 #EXTINF:-1,UK_ITV_4
-http://62.4.21.70:8000/live/akdim/akdim/81.ts
+http://62.4.21.70:8000/live/akdim/akdim/81.m3u8
 #EXTINF:-1,UK Five
-http://62.4.21.70:8000/live/akdim/akdim/99.ts
+http://62.4.21.70:8000/live/akdim/akdim/99.m3u8
 #EXTINF:-1,UK_CBS_Reality_UK
-http://62.4.21.70:8000/live/akdim/akdim/78.ts
+http://62.4.21.70:8000/live/akdim/akdim/78.m3u8
 #EXTINF:-1,UK_Film4_UK
-http://62.4.21.70:8000/live/akdim/akdim/100.ts
+http://62.4.21.70:8000/live/akdim/akdim/100.m3u8
 #EXTINF:-1,UK Eurosport 1 UK
-http://62.4.21.70:8000/live/akdim/akdim/92.ts
+http://62.4.21.70:8000/live/akdim/akdim/92.m3u8
 #EXTINF:-1,UK Eurosport 2 UK
-http://62.4.21.70:8000/live/akdim/akdim/91.ts
+http://62.4.21.70:8000/live/akdim/akdim/91.m3u8
 #EXTINF:-1,UK_Discovery.Science.UK
-http://62.4.21.70:8000/live/akdim/akdim/104.ts
+http://62.4.21.70:8000/live/akdim/akdim/104.m3u8
 #EXTINF:-1,UK_DISCOVERY.HOME.&.HEALTH
-http://62.4.21.70:8000/live/akdim/akdim/123.ts
+http://62.4.21.70:8000/live/akdim/akdim/123.m3u8
 #EXTINF:-1,UK_Discovery_History_UK
-http://62.4.21.70:8000/live/akdim/akdim/124.ts
+http://62.4.21.70:8000/live/akdim/akdim/124.m3u8
 #EXTINF:-1,UK_Discovery_Channel_UK
-http://62.4.21.70:8000/live/akdim/akdim/125.ts
+http://62.4.21.70:8000/live/akdim/akdim/125.m3u8
 #EXTINF:-1,UK_cbs_reality
-http://62.4.21.70:8000/live/akdim/akdim/75.ts
+http://62.4.21.70:8000/live/akdim/akdim/75.m3u8
 #EXTINF:-1,UK Box Nation UK
-http://62.4.21.70:8000/live/akdim/akdim/94.ts
+http://62.4.21.70:8000/live/akdim/akdim/94.m3u8
 #EXTINF:-1,UK_BBC.One
-http://62.4.21.70:8000/live/akdim/akdim/130.ts
+http://62.4.21.70:8000/live/akdim/akdim/130.m3u8
 #EXTINF:-1,UK_BBC.Two
-http://62.4.21.70:8000/live/akdim/akdim/86.ts
+http://62.4.21.70:8000/live/akdim/akdim/86.m3u8
 #EXTINF:-1,UK_BBC_Three
-http://62.4.21.70:8000/live/akdim/akdim/85.ts
+http://62.4.21.70:8000/live/akdim/akdim/85.m3u8
 #EXTINF:-1,UK_BBC_Four
-http://62.4.21.70:8000/live/akdim/akdim/101.ts
+http://62.4.21.70:8000/live/akdim/akdim/101.m3u8
 #EXTINF:-1,UK_B4U_Movies
-http://62.4.21.70:8000/live/akdim/akdim/71.ts
+http://62.4.21.70:8000/live/akdim/akdim/71.m3u8
 #EXTINF:-1,UK_Animal.Planet.UK
-http://62.4.21.70:8000/live/akdim/akdim/105.ts
+http://62.4.21.70:8000/live/akdim/akdim/105.m3u8
 #EXTINF:-1,====SKY IT====
-http://62.4.21.70:8000/live/akdim/akdim/573.ts
+http://62.4.21.70:8000/live/akdim/akdim/573.m3u8
 #EXTINF:-1,====BALKAN====
-http://62.4.21.70:8000/live/akdim/akdim/1737.ts
+http://62.4.21.70:8000/live/akdim/akdim/1737.m3u8
 #EXTINF:-1,====AFRICAIN====
-http://62.4.21.70:8000/live/akdim/akdim/1736.ts
+http://62.4.21.70:8000/live/akdim/akdim/1736.m3u8
 #EXTINF:-1,RTS 1
-http://62.4.21.70:8000/live/akdim/akdim/3704.ts
+http://62.4.21.70:8000/live/akdim/akdim/3704.m3u8
 #EXTINF:-1,Tfm Senegal - African
-http://62.4.21.70:8000/live/akdim/akdim/2908.ts
+http://62.4.21.70:8000/live/akdim/akdim/2908.m3u8
 #EXTINF:-1,2 STV (Senegal) - African
-http://62.4.21.70:8000/live/akdim/akdim/2999.ts
+http://62.4.21.70:8000/live/akdim/akdim/2999.m3u8
 #EXTINF:-1,Nollywood Movies - African
-http://62.4.21.70:8000/live/akdim/akdim/2940.ts
+http://62.4.21.70:8000/live/akdim/akdim/2940.m3u8
 #EXTINF:-1,Nollywood French - African
-http://62.4.21.70:8000/live/akdim/akdim/2949.ts
+http://62.4.21.70:8000/live/akdim/akdim/2949.m3u8
 #EXTINF:-1,Nollywood - African
-http://62.4.21.70:8000/live/akdim/akdim/3034.ts
+http://62.4.21.70:8000/live/akdim/akdim/3034.m3u8
 #EXTINF:-1,Ztv (Ghana) - African
-http://62.4.21.70:8000/live/akdim/akdim/2897.ts
+http://62.4.21.70:8000/live/akdim/akdim/2897.m3u8
 #EXTINF:-1,Weo HD - African
-http://62.4.21.70:8000/live/akdim/akdim/3000.ts
+http://62.4.21.70:8000/live/akdim/akdim/3000.m3u8
 #EXTINF:-1,Universal Somalia - African
-http://62.4.21.70:8000/live/akdim/akdim/3024.ts
+http://62.4.21.70:8000/live/akdim/akdim/3024.m3u8
 #EXTINF:-1,Tvc News - African
-http://62.4.21.70:8000/live/akdim/akdim/3001.ts
+http://62.4.21.70:8000/live/akdim/akdim/3001.m3u8
 #EXTINF:-1,Tv Manaa - African
-http://62.4.21.70:8000/live/akdim/akdim/3002.ts
+http://62.4.21.70:8000/live/akdim/akdim/3002.m3u8
 #EXTINF:-1,Tv Continental Nigeria - African
-http://62.4.21.70:8000/live/akdim/akdim/3003.ts
+http://62.4.21.70:8000/live/akdim/akdim/3003.m3u8
 #EXTINF:-1,Sudan TV - African
-http://62.4.21.70:8000/live/akdim/akdim/3025.ts
+http://62.4.21.70:8000/live/akdim/akdim/3025.m3u8
 #EXTINF:-1,Somali Land TV - African
-http://62.4.21.70:8000/live/akdim/akdim/3027.ts
+http://62.4.21.70:8000/live/akdim/akdim/3027.m3u8
 #EXTINF:-1,Somali Cable - African
-http://62.4.21.70:8000/live/akdim/akdim/3028.ts
+http://62.4.21.70:8000/live/akdim/akdim/3028.m3u8
 #EXTINF:-1,Sntv Somalia - African
-http://62.4.21.70:8000/live/akdim/akdim/3029.ts
+http://62.4.21.70:8000/live/akdim/akdim/3029.m3u8
 #EXTINF:-1,Sen TV - African
-http://62.4.21.70:8000/live/akdim/akdim/2919.ts
+http://62.4.21.70:8000/live/akdim/akdim/2919.m3u8
 #EXTINF:-1,Sbc Somali TV - African
-http://62.4.21.70:8000/live/akdim/akdim/3030.ts
+http://62.4.21.70:8000/live/akdim/akdim/3030.m3u8
 #EXTINF:-1,Rwanda TV - African
-http://62.4.21.70:8000/live/akdim/akdim/2920.ts
+http://62.4.21.70:8000/live/akdim/akdim/2920.m3u8
 #EXTINF:-1,Rtv Rwanda - African
-http://62.4.21.70:8000/live/akdim/akdim/3004.ts
+http://62.4.21.70:8000/live/akdim/akdim/3004.m3u8
 #EXTINF:-1,Rti Coted - African
-http://62.4.21.70:8000/live/akdim/akdim/3031.ts
+http://62.4.21.70:8000/live/akdim/akdim/3031.m3u8
 #EXTINF:-1,Rti 2 TV (Cote d'ivoir) - African
-http://62.4.21.70:8000/live/akdim/akdim/2922.ts
+http://62.4.21.70:8000/live/akdim/akdim/2922.m3u8
 #EXTINF:-1,Rtga - African
-http://62.4.21.70:8000/live/akdim/akdim/2924.ts
+http://62.4.21.70:8000/live/akdim/akdim/2924.m3u8
 #EXTINF:-1,Rtd Djibouti - African
-http://62.4.21.70:8000/live/akdim/akdim/3032.ts
+http://62.4.21.70:8000/live/akdim/akdim/3032.m3u8
 #EXTINF:-1,Rtb - African
-http://62.4.21.70:8000/live/akdim/akdim/2926.ts
+http://62.4.21.70:8000/live/akdim/akdim/2926.m3u8
 #EXTINF:-1,Rave TV (Nigeria) - African
-http://62.4.21.70:8000/live/akdim/akdim/2930.ts
+http://62.4.21.70:8000/live/akdim/akdim/2930.m3u8
 #EXTINF:-1,Ortm TV - African
-http://62.4.21.70:8000/live/akdim/akdim/2931.ts
+http://62.4.21.70:8000/live/akdim/akdim/2931.m3u8
 #EXTINF:-1,Ntai 1 - African
-http://62.4.21.70:8000/live/akdim/akdim/3012.ts
+http://62.4.21.70:8000/live/akdim/akdim/3012.m3u8
 #EXTINF:-1,Neema TV - African
-http://62.4.21.70:8000/live/akdim/akdim/3013.ts
+http://62.4.21.70:8000/live/akdim/akdim/3013.m3u8
 #EXTINF:-1,Mourchid - African
-http://62.4.21.70:8000/live/akdim/akdim/2944.ts
+http://62.4.21.70:8000/live/akdim/akdim/2944.m3u8
 #EXTINF:-1,Maisha TV - African
-http://62.4.21.70:8000/live/akdim/akdim/2946.ts
+http://62.4.21.70:8000/live/akdim/akdim/2946.m3u8
 #EXTINF:-1,Love World Nigeria - African
-http://62.4.21.70:8000/live/akdim/akdim/3035.ts
+http://62.4.21.70:8000/live/akdim/akdim/3035.m3u8
 #EXTINF:-1,La Tele - African
-http://62.4.21.70:8000/live/akdim/akdim/3014.ts
+http://62.4.21.70:8000/live/akdim/akdim/3014.m3u8
 #EXTINF:-1,Kedu TV - African
-http://62.4.21.70:8000/live/akdim/akdim/3015.ts
+http://62.4.21.70:8000/live/akdim/akdim/3015.m3u8
 #EXTINF:-1,Kalsan TV - African
-http://62.4.21.70:8000/live/akdim/akdim/3036.ts
+http://62.4.21.70:8000/live/akdim/akdim/3036.m3u8
 #EXTINF:-1,Joy news - African
-http://62.4.21.70:8000/live/akdim/akdim/3016.ts
+http://62.4.21.70:8000/live/akdim/akdim/3016.m3u8
 #EXTINF:-1,Horn Cable TV - African
-http://62.4.21.70:8000/live/akdim/akdim/3037.ts
+http://62.4.21.70:8000/live/akdim/akdim/3037.m3u8
 #EXTINF:-1,Gtv Sports Plus (Ghana) - African
-http://62.4.21.70:8000/live/akdim/akdim/2960.ts
+http://62.4.21.70:8000/live/akdim/akdim/2960.m3u8
 #EXTINF:-1,Grts - African
-http://62.4.21.70:8000/live/akdim/akdim/2961.ts
+http://62.4.21.70:8000/live/akdim/akdim/2961.m3u8
 #EXTINF:-1,Ghana TV - African
-http://62.4.21.70:8000/live/akdim/akdim/3017.ts
+http://62.4.21.70:8000/live/akdim/akdim/3017.m3u8
 #EXTINF:-1,Fusion Plus TV - African
-http://62.4.21.70:8000/live/akdim/akdim/2966.ts
+http://62.4.21.70:8000/live/akdim/akdim/2966.m3u8
 #EXTINF:-1,Fashion - African
-http://62.4.21.70:8000/live/akdim/akdim/2967.ts
+http://62.4.21.70:8000/live/akdim/akdim/2967.m3u8
 #EXTINF:-1,Euronews - African
-http://62.4.21.70:8000/live/akdim/akdim/3007.ts
+http://62.4.21.70:8000/live/akdim/akdim/3007.m3u8
 #EXTINF:-1,Etv Eritre - African
-http://62.4.21.70:8000/live/akdim/akdim/3038.ts
+http://62.4.21.70:8000/live/akdim/akdim/3038.m3u8
 #EXTINF:-1,Eritrea TV - African
-http://62.4.21.70:8000/live/akdim/akdim/3040.ts
+http://62.4.21.70:8000/live/akdim/akdim/3040.m3u8
 #EXTINF:-1,Enorme TV - African
-http://62.4.21.70:8000/live/akdim/akdim/3008.ts
+http://62.4.21.70:8000/live/akdim/akdim/3008.m3u8
 #EXTINF:-1,Ebc TV Ethiopia - African
-http://62.4.21.70:8000/live/akdim/akdim/3041.ts
+http://62.4.21.70:8000/live/akdim/akdim/3041.m3u8
 #EXTINF:-1,Djibouti - African
-http://62.4.21.70:8000/live/akdim/akdim/3042.ts
+http://62.4.21.70:8000/live/akdim/akdim/3042.m3u8
 #EXTINF:-1,D 24 - African
-http://62.4.21.70:8000/live/akdim/akdim/3018.ts
+http://62.4.21.70:8000/live/akdim/akdim/3018.m3u8
 #EXTINF:-1,Crtv TV - African
-http://62.4.21.70:8000/live/akdim/akdim/2975.ts
+http://62.4.21.70:8000/live/akdim/akdim/2975.m3u8
 #EXTINF:-1,Cna - African
-http://62.4.21.70:8000/live/akdim/akdim/3009.ts
+http://62.4.21.70:8000/live/akdim/akdim/3009.m3u8
 #EXTINF:-1,Cinestream TV - African
-http://62.4.21.70:8000/live/akdim/akdim/2976.ts
+http://62.4.21.70:8000/live/akdim/akdim/2976.m3u8
 #EXTINF:-1,Canal Info - African
-http://62.4.21.70:8000/live/akdim/akdim/3019.ts
+http://62.4.21.70:8000/live/akdim/akdim/3019.m3u8
 #EXTINF:-1,Canal 2 Info (Cameroon) - African
-http://62.4.21.70:8000/live/akdim/akdim/3010.ts
+http://62.4.21.70:8000/live/akdim/akdim/3010.m3u8
 #EXTINF:-1,Assembla Nationale - African
-http://62.4.21.70:8000/live/akdim/akdim/3011.ts
+http://62.4.21.70:8000/live/akdim/akdim/3011.m3u8
 #EXTINF:-1,Africable TV (Mali) - African
-http://62.4.21.70:8000/live/akdim/akdim/2991.ts
+http://62.4.21.70:8000/live/akdim/akdim/2991.m3u8
 #EXTINF:-1,Africa Tv4 - African
-http://62.4.21.70:8000/live/akdim/akdim/3021.ts
+http://62.4.21.70:8000/live/akdim/akdim/3021.m3u8
 #EXTINF:-1,Africa Tv3 - African
-http://62.4.21.70:8000/live/akdim/akdim/3022.ts
+http://62.4.21.70:8000/live/akdim/akdim/3022.m3u8
 #EXTINF:-1,Africa Tv2 - African
-http://62.4.21.70:8000/live/akdim/akdim/3023.ts
+http://62.4.21.70:8000/live/akdim/akdim/3023.m3u8
 #EXTINF:-1,Africa 24 - African
-http://62.4.21.70:8000/live/akdim/akdim/3044.ts
+http://62.4.21.70:8000/live/akdim/akdim/3044.m3u8
 #EXTINF:-1,Adom TV (Ghana) - African
-http://62.4.21.70:8000/live/akdim/akdim/2995.ts
+http://62.4.21.70:8000/live/akdim/akdim/2995.m3u8
 #EXTINF:-1,AF_Nollywood_French_TV
-http://62.4.21.70:8000/live/akdim/akdim/2575.ts
+http://62.4.21.70:8000/live/akdim/akdim/2575.m3u8
 #EXTINF:-1,Ait International - African
-http://62.4.21.70:8000/live/akdim/akdim/3043.ts
+http://62.4.21.70:8000/live/akdim/akdim/3043.m3u8
 #EXTINF:-1,*-*-*-*-*SKY_ITALIA_TIVUSAT_M7*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/3905.ts
+http://62.4.21.70:8000/live/akdim/akdim/3905.m3u8
 #EXTINF:-1,RAI_1_HD
-http://62.4.21.70:8000/live/akdim/akdim/3906.ts
+http://62.4.21.70:8000/live/akdim/akdim/3906.m3u8
 #EXTINF:-1,RAI_2_HD
-http://62.4.21.70:8000/live/akdim/akdim/3907.ts
+http://62.4.21.70:8000/live/akdim/akdim/3907.m3u8
 #EXTINF:-1,RAI_3_HD
-http://62.4.21.70:8000/live/akdim/akdim/3908.ts
+http://62.4.21.70:8000/live/akdim/akdim/3908.m3u8
 #EXTINF:-1,RAI_4_HD
-http://62.4.21.70:8000/live/akdim/akdim/3909.ts
+http://62.4.21.70:8000/live/akdim/akdim/3909.m3u8
 #EXTINF:-1,RAI_5_HD
-http://62.4.21.70:8000/live/akdim/akdim/3910.ts
+http://62.4.21.70:8000/live/akdim/akdim/3910.m3u8
 #EXTINF:-1,RAI_GULP
-http://62.4.21.70:8000/live/akdim/akdim/3913.ts
+http://62.4.21.70:8000/live/akdim/akdim/3913.m3u8
 #EXTINF:-1,RAI_MOVIE
-http://62.4.21.70:8000/live/akdim/akdim/3912.ts
+http://62.4.21.70:8000/live/akdim/akdim/3912.m3u8
 #EXTINF:-1,RAI_NEWS
-http://62.4.21.70:8000/live/akdim/akdim/3911.ts
+http://62.4.21.70:8000/live/akdim/akdim/3911.m3u8
 #EXTINF:-1,RAI_PREMIUM
-http://62.4.21.70:8000/live/akdim/akdim/3947.ts
+http://62.4.21.70:8000/live/akdim/akdim/3947.m3u8
 #EXTINF:-1,RAI_SPORT_1
-http://62.4.21.70:8000/live/akdim/akdim/3915.ts
+http://62.4.21.70:8000/live/akdim/akdim/3915.m3u8
 #EXTINF:-1,RAI_SPORT_2
-http://62.4.21.70:8000/live/akdim/akdim/3916.ts
+http://62.4.21.70:8000/live/akdim/akdim/3916.m3u8
 #EXTINF:-1,RAI_yoyo
-http://62.4.21.70:8000/live/akdim/akdim/3914.ts
+http://62.4.21.70:8000/live/akdim/akdim/3914.m3u8
 #EXTINF:-1,RETE_4
-http://62.4.21.70:8000/live/akdim/akdim/3919.ts
+http://62.4.21.70:8000/live/akdim/akdim/3919.m3u8
 #EXTINF:-1,RSI_LA_1_HD
-http://62.4.21.70:8000/live/akdim/akdim/3917.ts
+http://62.4.21.70:8000/live/akdim/akdim/3917.m3u8
 #EXTINF:-1,RSI_LA_2_HD
-http://62.4.21.70:8000/live/akdim/akdim/3918.ts
+http://62.4.21.70:8000/live/akdim/akdim/3918.m3u8
 #EXTINF:-1,CANALE_5
-http://62.4.21.70:8000/live/akdim/akdim/3925.ts
+http://62.4.21.70:8000/live/akdim/akdim/3925.m3u8
 #EXTINF:-1,CARTOONITO
-http://62.4.21.70:8000/live/akdim/akdim/3964.ts
+http://62.4.21.70:8000/live/akdim/akdim/3964.m3u8
 #EXTINF:-1,CRIME_INVESTIGATION_HD
-http://62.4.21.70:8000/live/akdim/akdim/3969.ts
+http://62.4.21.70:8000/live/akdim/akdim/3969.m3u8
 #EXTINF:-1,DISCOVERY_SCIENCE
-http://62.4.21.70:8000/live/akdim/akdim/3956.ts
+http://62.4.21.70:8000/live/akdim/akdim/3956.m3u8
 #EXTINF:-1,DISCOVERY_Travel&Living
-http://62.4.21.70:8000/live/akdim/akdim/3954.ts
+http://62.4.21.70:8000/live/akdim/akdim/3954.m3u8
 #EXTINF:-1,Disney_HD
-http://62.4.21.70:8000/live/akdim/akdim/3968.ts
+http://62.4.21.70:8000/live/akdim/akdim/3968.m3u8
 #EXTINF:-1,DISNEY_XD
-http://62.4.21.70:8000/live/akdim/akdim/3967.ts
+http://62.4.21.70:8000/live/akdim/akdim/3967.m3u8
 #EXTINF:-1,DMAX_HD
-http://62.4.21.70:8000/live/akdim/akdim/3966.ts
+http://62.4.21.70:8000/live/akdim/akdim/3966.m3u8
 #EXTINF:-1,EUROSPORT_HD
-http://62.4.21.70:8000/live/akdim/akdim/3941.ts
+http://62.4.21.70:8000/live/akdim/akdim/3941.m3u8
 #EXTINF:-1,FOX_ANIMATION_HD
-http://62.4.21.70:8000/live/akdim/akdim/3965.ts
+http://62.4.21.70:8000/live/akdim/akdim/3965.m3u8
 #EXTINF:-1,FOX_HD
-http://62.4.21.70:8000/live/akdim/akdim/3962.ts
+http://62.4.21.70:8000/live/akdim/akdim/3962.m3u8
 #EXTINF:-1,FOX_LIFE_HD
-http://62.4.21.70:8000/live/akdim/akdim/3961.ts
+http://62.4.21.70:8000/live/akdim/akdim/3961.m3u8
 #EXTINF:-1,ITALIA_1_HD
-http://62.4.21.70:8000/live/akdim/akdim/3921.ts
+http://62.4.21.70:8000/live/akdim/akdim/3921.m3u8
 #EXTINF:-1,La_5
-http://62.4.21.70:8000/live/akdim/akdim/3923.ts
+http://62.4.21.70:8000/live/akdim/akdim/3923.m3u8
 #EXTINF:-1,La_7
-http://62.4.21.70:8000/live/akdim/akdim/3924.ts
+http://62.4.21.70:8000/live/akdim/akdim/3924.m3u8
 #EXTINF:-1,MILAN_CHANNEL
-http://62.4.21.70:8000/live/akdim/akdim/3940.ts
+http://62.4.21.70:8000/live/akdim/akdim/3940.m3u8
 #EXTINF:-1,NAT_GEOGRAPHIC_HD
-http://62.4.21.70:8000/live/akdim/akdim/3957.ts
+http://62.4.21.70:8000/live/akdim/akdim/3957.m3u8
 #EXTINF:-1,NATIONALGEO_PEOPLE_HD
-http://62.4.21.70:8000/live/akdim/akdim/3959.ts
+http://62.4.21.70:8000/live/akdim/akdim/3959.m3u8
 #EXTINF:-1,NATIONALGEO_WILD_HD
-http://62.4.21.70:8000/live/akdim/akdim/3958.ts
+http://62.4.21.70:8000/live/akdim/akdim/3958.m3u8
 #EXTINF:-1,Pandemic
 http://62.4.21.70:8000/movie/akdim/akdim/2591.mkv
 #EXTINF:-1,Precious Cargo
 http://62.4.21.70:8000/movie/akdim/akdim/2589.mkv
 #EXTINF:-1,*-*-*-*-*SKY_ITALIA_M7_PREMIUM*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/3980.ts
+http://62.4.21.70:8000/live/akdim/akdim/3980.m3u8
 #EXTINF:-1,PREMIUM_ACTION_24
-http://62.4.21.70:8000/live/akdim/akdim/4000.ts
+http://62.4.21.70:8000/live/akdim/akdim/4000.m3u8
 #EXTINF:-1,PREMIUM_ACTION_HD
-http://62.4.21.70:8000/live/akdim/akdim/4004.ts
+http://62.4.21.70:8000/live/akdim/akdim/4004.m3u8
 #EXTINF:-1,PREMIUM_CALCIO_1_HD
-http://62.4.21.70:8000/live/akdim/akdim/3982.ts
+http://62.4.21.70:8000/live/akdim/akdim/3982.m3u8
 #EXTINF:-1,PREMIUM_CALCIO_2_HD
-http://62.4.21.70:8000/live/akdim/akdim/3983.ts
+http://62.4.21.70:8000/live/akdim/akdim/3983.m3u8
 #EXTINF:-1,PREMIUM_CALCIO_3_HD
-http://62.4.21.70:8000/live/akdim/akdim/3984.ts
+http://62.4.21.70:8000/live/akdim/akdim/3984.m3u8
 #EXTINF:-1,PREMIUM_CALCIO_4_HD
-http://62.4.21.70:8000/live/akdim/akdim/3985.ts
+http://62.4.21.70:8000/live/akdim/akdim/3985.m3u8
 #EXTINF:-1,PREMIUM_CALCIO_5_HD
-http://62.4.21.70:8000/live/akdim/akdim/3986.ts
+http://62.4.21.70:8000/live/akdim/akdim/3986.m3u8
 #EXTINF:-1,PREMIUM_CALCIO_6_HD
-http://62.4.21.70:8000/live/akdim/akdim/3987.ts
+http://62.4.21.70:8000/live/akdim/akdim/3987.m3u8
 #EXTINF:-1,PREMIUM_CALCIO_HD
-http://62.4.21.70:8000/live/akdim/akdim/3981.ts
+http://62.4.21.70:8000/live/akdim/akdim/3981.m3u8
 #EXTINF:-1,Premium_CARTOON_NETWORK
-http://62.4.21.70:8000/live/akdim/akdim/4003.ts
+http://62.4.21.70:8000/live/akdim/akdim/4003.m3u8
 #EXTINF:-1,PREMIUM_CINEMA_2
-http://62.4.21.70:8000/live/akdim/akdim/4002.ts
+http://62.4.21.70:8000/live/akdim/akdim/4002.m3u8
 #EXTINF:-1,PREMIUM_CINEMA_24
-http://62.4.21.70:8000/live/akdim/akdim/4001.ts
+http://62.4.21.70:8000/live/akdim/akdim/4001.m3u8
 #EXTINF:-1,PREMIUM_CINEMA_ENERGY_HD
-http://62.4.21.70:8000/live/akdim/akdim/3999.ts
+http://62.4.21.70:8000/live/akdim/akdim/3999.m3u8
 #EXTINF:-1,PREMIUM_CINEMA_HD
-http://62.4.21.70:8000/live/akdim/akdim/3998.ts
+http://62.4.21.70:8000/live/akdim/akdim/3998.m3u8
 #EXTINF:-1,PREMIUM_COMEDY_HD
-http://62.4.21.70:8000/live/akdim/akdim/3997.ts
+http://62.4.21.70:8000/live/akdim/akdim/3997.m3u8
 #EXTINF:-1,Premium_Crime_24
-http://62.4.21.70:8000/live/akdim/akdim/3995.ts
+http://62.4.21.70:8000/live/akdim/akdim/3995.m3u8
 #EXTINF:-1,PREMIUM_CRIME_HD
-http://62.4.21.70:8000/live/akdim/akdim/3996.ts
+http://62.4.21.70:8000/live/akdim/akdim/3996.m3u8
 #EXTINF:-1,Premium_DISNEY_CHANNEL_HD
-http://62.4.21.70:8000/live/akdim/akdim/3992.ts
+http://62.4.21.70:8000/live/akdim/akdim/3992.m3u8
 #EXTINF:-1,Premium_Disney_Junior
-http://62.4.21.70:8000/live/akdim/akdim/3991.ts
+http://62.4.21.70:8000/live/akdim/akdim/3991.m3u8
 #EXTINF:-1,PREMIUM_EMOTION
-http://62.4.21.70:8000/live/akdim/akdim/3994.ts
+http://62.4.21.70:8000/live/akdim/akdim/3994.m3u8
 #EXTINF:-1,PREMIUM_JOI
-http://62.4.21.70:8000/live/akdim/akdim/3989.ts
+http://62.4.21.70:8000/live/akdim/akdim/3989.m3u8
 #EXTINF:-1,PREMIUM_JOY
-http://62.4.21.70:8000/live/akdim/akdim/3990.ts
+http://62.4.21.70:8000/live/akdim/akdim/3990.m3u8
 #EXTINF:-1,PREMIUM_SPORT_HD
-http://62.4.21.70:8000/live/akdim/akdim/3988.ts
+http://62.4.21.70:8000/live/akdim/akdim/3988.m3u8
 #EXTINF:-1,PREMIUM_STORIES
-http://62.4.21.70:8000/live/akdim/akdim/3960.ts
+http://62.4.21.70:8000/live/akdim/akdim/3960.m3u8
 #EXTINF:-1,Premium_STUDIO_UNIVERSAL
-http://62.4.21.70:8000/live/akdim/akdim/3993.ts
+http://62.4.21.70:8000/live/akdim/akdim/3993.m3u8
 #EXTINF:-1,*-*-*-*-*SKY_ITALIA_ENTERTAINMENT*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/3942.ts
+http://62.4.21.70:8000/live/akdim/akdim/3942.m3u8
 #EXTINF:-1,SKY_ARTE_HD
-http://62.4.21.70:8000/live/akdim/akdim/3953.ts
+http://62.4.21.70:8000/live/akdim/akdim/3953.m3u8
 #EXTINF:-1,SKY_ATLANTIC_HD
-http://62.4.21.70:8000/live/akdim/akdim/3952.ts
+http://62.4.21.70:8000/live/akdim/akdim/3952.m3u8
 #EXTINF:-1,SKY_AXN_HD
-http://62.4.21.70:8000/live/akdim/akdim/3951.ts
+http://62.4.21.70:8000/live/akdim/akdim/3951.m3u8
 #EXTINF:-1,SKY_CALCIO_1_HD
-http://62.4.21.70:8000/live/akdim/akdim/3933.ts
+http://62.4.21.70:8000/live/akdim/akdim/3933.m3u8
 #EXTINF:-1,Sky_Calcio_2_HD
-http://62.4.21.70:8000/live/akdim/akdim/3934.ts
+http://62.4.21.70:8000/live/akdim/akdim/3934.m3u8
 #EXTINF:-1,SKY_CALCIO_3_HD
-http://62.4.21.70:8000/live/akdim/akdim/3935.ts
+http://62.4.21.70:8000/live/akdim/akdim/3935.m3u8
 #EXTINF:-1,SKY_CALCIO_4_HD
-http://62.4.21.70:8000/live/akdim/akdim/3936.ts
+http://62.4.21.70:8000/live/akdim/akdim/3936.m3u8
 #EXTINF:-1,SKY_CALCIO_5_HD
-http://62.4.21.70:8000/live/akdim/akdim/3937.ts
+http://62.4.21.70:8000/live/akdim/akdim/3937.m3u8
 #EXTINF:-1,SKY_CALCIO_6_HD
-http://62.4.21.70:8000/live/akdim/akdim/3938.ts
+http://62.4.21.70:8000/live/akdim/akdim/3938.m3u8
 #EXTINF:-1,SKY_CALCIO_7_HD
-http://62.4.21.70:8000/live/akdim/akdim/3939.ts
+http://62.4.21.70:8000/live/akdim/akdim/3939.m3u8
 #EXTINF:-1,SKY_CIELO
-http://62.4.21.70:8000/live/akdim/akdim/3950.ts
+http://62.4.21.70:8000/live/akdim/akdim/3950.m3u8
 #EXTINF:-1,*-*-*-*-*SKY_ITALIA_CINEMA_HD*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/3970.ts
+http://62.4.21.70:8000/live/akdim/akdim/3970.m3u8
 #EXTINF:-1,SKY_CINEMA_1_HD
-http://62.4.21.70:8000/live/akdim/akdim/3978.ts
+http://62.4.21.70:8000/live/akdim/akdim/3978.m3u8
 #EXTINF:-1,SKY_CINEMA_24_HD
-http://62.4.21.70:8000/live/akdim/akdim/3979.ts
+http://62.4.21.70:8000/live/akdim/akdim/3979.m3u8
 #EXTINF:-1,SKY_CINEMA_CLASSICS_HD
-http://62.4.21.70:8000/live/akdim/akdim/3977.ts
+http://62.4.21.70:8000/live/akdim/akdim/3977.m3u8
 #EXTINF:-1,SKY_CINEMA_COMEDY_HD
-http://62.4.21.70:8000/live/akdim/akdim/3976.ts
+http://62.4.21.70:8000/live/akdim/akdim/3976.m3u8
 #EXTINF:-1,SKY_CINEMA_CULT_HD
-http://62.4.21.70:8000/live/akdim/akdim/3975.ts
+http://62.4.21.70:8000/live/akdim/akdim/3975.m3u8
 #EXTINF:-1,SKY_CINEMA_FAMILY_HD
-http://62.4.21.70:8000/live/akdim/akdim/3974.ts
+http://62.4.21.70:8000/live/akdim/akdim/3974.m3u8
 #EXTINF:-1,SKY_CINEMA_HITS_HD
-http://62.4.21.70:8000/live/akdim/akdim/3973.ts
+http://62.4.21.70:8000/live/akdim/akdim/3973.m3u8
 #EXTINF:-1,SKY_CINEMA_MAX_HD
-http://62.4.21.70:8000/live/akdim/akdim/3972.ts
+http://62.4.21.70:8000/live/akdim/akdim/3972.m3u8
 #EXTINF:-1,SKY_CINEMA_PASSION_HD
-http://62.4.21.70:8000/live/akdim/akdim/3971.ts
+http://62.4.21.70:8000/live/akdim/akdim/3971.m3u8
 #EXTINF:-1,SKY_FOX_COMEDY_HD
-http://62.4.21.70:8000/live/akdim/akdim/3949.ts
+http://62.4.21.70:8000/live/akdim/akdim/3949.m3u8
 #EXTINF:-1,SKY_FOX_CRIME_HD
-http://62.4.21.70:8000/live/akdim/akdim/3948.ts
+http://62.4.21.70:8000/live/akdim/akdim/3948.m3u8
 #EXTINF:-1,*-*-*-*-*SKY_ITALIA_SPORT_HD*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/3926.ts
+http://62.4.21.70:8000/live/akdim/akdim/3926.m3u8
 #EXTINF:-1,SKY_SPORT_1_HD
-http://62.4.21.70:8000/live/akdim/akdim/3927.ts
+http://62.4.21.70:8000/live/akdim/akdim/3927.m3u8
 #EXTINF:-1,SKY_SPORT_2_HD
-http://62.4.21.70:8000/live/akdim/akdim/3928.ts
+http://62.4.21.70:8000/live/akdim/akdim/3928.m3u8
 #EXTINF:-1,SKY_SPORT_24_HD
-http://62.4.21.70:8000/live/akdim/akdim/3932.ts
+http://62.4.21.70:8000/live/akdim/akdim/3932.m3u8
 #EXTINF:-1,SKY_SPORT_3_HD
-http://62.4.21.70:8000/live/akdim/akdim/3929.ts
+http://62.4.21.70:8000/live/akdim/akdim/3929.m3u8
 #EXTINF:-1,SKY_SPORT_MOTO_GP_HD
-http://62.4.21.70:8000/live/akdim/akdim/3931.ts
+http://62.4.21.70:8000/live/akdim/akdim/3931.m3u8
 #EXTINF:-1,SKY_SPORTS_F1_HD
-http://62.4.21.70:8000/live/akdim/akdim/3930.ts
+http://62.4.21.70:8000/live/akdim/akdim/3930.m3u8
 #EXTINF:-1,SKY_TG_24_HD
-http://62.4.21.70:8000/live/akdim/akdim/3946.ts
+http://62.4.21.70:8000/live/akdim/akdim/3946.m3u8
 #EXTINF:-1,SKY_UNO_HD
-http://62.4.21.70:8000/live/akdim/akdim/3945.ts
+http://62.4.21.70:8000/live/akdim/akdim/3945.m3u8
 #EXTINF:-1,SPORT_ITALIA
-http://62.4.21.70:8000/live/akdim/akdim/3920.ts
+http://62.4.21.70:8000/live/akdim/akdim/3920.m3u8
 #EXTINF:-1,*-*-*-*-*SKY_ITALIA_PRIMA_FILA*-*-*-*-*
-http://62.4.21.70:8000/live/akdim/akdim/4005.ts
+http://62.4.21.70:8000/live/akdim/akdim/4005.m3u8
 #EXTINF:-1,PRIMAFILA_1_HD
-http://62.4.21.70:8000/live/akdim/akdim/4006.ts
+http://62.4.21.70:8000/live/akdim/akdim/4006.m3u8
 #EXTINF:-1,PRIMAFILA_2_HD
-http://62.4.21.70:8000/live/akdim/akdim/4007.ts
+http://62.4.21.70:8000/live/akdim/akdim/4007.m3u8
 #EXTINF:-1,PRIMAFILA_3_HD
-http://62.4.21.70:8000/live/akdim/akdim/4008.ts
+http://62.4.21.70:8000/live/akdim/akdim/4008.m3u8
 #EXTINF:-1,PRIMAFILA_4_HD
-http://62.4.21.70:8000/live/akdim/akdim/4009.ts
+http://62.4.21.70:8000/live/akdim/akdim/4009.m3u8
 #EXTINF:-1,PRIMAFILA_5_HD
-http://62.4.21.70:8000/live/akdim/akdim/4010.ts
+http://62.4.21.70:8000/live/akdim/akdim/4010.m3u8
 #EXTINF:-1,PRIMAFILA_6_HD
-http://62.4.21.70:8000/live/akdim/akdim/4011.ts
+http://62.4.21.70:8000/live/akdim/akdim/4011.m3u8
 #EXTINF:-1,PRIMAFILA_7_HD
-http://62.4.21.70:8000/live/akdim/akdim/4012.ts
+http://62.4.21.70:8000/live/akdim/akdim/4012.m3u8
 #EXTINF:-1,PRIMAFILA_8_HD
-http://62.4.21.70:8000/live/akdim/akdim/4013.ts
+http://62.4.21.70:8000/live/akdim/akdim/4013.m3u8
 #EXTINF:-1,PRIMAFILA_9_HD
-http://62.4.21.70:8000/live/akdim/akdim/4014.ts
+http://62.4.21.70:8000/live/akdim/akdim/4014.m3u8
 #EXTINF:-1,PRIMAFILA_10_HD
-http://62.4.21.70:8000/live/akdim/akdim/4015.ts
+http://62.4.21.70:8000/live/akdim/akdim/4015.m3u8
 #EXTINF:-1,PRIMAFILA_11_HD
-http://62.4.21.70:8000/live/akdim/akdim/4016.ts
+http://62.4.21.70:8000/live/akdim/akdim/4016.m3u8
 #EXTINF:-1,PRIMAFILA_12_HD
-http://62.4.21.70:8000/live/akdim/akdim/4017.ts
+http://62.4.21.70:8000/live/akdim/akdim/4017.m3u8
 #EXTINF:-1,PRIMAFILA_13_HD
-http://62.4.21.70:8000/live/akdim/akdim/4018.ts
+http://62.4.21.70:8000/live/akdim/akdim/4018.m3u8
 #EXTINF:-1,PRIMAFILA_14_HD
-http://62.4.21.70:8000/live/akdim/akdim/4019.ts
+http://62.4.21.70:8000/live/akdim/akdim/4019.m3u8
 #EXTINF:-1,PRIMAFILA_15_HD
-http://62.4.21.70:8000/live/akdim/akdim/4020.ts
+http://62.4.21.70:8000/live/akdim/akdim/4020.m3u8
 #EXTINF:-1,PRIMAFILA_16_HD
-http://62.4.21.70:8000/live/akdim/akdim/4021.ts
+http://62.4.21.70:8000/live/akdim/akdim/4021.m3u8
 #EXTINF:-1,Prémonitions
 http://62.4.21.70:8000/movie/akdim/akdim/2786.mkv
 #EXTINF:-1,Les Huit salopards
